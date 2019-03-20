@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100345.html
+    [article] => 100345
+    [partnumber] => fresh 260
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox fresh 260
+    [price] => 5072
+    [price_small] => 3786
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox fresh 260 применяется для обеспечения стабильной работы видеокамеры, эксплуатируемой в условиях улицы. Благодаря прочности металлического корпуса и высокому классу защиты от пыли и влаги IP66, видеооборудование полностью защищено от атмосферных явлений и механических повреждений.</p>
+<p>Нагревательный элемент, поддерживающий необходимую температуру в сильные морозы, расположен вблизи смотрового окна, что позволяет избежать его запотевания. Включение и отключение нагревателя осуществляется автоматически за счет встроенного биметаллического терморегулятора.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -25 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100345
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => fresh 260
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100345.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100345/6455fdda2160a3a990db1c5d28fe6b29.jpg
+                    [alt] => Защитный кожух Wizebox fresh 260
+                    [name] => 6455fdda2160a3a990db1c5d28fe6b29.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,73 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125565.html
+    [article] => 125565
+    [partnumber] => VER 900 до 10м (2
+    [category] => 
+    [brand] => 
+    [name] => 
+    [price] => 12150
+    [price_small] => 
+    [currency] => 
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект CAME VER 900 нужен для автоматического открытия гаражных ворот. Он относится к приводам потолочного типа и имеет бытовое назначение. Преимуществом изделия выступает простота монтажа: направляющие могут устанавливаться сразу после доставки.</p>
+<p>Система поддерживает широкий спектр функций. В частности, она определяет начало открывания ворот, сигнализирует о возникновении препятствий.</p>
+<p>Питание к электрическим элементам поставляется от аккумулятора на 24 В, есть возможность установки резервного блока. Для управления используется брелок-передатчик, поставляющийся в комплекте.</p>
+<p>Комплект совместим с воротами высотой до 2.25 м.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125565
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VER 900 до 10м (2,25м)
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125565.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125565/4a0727de041ad94e248b50407db7eb4e.jpg
+                    [alt] => Комплект CAME VER 900 до 10м (2,25м)
+                    [name] => 4a0727de041ad94e248b50407db7eb4e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

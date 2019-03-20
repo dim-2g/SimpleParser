@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134695.html
+    [article] => 134695
+    [partnumber] => CMA015
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Teleste
+    [name] => Кожух Teleste CMA015
+    [price] => 11151
+    [price_small] => 9557
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Teleste CMA015 – прочная конструкция, предназначенная для монтажа оптоволоконного модуля. Она обеспечивает надежную фиксацию пяти оконечных устройств. Питание подается с помощью винтового зажима, расположенного в верхней части корпуса. Для изготовления конструкции используется листовая оцинкованная сталь, устойчивая к возникновению коррозии.</p>
+<p>На стенках располагаются вентиляционные отверстия, обеспечивающие непрерывную циркуляцию воздуха и предупреждающие перегрев внутренних узлов. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134695
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CMA015
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Teleste
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134695.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134695/e7186a6cb08f14d0e8c7231673a883c4.jpg
+                    [alt] => Кожух Teleste CMA015
+                    [name] => e7186a6cb08f14d0e8c7231673a883c4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

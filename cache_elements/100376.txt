@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100376.html
+    [article] => 100376
+    [partnumber] => LS260
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox LS260
+    [price] => 6874
+    [price_small] => 5131
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox LS260 используется совместно со стандартными видеокамерами, оснащенными сменным объективом. Конструкция изготавливается из прочного алюминия, выдерживающего воздействие атмосферных осадков и механические удары. Герметичные прокладки предупреждают попадание грязи и пыли.</p>
+<p>Биметаллическое термореле обеспечивает автоматическое включение и отключение нагревателя. Этот элемент поддерживает постоянную температуру внутри корпуса. При достижении критически низких температур система перестает работать для предупреждения почти камеры. Подключение кабелей осуществляется через специальные вводы.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100376
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => LS260
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100376.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100376/1ab5ab865eba5d5bd146427dfcc21822.jpg
+                    [alt] => Защитный кожух Wizebox LS260
+                    [name] => 1ab5ab865eba5d5bd146427dfcc21822.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

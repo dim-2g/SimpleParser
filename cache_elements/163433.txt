@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163433.html
+    [article] => 163433
+    [partnumber] => PNOffice-08
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Программный комплекс Parsec PNOffice-08
+    [price] => 6811
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Программный комплекс Parsec PNOffice-08 с поддержкой контроллеров доступа серии NC. Поддержка до 8 точек прохода. В состав лицензии входят функция фотоверификации, менеджер заданий, работа с IP-камерами и два рабочих места (базовая станция + дополнительное рабочее место PNOffice-WS), отчёт УРВ "Посещения за месяц".</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163433
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNOffice-08
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163433.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163433/793de35f22a63aab3a7beb4659b2a0ab.jpg
+                    [alt] => Программный комплекс Parsec PNOffice-08
+                    [name] => 793de35f22a63aab3a7beb4659b2a0ab.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

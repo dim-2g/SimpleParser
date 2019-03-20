@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124925.html
+    [article] => 124925
+    [partnumber] => HTG37K1A000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HTG37K1A000
+    [price] => 80844
+    [price_small] => 100759
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HTG37K1A000 – прочная конструкция, внутри которой размещается оборудование для скрытой съемки на предприятиях. Она защищает камеру от негативного воздействия среды, позволяет эксплуатировать устройства в меняющихся климатических условиях.</p>
+<p>Вверху корпуса располагается козырек, на передней стенке находится окошко из германиевого стекла, сквозь которое обеспечивается хороший обзор. Конструкция оснащена встроенным обогревателем, благодаря чему повышается ее устойчивость к резким скачкам температур. Для поддержиания заряда применяется блок питания камеры.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124925
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HTG37K1A000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124925.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124925/0fa2ac42db232539c503589898d3104d.jpg
+                    [alt] => Корпус VIDEOTEC HTG37K1A000
+                    [name] => 0fa2ac42db232539c503589898d3104d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

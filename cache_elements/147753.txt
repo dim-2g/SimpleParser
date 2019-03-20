@@ -1,0 +1,94 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/147753.html
+    [article] => 147753
+    [partnumber] => SNCA-HRX550EXT/W
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Sony
+    [name] => Кожух Sony SNCA-HRX550EXT/W
+    [price] => 54133
+    [price_small] => 67260
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух для наружной установки купольной камеры (беспроводной).</p>    <p>Sony SNCA-HRX550EXT/W - кожух для беспроводной поворотной камеры, предназначенный для наружной установки</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Купольный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -29 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 147753
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SNCA-HRX550EXT/W
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Sony
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/147753.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/147753/137614b103ba60f63b7f2dc7ca9954e7.jpg
+                    [alt] => Кожух Sony SNCA-HRX550EXT/W
+                    [name] => 137614b103ba60f63b7f2dc7ca9954e7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

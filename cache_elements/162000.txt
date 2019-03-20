@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162000.html
+    [article] => 162000
+    [partnumber] => SVS26-42V-mbsc25
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox SVS26-42V-mbsc25 с кронштейном
+    [price] => 9675
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox SVS26-42V-mbsc25 с кронштейном универсальный. Он позволяет устанавливать оборудование в условиях критически низких температур и при регулярном негативном воздействии атмосферных осадков. Смотровое окошко изготавливается из полированного стекла с просветлением, предупреждающего возникновение визуальных искажений.</p>
+<p>Герметизирующие прокладки не дают влаге попасть внутри конструкции. Для подачи питания к обогревателю и камере используются кабельные вводы. Козырек защищает от ультрафиолетовых лучей и снижает вероятность появления бликов в кадре.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -52 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162000
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS26-42V-mbsc25
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162000.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162000/48967626de1db465e9f667f184634aa8.jpg
+                    [alt] => Термокожух Wizebox SVS26-42V-mbsc25 с кронштейном
+                    [name] => 48967626de1db465e9f667f184634aa8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

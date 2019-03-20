@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/168163.html
+    [article] => 168163
+    [partnumber] => JA-186JW
+    [category] => Радиоканальные системы безопасности
+    [brand] => Jablotron
+    [name] => Брелок Jablotron JA-186JW
+    [price] => 1907
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Брелок Jablotron JA-186JW разработан для дистанционной постановки/снятия с охраны, передачи сигнала паники, а также для управления другими устройствами. Поставляется также 2-х кнопочная версия корпуса. </p>
+<p>Пользователь имеет возможность управления различными устройствами, например, системой охраны и дверьми гаража. Предусмотрена функция блокировки кнопок. Простая процедура позволяет заблокировать брелок для защиты от несанкционированного нажатия кнопок.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 168163
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => JA-186JW
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Jablotron
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/168163.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/168163/a61f951eb19d7ef5044b17269a798a18.jpg
+                    [alt] => Брелок Jablotron JA-186JW
+                    [name] => a61f951eb19d7ef5044b17269a798a18.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

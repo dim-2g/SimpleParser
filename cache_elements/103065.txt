@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/103065.html
+    [article] => 103065
+    [partnumber] => STH-1230S
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Smartec
+    [name] => Термокожух Smartec STH-1230S
+    [price] => 5756
+    [price_small] => 5481
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Smartec STH-1230S – металлическая конструкция, размещаемая поверх скрытых камер и позволяющая эксплуатировать их в тяжелых климатических условиях. Поддержание постоянной температуры внутри корпуса обеспечивается за счет встроенного обогревателя, питающегося по PoE-кабелю.</p>
+<p>Доступ к оборудованию обеспечивается за счет откидывающейся верхней крышки кожуха. Передняя часть оснащена прозрачным окошком для защиты объектива, а солнцезащитный козырек предупреждает возникновение бликов в кадре. Проводка кабелей осуществляется сквозь кронштейн, где располагается клеммная колодка.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 103065
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => STH-1230S
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/103065.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/103065/cdf24642b8a8be92aa2587d961dc64f6.jpg
+                    [alt] => Термокожух Smartec STH-1230S
+                    [name] => cdf24642b8a8be92aa2587d961dc64f6.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125532.html
+    [article] => 125532
+    [partnumber] => PSSRV1
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Светофор CAME PSSRV1
+    [price] => 5200
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Светофор Came PSSRV1. Служит для регулирования движения и проезда транспортных средств через шлагбаум.</p><p>2 лампы и линзы красного и зеленого цветов, которые могут быть заменены на другие цвета при необходимости.</p><p>Тип цоколя ламп - Е27.</p><p>Регулировка корпуса по горизонтали на угол 200° с дискретностью 3°.</p><p>Высокопрочный алюминиевый корпус черного цвета легко вписывается в интерьер здания и других сооружений.</p><p>Высокий уровень защиты по электробезопасности допускает монтаж на открытой местности.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125532
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PSSRV1
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125532.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125532/751dddc1536f5717fd6747104867ebda.jpg
+                    [alt] => Светофор CAME PSSRV1
+                    [name] => 751dddc1536f5717fd6747104867ebda.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

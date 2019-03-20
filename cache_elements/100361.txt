@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100361.html
+    [article] => 100361
+    [partnumber] => EL320
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox EL320
+    [price] => 6131
+    [price_small] => 4576
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox EL320 нужен для защиты скрытых камер от негативного воздействия среды. Внутри него поддерживается постоянная температура, что позволяет эксплуатировать устройства при сильных морозах. Герметичная конструкция устойчива к попаданию жидкости, частиц пыли и грязи. Помехоподавляющий фильтр гарантирует стабильность подачи энергии. Кабели питания проводятся через специальные вводы в корпусе.</p>
+<p>Большой внутренний объем позволяет размещать разные модели камер, отличающиеся габаритами. Для изготовления корпуса берется алюминий, который выдерживает попадание жидкости и прямое воздействие солнечных лучей.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100361
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EL320
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100361.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100361/41ae52ac59555f71300f1aa5d59fae7e.jpg
+                    [alt] => Защитный кожух Wizebox EL320
+                    [name] => 41ae52ac59555f71300f1aa5d59fae7e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

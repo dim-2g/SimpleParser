@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125314.html
+    [article] => 125314
+    [partnumber] => 001C010
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Редуктор CAME 001C010
+    [price] => 3984
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Редуктор цепной Came 001C010 ручной для приводов (при высоте ворот не более 5 м).</p><p>Для секционных ворот CAME.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125314
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001C010
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125314.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125314/152e1294d15741d01ebf10749511811f.jpg
+                    [alt] => Редуктор CAME 001C010
+                    [name] => 152e1294d15741d01ebf10749511811f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,82 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/140819.html
+    [article] => 140819
+    [partnumber] => WEX40-24V-08
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WEX40-24V-08
+    [price] => 122608
+    [price_small] => 110933
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух предназначен для защиты телекамер систем видеонаблюдения с фиксированным, вариообъективом или трансфокатором от неблагоприятных воздействий окружающей среды в условиях взрыво- и пожароопасных зон внутри и вне помещений.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -60 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 140819
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WEX40-24V-08
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/140819.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/140819/4ff7b731f3703fcb433a7b2c90179c6b.jpg
+                    [alt] => Термокожух Wizebox WEX40-24V-08
+                    [name] => 4ff7b731f3703fcb433a7b2c90179c6b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

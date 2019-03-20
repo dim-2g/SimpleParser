@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162020.html
+    [article] => 162020
+    [partnumber] => WCH32 T
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WCH32 T
+    [price] => 100577
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox WCH32 T – усиленная конструкция, разработанная для размещения на предприятиях. Она позволяет устанавливать камеры в тяжелых условиях: при резких перепадах температур, воздействии агрессивных сред и угрозе взрыва.</p>
+<p>Цилиндрический корпус сделан з нержавеющей стали. В передней части располагается смотровое окошко из ударопрочного стекла. Внутри располагается встроенный источник питания, поддерживающий несколько значений напряжения. Функция блокировки аварийного режима отключает камеру при сильном нагревании устройства. Для установки используется кронштейн, поставляющийся в комплекте.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162020
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WCH32 T
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162020.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162020/1efcebce49073579f22b925fbeacccee.jpg
+                    [alt] => Термокожух Wizebox WCH32 T
+                    [name] => 1efcebce49073579f22b925fbeacccee.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

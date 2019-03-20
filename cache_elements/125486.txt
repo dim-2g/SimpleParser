@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125486.html
+    [article] => 125486
+    [partnumber] => 002LB180
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Плата CAME 002LB180
+    [price] => 6224
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Плата аварийного питания Came 002LB180.</p><p>Совместима с блоком управления Came 002ZL180 для серии ATI, АХО, FAST 24B (используется аккумулятор РВ 12-1,2 в кол-ве 2 шт).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125486
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 002LB180
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125486.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125486/13977992cdbf47d0aef95b6785e9acc7.jpg
+                    [alt] => Плата CAME 002LB180
+                    [name] => 13977992cdbf47d0aef95b6785e9acc7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

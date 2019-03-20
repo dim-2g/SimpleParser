@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/166928.html
+    [article] => 166928
+    [partnumber] => DS-PI-D40/FM
+    [category] => Извещатели охранные
+    [brand] => HikVision
+    [name] => Оптический извещатель HikVision DS-PI-D40/FM
+    [price] => 10341
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Оптический извещатель HikVision DS-PI-D40/FM используется на крупных объектах, нуждающихся в повышении уровня безопасности. Основным преимуществом модели является наличие 4 каналов СН, которые могут настраиваться между приёмником и передатчиком, позволяя избежать некорректной работы датчиков.</p>
+<p>Двухлучевой фотоэлектрический модуль отличается простотой монтажа, как на ровную поверхность, так и на стойку. Дальность действия ИК-излучателя составляет 40 метров. Благодаря защите от всепогодных условий и широкому диапазону рабочих температур, устройство отлично подходит для эксплуатации в условиях улицы.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 166928
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => DS-PI-D40/FM
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => HikVision
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/166928.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/166928/baad3ff09d2f9230df21da89e4944d4b.jpg
+                    [alt] => Оптический извещатель HikVision DS-PI-D40/FM
+                    [name] => baad3ff09d2f9230df21da89e4944d4b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

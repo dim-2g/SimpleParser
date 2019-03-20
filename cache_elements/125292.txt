@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125292.html
+    [article] => 125292
+    [partnumber] => 001ARK2
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Барьер CAME 001ARK2
+    [price] => 9592
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Барьер CAME 001ARK2 - большой парковочный модуль к UNIP (вместо ARK1). </p>
+<p>Инновационная идея, позволяющая зарезервировать парковочное место с помощью радиоуправления.  Работа от аккумуляторов платы аварийного питания при кратковременном отключении электропитания. Изделие имеет простое и функциональное крепежное основание. Безопасность гарантирована с помощью системы защиты, обнаруживающей препятствия управляющей работой системы. </p>
+<p>Напряжение электропитания 230В, напряжение электропитания двигателя - 24В. Макс. ток - 1,7А. Мощность 20Вт. Время полного открывания - 10сек. Класс защиты IP54, рабочая температура -20 +50С. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125292
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001ARK2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125292.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125292/33597c09ede3f59c08c51d44f7ca258a.jpg
+                    [alt] => Барьер CAME 001ARK2
+                    [name] => 33597c09ede3f59c08c51d44f7ca258a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

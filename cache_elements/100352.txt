@@ -1,0 +1,101 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100352.html
+    [article] => 100352
+    [partnumber] => ELS210
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox ELS210
+    [price] => 4185
+    [price_small] => 3123
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox ELS210 предназначен для защиты компактных телекамер от негативного воздействия факторов окружающей среды. Благодаря герметичности корпуса и наличию пенополипропиленовых прокладок, размещения камеры возможно в местах, где температура может достигать -10 °С.</p>
+<p>Также исключается возможность проникновения внутрь бокса пыли и воды, направленной под сильной струей. Специальное полированное стекло обеспечивает хороший обзор без оптических искажений, что положительно сказывается на качестве получаемого изображения. Гальваническая развязка по питанию гарантирует стабильность энергоснабжения используемой камеры.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100352
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ELS210
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100352.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100352/191641dd6c99d42382bc313836645257.jpg
+                    [alt] => Защитный кожух Wizebox ELS210
+                    [name] => 191641dd6c99d42382bc313836645257.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

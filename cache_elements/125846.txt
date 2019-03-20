@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125846.html
+    [article] => 125846
+    [partnumber] => 43
+    [category] => 
+    [brand] => 
+    [name] => 
+    [price] => 61600
+    [price_small] => 
+    [currency] => 
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Приемник пропусков OMA-43.606 разработан для использования в составе автоматической системы контроля доступа. Данное устройства изготовлено из нержавеющей стали и имеет общеклиматическое исполнение, что свидетельствует о готовности эксплуатации внутри помещения.</p>
+<p>Встроенный индикатор упрощает визуальный контроль работы оборудования, а большая емкость бункера позволяет осуществлять прием до 150 электронных карт без необходимости в их извлечении из накопителя.</p>
+<p>Предусмотрена возможность установки бесконтактного считывателя и дополнительных датчиков, что повышает уровень мобильности пропускного пункта.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125846
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 43.606
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => OMA
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125846.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125846/3ea123c8d46bcc5ad86b68ccd9d84f9a.jpg
+                    [alt] => Приемник пропусков OMA 43.606
+                    [name] => 3ea123c8d46bcc5ad86b68ccd9d84f9a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

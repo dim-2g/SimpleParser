@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100354.html
+    [article] => 100354
+    [partnumber] => E260
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Корпус термокожуха Wizebox E260
+    [price] => 5121
+    [price_small] => 3822
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox E260 используется для защиты камер видеонаблюдения с фиксированными или вариофокальными объективами. Термокожух Wizebox E260 предназначен для установки внутри помещений. Рабочая температура термокожуха Wizebox E260 составляет от -10 до +40°С.</p>  <p>Класс защиты кожуха E260 соответствует IP66, что позволяет полностью защитить установленную в кожухе камеру видеонаблюдения от пыли, а так же защитить от водяных струй с любых направлений.</p>  <p>Особенности термокожуха Wizebox E260:</p>  <ul><li>покрытый полиэфирной краской алюминиевый корпус;</li>  <li>протестированный рабочий диапазон температур окружающей среды, гр. С: -10...+40C;</li>  <li>нагревательный элемент расположен под стеклом;</li>  <li>класс защиты от воздействий окружающей среды IP66 - полная защита от пыли, защита от водяных струй с любых направлений;</li>  <li>гальваническая трансформаторная развязка по питанию, встроенный источник питания телекамеры;</li>  <li>герметизирующие прокладки изготовлены из пенопропилена;</li>  <li>комплект крепежа выполнен из оцинкованной стали;</li>  <li>кабельные вводы из полиамида.</li>  </ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100354
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => E260
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100354.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100354/b37aab098ba5d33c120e8658cc71eace.jpg
+                    [alt] => Корпус термокожуха Wizebox E260
+                    [name] => b37aab098ba5d33c120e8658cc71eace.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

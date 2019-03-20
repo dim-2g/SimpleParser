@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154273.html
+    [article] => 154273
+    [partnumber] => PNSoft-AR
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль Parsec PNSoft-AR
+    [price] => 10217
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Parsec PNSoft-AR - модуль учет рабочего времени анализирует данные, связанные с персоналом предприятия: количество отработанных часов, приход, опоздание и прочее, с возможностью создания так называемых "бизнес - отчетов". В данной версии формы отчетности максимально приближены к существующим в России стандартам и рекомендациям, в первую очередь это относится к табелю учета рабочего времени за месяц, который формируется в формате формы Т-13.</p>  <p>Представленный модуль дает возможность осуществлять контроль рабочего времени, а также получать достоверную информацию для табеля УРВ в том случае, если сотрудник находится в рабочее время на территории предприятия. В случае если он находится в командировке, на больничном и прочее, то результаты, выводимые модулем учет рабочего времени в месячный табель, отличаются от истины и малопригодны, например, для начисления заработной платы.</p>  <p>Модуль поправок к рабочему времени дает возможность исправить данную ситуацию - он создан для ручного ввода возможных отклонений, которые учитываются системой при формировании табеля учета рабочего времени.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154273
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-AR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154273.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154273/36a02d0dffa290709647cd4bfb8441fd.jpg
+                    [alt] => Модуль Parsec PNSoft-AR
+                    [name] => 36a02d0dffa290709647cd4bfb8441fd.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

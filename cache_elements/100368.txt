@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100368.html
+    [article] => 100368
+    [partnumber] => L210-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox L210-24V
+    [price] => 4962
+    [price_small] => 3704
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox L210-24V – аксессуар для скрытых камер. Конструкция позволяет размещать устройства в тяжелых климатических условиях. Встроенный обогреватель обеспечивает поддержание постоянной температуры внутри корпуса. Рабочий диапазон температур составляет от -30 до +40 С. При аномально сильных морозах система автоматически отключает систему.</p>
+<p>Подключение к системе осуществляется через кабельный ввод в корпусе. В корпусе предусмотрено смотровое окошко из ударопрочного стекла, обеспечивающее получение резких кадров. Козырек предупреждает возникновение бликов в кадре и попадание осадков.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100368
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => L210-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100368.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100368/b2198f30f6571f6c8b0fce7c0f49aa32.jpg
+                    [alt] => Защитный кожух Wizebox L210-24V
+                    [name] => b2198f30f6571f6c8b0fce7c0f49aa32.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

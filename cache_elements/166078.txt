@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/166078.html
+    [article] => 166078
+    [partnumber] => MX-D15-Vandal-ESMA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Mobotix
+    [name] => Антивандальный кожух Mobotix MX-D15-Vandal-ESMA
+    [price] => 14672
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Антивандальный кожух Mobotix MX-D15-Vandal-ESMA для камер серии D15 из нержавеющей стали, матовая сталь, с защитными винтами. Заменяет стандартное кольцо корпуса PIR и ослабление звука (при необходимости используйте ExtIO). Повышает рейтинг защиты камеры от IP54 до IP66 и купола IK10 с усиленным куполом (3 мм). Не подходит для моделей Pano и DNight-Fix.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 166078
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MX-D15-Vandal-ESMA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Mobotix
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/166078.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/166078/263c2830f2b99eed4e38033624a83354.jpg
+                    [alt] => Антивандальный кожух Mobotix MX-D15-Vandal-ESMA
+                    [name] => 263c2830f2b99eed4e38033624a83354.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

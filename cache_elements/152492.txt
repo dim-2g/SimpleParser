@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/152492.html
+    [article] => 152492
+    [partnumber] => EWR2
+    [category] => GSM мониторинг
+    [brand] => Eldes
+    [name] => Ретранслятор Eldes EWR2
+    [price] => 5429
+    [price_small] => 6371
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Ретранслятор Eldes EWR2 требуется для увеличения дальности сигнала, передаваемыми от беспроводных устройства к охранным пунктам. Благодаря использованию прибора преодолеваемое расстояние достигает до 150 метров. Для информирования об успешной транспортировке информации используются встроенные LED-светодиоды.</p>
+<p>Действие модели распространяется на две проводные зоны, она позволяет подключать до 32 аксессуаров. Цифровой вход используется для присоединения до 8 датчиков температуры. В комплекте поставляется резервная батарея, способная работать до 48 часов без подзарядки.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 152492
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EWR2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Eldes
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/152492.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/152492/e82fb5073bc9b79a21fde1ab410c618d.jpg
+                    [alt] => Ретранслятор Eldes EWR2
+                    [name] => e82fb5073bc9b79a21fde1ab410c618d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

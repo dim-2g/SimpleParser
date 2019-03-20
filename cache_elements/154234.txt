@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154234.html
+    [article] => 154234
+    [partnumber] => NMO-04
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Расширитель Parsec NMO-04
+    [price] => 1226
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Релейный расширитель NMO-04 предназначен для увеличения количества релейных выходов у охранного контроллера AC-08. Количество исполнительных устройства (лампочки, сирены и т. д.), подключаемых к контроллеру, ограничено 4, а использование релейного расширителя позволяет увеличить это количество до 8.</p>  <h3>Особенности Parsec NMO-04:</h3>  <p>Релейный расширитель NMO-04 выполнен на печатной плате без корпуса. Такая конструкция подразумевает подключение непосредственно к плате охранного контроллера.</p>  <p>Питание релейного расширителя осуществляется от платы охранного контроллера и не требует никаких дополнительных подключений.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154234
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NMO-04
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154234.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154234/04b5b628540c5b23f1bcc021cc30f8d5.jpg
+                    [alt] => Расширитель Parsec NMO-04
+                    [name] => 04b5b628540c5b23f1bcc021cc30f8d5.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

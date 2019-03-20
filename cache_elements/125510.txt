@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125510.html
+    [article] => 125510
+    [partnumber] => 009CCT
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Цепь CAME 009CCT
+    [price] => 3136
+    [price_small] => 59
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Цепь для откатных ворот Came 009CCT. Диаметр 2 дюйма, длина 5 метров. Совместима с цепной передачей Came 001B4353.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125510
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 009CCT
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125510.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125510/1a0d10ebec08cc470068affe80c711d4.jpg
+                    [alt] => Цепь CAME 009CCT
+                    [name] => 1a0d10ebec08cc470068affe80c711d4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

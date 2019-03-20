@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162010.html
+    [article] => 162010
+    [partnumber] => THM32-IR
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox THM32-IR
+    [price] => 195644
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox THM32-IR нужен для уличной установки тепловизоров. Конструкция подходит для эксплуатации в условиях сурового морского климата. Она выдерживает воздействие обильных атмосферных осадков и агрессивных сред. Модель совместима с камерами, снимающими на фиксирующий объектив. Для поддержания постоянного температурного режима используется встроенный обогреватель.</p>
+<p>Кожух сделан из нержавеющих металлов. Его герметичность гарантируют прокладки из авиационной резины, которой не страшно воздействие кислот и щелочей. Напротив объектива располагается прозрачное смотровое окошко, гарантирующее получение резких и четких изображений.водяных струй любой направленности).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162010
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => THM32-IR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162010.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162010/19cc460f27dadbb92c6ba18bd7d996dc.jpg
+                    [alt] => Термокожух Wizebox THM32-IR
+                    [name] => 19cc460f27dadbb92c6ba18bd7d996dc.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

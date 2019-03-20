@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135282.html
+    [article] => 135282
+    [partnumber] => GCK-03
+    [category] => Дополнительное оборудование СКУД
+    [brand] => Rosslare
+    [name] => Комплект Rosslare GCK-03
+    [price] => 32399
+    [price_small] => 31976
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект Rosslare GCK-03 представляет собой эргономичный и функциональный набор дополнительного оборудования, которое устанавливается с целью расширения возможностей уже существующей системы охранного патрулирования. С помощью надежных и простых в обращении приборов можно заметно упростить управление системой, повысить ее надежность и безопасность.</p>
+<p>Набор включает в себя кобуру, благодаря которой его транспортировка становится еще более комфортной. Дополнительное оборудование позволит обеспечить полный контроль за работниками охранной службы и усилить дистанционный контроль за объектом.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135282
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => GCK-03
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135282.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135282/8029e6dde2d2bc4aea9b0a0a4b5043b5.jpg
+                    [alt] => Комплект Rosslare GCK-03
+                    [name] => 8029e6dde2d2bc4aea9b0a0a4b5043b5.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

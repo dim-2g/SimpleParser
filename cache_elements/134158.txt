@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134158.html
+    [article] => 134158
+    [partnumber] => ТГБ-4Г-24/12
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Тахион
+    [name] => Гермобокс Тахион ТГБ-4Г-24/12
+    [price] => 44493
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Гермобокс Тахион ТГБ-4Г-24/12 используется в охранных системах для обеспечения безопасной работы видеокамер или других приборов, размещенных в условиях повышенной вероятности образования взрывоопасных смесей. Также он защищает встроенное оборудование от попадания пыли и влаги по классу IP66, что позволяет использовать его в условиях улицы.</p>
+<p>Встроенный обогреватель оснащён 2 режимами работы, что позволяет регулировать мощность обогрева в зависимости от особенностей климатических зон. Солнцезащитный козырек уберегает камеру от засветки, а термореле автоматически отключает ее питание, если уровень температуры внутри бокса превысил 70 °C.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134158
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ТГБ-4Г-24/12
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Тахион
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134158.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134158/50a4f26c1487828b4d23dd75bf3c715e.jpg
+                    [alt] => Гермобокс Тахион ТГБ-4Г-24/12
+                    [name] => 50a4f26c1487828b4d23dd75bf3c715e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

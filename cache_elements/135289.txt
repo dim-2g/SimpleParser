@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135289.html
+    [article] => 135289
+    [partnumber] => SA-22
+    [category] => Приёмно-контрольные приборы
+    [brand] => Rosslare
+    [name] => Приемник Rosslare SA-22
+    [price] => 5756
+    [price_small] => 6330
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Приемник Rosslare SA-22 - компактный и при этом надежный однокнопочный передатчик, работающий на канале связи частотой в 433.92 МГц в широком диапазоне температур окружающей среды. Модель оснащена релейными выходами на 8 каналов. Прибор отличается наличием светодиодного индикатора, информирующего об уровне заряда батареи и системой защиты от случайного нажатия кнопки.</p>
+<p>Аппарат позволяет подключить к нему 32 различных устройства. Агрегат прост в управлении - управление пунктами меню происходит с корпуса устройства. Кроме того, модель имеет встроенную память на 50 заданных пользователем событий.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135289
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-22
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135289.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135289/5750a20a1087d73107eda66075986635.jpg
+                    [alt] => Приемник Rosslare SA-22
+                    [name] => 5750a20a1087d73107eda66075986635.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

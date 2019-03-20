@@ -1,0 +1,78 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/164164.html
+    [article] => 164164
+    [partnumber] => ИО 329-17 Сонар
+    [category] => Извещатели охранные
+    [brand] => Сибирский Арсенал
+    [name] => Датчик разбития стекла Сонар Сибирский Арсенал
+    [price] => 540
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Датчик разбития стекла Сонар – это надежное решение для магазинов, офисов и других предприятий, посылающее сигнал тревоги к подключенному контроллеру, при разбитии окна, витрины или другой стеклянной конструкции.</p>  <p>Для точности работы прибора предусмотрено 4 уровня чувствительности. Также устройства имеет встроенный тампер, исключающий возможность несанкционированного вскрытия корпуса.</p>  <p>Наличие светодиодной индикации упрощает визуальный контроль над работой оборудования, но для скрытого монтажа ее можно отключить. Дальность действия модели может варьироваться от 1 до 6 метров, в зависимости от выбранного режима работы. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 164164
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ИО 329-17 Сонар
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Сибирский Арсенал
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164164.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164164/dc083ffa466d3cc3fee59a6422b8eea3.jpg
+                    [alt] => Датчик разбития стекла Сонар Сибирский Арсенал
+                    [name] => dc083ffa466d3cc3fee59a6422b8eea3.jpg
+                )
+
+            [1] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164164_2.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164164/c8488aa8bc025294332db1496930c4a4.jpg
+                    [alt] => Датчик разбития стекла Сонар сбоку
+                    [name] => c8488aa8bc025294332db1496930c4a4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

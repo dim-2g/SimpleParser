@@ -1,0 +1,90 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/108383.html
+    [article] => 108383
+    [partnumber] => BX-80NR
+    [category] => Технические средства охраны периметра
+    [brand] => Optex
+    [name] => Извещатель Optex BX-80NR
+    [price] => 13839
+    [price_small] => 15270
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Optex BX-80NR - всепогодный извещатель охранный ("штора" 24м - узкий угол) оптико-электронный пассивный, микропроцессорный, два пироэлемента, "сухие контакты " - н.з./н.о. реле, со встроенной сиреной.</p>
+<p>С возможностью автономного питания от батарейки (3-9В пост., 10мкА). Передача тревожных сообщений может осуществляться как проводным (Н.З./Н.О.), так и беспроводным способом (батарея и передатчик не входят в комплект поставки). Рабочая температура -20°С.</p>
+<p>Иизвещатель разработан специально для защиты фасадов зданий, его стильный дизайн прекрасно гармонирует с любой архитектурой.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Охранный
+                )
+
+            [Тип монтажа] => Core\Option Object
+                (
+                    [name] => Тип монтажа
+                    [value] => Беспроводной
+                )
+
+            [Потребление тока] => Core\Option Object
+                (
+                    [name] => Потребление тока
+                    [value] => 0,03 А
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 108383
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => BX-80NR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optex
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/108383.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/108383/a74791cfad545a2bd0fa7b42db16a2ab.jpg
+                    [alt] => Извещатель Optex BX-80NR
+                    [name] => a74791cfad545a2bd0fa7b42db16a2ab.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/200035.html
+    [article] => 200035
+    [partnumber] => Relay
+    [category] => Сетевые СКУД
+    [brand] => Gate
+    [name] => Плата Gate Relay релейная
+    [price] => 917
+    [price_small] => 1210
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Плата Gate-Relay релейная - данная продукция используется в типовом варианте контроллера от компании Gate, с возможностью удобного программирования опции контроллера FreeLogic. Продуманны вырезы в данной модели для удобного доступа к ее управлению.</p>
+<p>Встроено в модель 6 реле и 4 светодиода. Конструкция устройства позволяет производить простую и интуитивно-понятную установку. Представленная продукция надежна в работе и соответствует необходимому стандарту качества от производителя.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 200035
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => Relay
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Gate
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/200035.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/200035/1de428ad94d9d6acacdb4d0613d832f0.jpg
+                    [alt] => Плата Gate Relay релейная
+                    [name] => 1de428ad94d9d6acacdb4d0613d832f0.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

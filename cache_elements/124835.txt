@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124835.html
+    [article] => 124835
+    [partnumber] => HOT39D1A000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC HOT39D1A000
+    [price] => 3888
+    [price_small] => 3778
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC HOT39D1A000 – защитный корпус, устанавливаемый поверх поворотных камер. Он предупреждает порчу устройства при эксплуатации в условии агрессивных сред и резких перепадов температур. Передняя часть оснащена прозрачным окошком для объектива, а наверху располагается козырек, снижающий негативное воздействие атмосферных осадков.</p>
+<p>Кожух оснащен встроенным обогревателем и работает от блока питания камеры. Верхняя часть корпуса откидывается, за счет чего упрощается доступ к оборудованию и компонентам системы. В комплекте поставляется настенный кронштейн с каналом для проводки кабеля.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124835
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HOT39D1A000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124835.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124835/9f55620052c6087155a1dc4424d18cd1.jpg
+                    [alt] => Термокожух VIDEOTEC HOT39D1A000
+                    [name] => 9f55620052c6087155a1dc4424d18cd1.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125326.html
+    [article] => 125326
+    [partnumber] => 001CSSN
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Стойка CAME 001CSSN
+    [price] => 2440
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Стойка Came CSSN. Из анодированного алюминия черного цвета.</p><p>Используется для надежного монтажа клавиатуры управления, фотоэлементов, ключа-выключателя, считывателя врезным способом и служит для уличного применения.</p><p>Высота стойки - 1 м.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125326
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001CSSN
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125326.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125326/4c8c1e085a02427dd09e661c40d243e0.jpg
+                    [alt] => Стойка CAME 001CSSN
+                    [name] => 4c8c1e085a02427dd09e661c40d243e0.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159149.html
+    [article] => 159149
+    [partnumber] => UHO-HBPS-51
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHO-HBPS-51
+    [price] => 18696
+    [price_small] => 19181
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух BOSCH UHO-HBPS-51 нужен для защиты камер скрытого наблюдения. Конструкция устанавливается поверх оборудования, позволяя эксплуатировать его в сложных климатических условиях. В лицевой части располагается прозрачное окошко для объектива, сквозь которое достигается получение четкого и резкого изображения. Также стеклянная перегородка защищает оптику от попадания капель жидкости.</p>
+<p>Для изготовления кожуха используется ударопрочный алюминиевый сплав, устойчивый к возникновению коррозии. Герметичная конструкция содержит обогреватель, благодаря чему камера может эксплуатировать при резких перепадах температур. Защита от осадков достигается за счет использования козырька.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159149
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHO-HBPS-51
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159149.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159149/22784734599d5560cdf0f0c50d509e1b.jpg
+                    [alt] => Кожух BOSCH UHO-HBPS-51
+                    [name] => 22784734599d5560cdf0f0c50d509e1b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

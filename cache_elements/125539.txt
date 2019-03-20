@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125539.html
+    [article] => 125539
+    [partnumber] => FERNI 1000
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME FERNI 1000
+    [price] => 37040
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект для распашных ворот CAME FERNI1000 2 шт.+БУ ZF1.Рычажные, 800 кг, 4 м, интенсивность 50%. 220В,18 сек.</p><p>Серия приводов Ferni — это специальная автоматика, разработанная для распашных ворот больших размеров.</p><p>Благодаря особому передающему рычагу Ferni быстро и эффективно устраняет все проблемы, связанные с движением ворот, обеспечивая тем самым равномерную, плавную и безопасную работу системы.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125539
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => FERNI 1000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125539.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125539/98893bd1f8f7455079495b50ab8c3c57.jpg
+                    [alt] => Комплект CAME FERNI 1000
+                    [name] => 98893bd1f8f7455079495b50ab8c3c57.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

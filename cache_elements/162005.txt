@@ -1,0 +1,112 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162005.html
+    [article] => 162005
+    [partnumber] => WHE26-12V-mbsc25
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WHE26-12V-mbsc25 с кронштейном
+    [price] => 13386
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox WHE26-12V-mbsc25 с кронштейном с фиксированным или вариообъективом от неблагоприятных воздействий окружающей среды в условиях умеренного климата.</p>
+<h3>Особенности:</h3>
+<ol>
+<li>Входное напряжение: =9..18В</li>
+<li>Надежное и своевременное включение и выключение нагревателя при помощи оптореле и электронного термодатчика</li>
+<li>Гальваническая трансформаторная развязка по питанию, встроенный источник питания телекамеры</li>
+<li>Все крепежные изделия изготовлены из нержавеющей стали</li>
+<li>Мощность нагревателей распределена в непосредственной близости от смотрового стекла</li>
+<li>Герметизирующие прокладки изготовлены из Армлена</li>
+<li>Уникально низкое энергопотребление</li>
+<li>Кронштейн с полускрытым каналом</li>
+<li>Возможна покраска в любой цвет по шкале RAL</li>
+</ol>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [Кронштейн в комплекте] => Core\Option Object
+                (
+                    [name] => Кронштейн в комплекте
+                    [value] => Есть
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162005
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WHE26-12V-mbsc25
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162005.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162005/b440a4a7f6a4f75f42dbb4a81280e48d.jpg
+                    [alt] => Термокожух Wizebox WHE26-12V-mbsc25 с кронштейном
+                    [name] => b440a4a7f6a4f75f42dbb4a81280e48d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

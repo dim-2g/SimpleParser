@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159459.html
+    [article] => 159459
+    [partnumber] => SSEHX4E
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => PELCO
+    [name] => Козырек PELCO SSEHX4E
+    [price] => 11317
+    [price_small] => 14552
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Козырек PELCO SSEHX4E является отдельным элементом и может использоваться вместе с термокожухами того же производителя. Он имеет полукруглую форму и прекрасно подойдет для затенения объектива видеокамеры и защитит его от случайных бликов. Благодаря специальным фиксаторам, он легко устанавливается и так же просто снимается при необходимости.</p>
+<p>Козырек сделан из современных, надежных и экологически безопасных материалов. Он достаточно прочный и рассчитан на длительный срок эксплуатации. Кроме защиты от бликов, козырек предотвращает перегрев кожуха и соответственно установленного внутри оборудования.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159459
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SSEHX4E
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => PELCO
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159459.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159459/2e11f6433ba5727285d21d47e7736750.jpg
+                    [alt] => Козырек PELCO SSEHX4E
+                    [name] => 2e11f6433ba5727285d21d47e7736750.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/168077.html
+    [article] => 168077
+    [partnumber] => JA-112I
+    [category] => Радиоканальные системы безопасности
+    [brand] => Jablotron
+    [name] => Индикатор Jablotron JA-112I
+    [price] => 1614
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Индикатор Jablotron JA-112I информирует о состоянии раздела или PG-выхода (1–128) включением красного светодиода. Он подключен к оборудованию управления и индикации через шину.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 168077
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => JA-112I
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Jablotron
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/168077.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/168077/2e615a73128bf7342b96b2277ef3596f.jpg
+                    [alt] => Индикатор Jablotron JA-112I
+                    [name] => 2e615a73128bf7342b96b2277ef3596f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

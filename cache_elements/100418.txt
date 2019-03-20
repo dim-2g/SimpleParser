@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100418.html
+    [article] => 100418
+    [partnumber] => SV26P-03/04NR
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SV26P-03/04NR
+    [price] => 18943
+    [price_small] => 17139
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Wizebox SV26P-03/04NR – защитный кожух, совместимый со стандартными камерами. Он позволяет устанавливать устройства на улице и в условиях агрессивных сред на предприятиях. Внутри конструкции установлен автоматический обогреватель, который равномерно распределяет тепло. Рабочий диапазон температур составляет от -65 до +40 С.</p>
+<p>Данные с камер передаются по витой паре на расстояние до 1500 м. Действует защиты от высокоимпульсных скачком тока, перепадов напряжения. Подается питание 220 или 24 В. Конструкция изготовлена из нержавеющего алюминия, выдерживающего воздействие кислот, щелочей, атмосферных осадков.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100418
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SV26P-03/04NR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100418.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100418/016d97ca574bcce81c3204119fdbb505.jpg
+                    [alt] => Защитный кожух Wizebox SV26P-03/04NR
+                    [name] => 016d97ca574bcce81c3204119fdbb505.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

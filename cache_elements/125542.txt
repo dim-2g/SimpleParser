@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125542.html
+    [article] => 125542
+    [partnumber] => FROG
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME FROG
+    [price] => 61168
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект CAME FROG 2 шт.+БУ ZA3. Подземный. 800 кг, 3.5 м, Интенсивность 30%, 230 В.</p><p>Автоматика Frog представляет собой синтез проектной философии и творческого вдохновения Came, нашедших свое применение в системах распашных ворот.</p><p>Чрезвычайно прочный и практически незаметный привод прекрасно вписывается в архитектурный ансамбль и превосходно подстраивается под любой тип ворот, в том числе, общественного пользования.</p><p>Высокоэффективная автоматика Frog не боится времени!</p><p>Электромеханический привод и, в частности, его новая версия Frog-AE ~230В в комплекте с энкодером, придает небывалую плавность ходу ворот и делает работу системы надежной и безопасной, даже в условиях интенсивного режима эксплуатации.</p><p>Прочная и износостойкая конструкция, отсутствие необходимости в техническом обслуживании – все это свойственно новому приводу Frog, выпускаемому со специальным монтажным основанием из стали с антикоррозионным покрытием (Frog-BN).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125542
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => FROG
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125542.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125542/4b58094878f30d02686ee55c7563f982.jpg
+                    [alt] => Комплект CAME FROG
+                    [name] => 4b58094878f30d02686ee55c7563f982.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

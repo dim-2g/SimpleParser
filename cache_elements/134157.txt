@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134157.html
+    [article] => 134157
+    [partnumber] => ТГБ-4Г-220/12
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Тахион
+    [name] => Гермобокс Тахион ТГБ-4Г-220/12
+    [price] => 46562
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Гермобокс Тахион ТГБ-4Г-220/12 предназначен для обеспечения безопасной работы видеокамеры, ИК-прожектора или другого электронного оборудования. Благодаря высокому уровню защиты от пыли и влаги IP66, модель уберегает установленное устройство от внешних факторов окружающей среды.</p>
+<p>Наличие нагревательного элемента и солнцезащитного козырька позволяет проводить монтаж в уличных условиях. Преимуществом изделия является обзорное окно, выполненное из прочного каленого стекла, что с учетом взрывонепроницаемого исполнения позволяет использовать бокс на предприятиях, где повышен риск образования взрывоопасных газов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134157
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ТГБ-4Г-220/12
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Тахион
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134157.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134157/a7a5188eae5186a79d33862aff90d52b.jpg
+                    [alt] => Гермобокс Тахион ТГБ-4Г-220/12
+                    [name] => a7a5188eae5186a79d33862aff90d52b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

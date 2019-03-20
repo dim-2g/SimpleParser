@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125341.html
+    [article] => 125341
+    [partnumber] => 001DIR-PN
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Стойка CAME 001DIR-PN
+    [price] => 775
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Стойка Came DIR-PN. Предназначена для совместного использования с фотоэлементами серии DIR и служит для качественного и надежного монтажа датчиков путем наращивания основной стойки DIR LN.</p><p>Материал, из которого изготовлена стойка, пригоден для использования в агрессивных средах при любых погодных условиях.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125341
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001DIR-PN
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125341.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125341/0b61640c14a88e10da3be1e306ccb308.jpg
+                    [alt] => Стойка CAME 001DIR-PN
+                    [name] => 0b61640c14a88e10da3be1e306ccb308.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

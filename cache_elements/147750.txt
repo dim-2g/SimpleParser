@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/147750.html
+    [article] => 147750
+    [partnumber] => SNCA-HRX550/INT
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Sony
+    [name] => Кожух Sony SNCA-HRX550/INT
+    [price] => 28018
+    [price_small] => 34810
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Sony SNCA-HRX550/INT – защитная конструкция, устанавливаемая поверх купольных видеокамер. Она предупреждает порчу оборудования из-за негативного воздействия среды. Кожух совместим с устройствами серии SNC-RX550P, SNC-RX530P, SNC-RX570P, SNC-RZ25N, SNC-RS44/46P, SNC-RH124, характеризуется простотой установки.</p>
+<p>Для изготовления корпуса берутся прочные сплавы, устойчивые к возникновению коррозии. В нижней части конструкции располагается стеклянная полусфера для объектива, обеспечивающая хорошую видимость и получение четких кадров. Кабельный ввод гарантирует скрытую прокладку шнура, по которому подается питание для камеры.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Купольный
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Белый
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 147750
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SNCA-HRX550/INT
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Sony
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/147750.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/147750/2842ff4d11745c340fcf23eca6961ba1.jpg
+                    [alt] => Кожух Sony SNCA-HRX550/INT
+                    [name] => 2842ff4d11745c340fcf23eca6961ba1.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

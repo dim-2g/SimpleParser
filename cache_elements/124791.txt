@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124791.html
+    [article] => 124791
+    [partnumber] => NTM1K1000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC NTM1K1000
+    [price] => 142174
+    [price_small] => 177810
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC NTM1K1000 предназначен для защиты и компактной установки IP-видеокамер. Он разработан специально для наружного размещения в условиях агрессивного воздействия окружающей среды. Универсальные габариты конструкции делают ее совместимой с большинством устройства. Передняя часть корпуса оснащена солнцезащитным козырьком, предупреждающим появление бликов в кадре.</p>
+<p>Для обеспечения хорошей видимости переднее окошко изготавливается из просветленного германиевого стекла. Внутри кожуха размещается обогреватель, подключение которого осуществляется через кабельные разъемы в корпусе.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124791
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NTM1K1000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124791.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124791/c57cdbecc5bb7ae52b94986bd9b825ee.jpg
+                    [alt] => Термокожух VIDEOTEC NTM1K1000
+                    [name] => c57cdbecc5bb7ae52b94986bd9b825ee.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

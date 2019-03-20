@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125499.html
+    [article] => 125499
+    [partnumber] => 002ZL170N
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Блок управления CAME 002ZL170N
+    [price] => 7840
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Блок управления Came 002ZL170N для одного привода с питанием двигателя 24В.</p><p>Совместим с приводами 24 В Came  FERNI, EMEGA, FROG, FAST, ATI.</p><p>Функции: автоматическое закрывание, обнаружение препятствий, облегчение открывания электрозамка, присутствие оператора, выбор команд пошагового управления, регулировка скорости автоматического закрывания и времени работы.</p><p>Выход 2-го радиоканала, возможность подключения электрозамка.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125499
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 002ZL170N
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125499.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125499/66a55c5f1bc0571d2a968e1f926f7d88.jpg
+                    [alt] => Блок управления CAME 002ZL170N
+                    [name] => 66a55c5f1bc0571d2a968e1f926f7d88.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

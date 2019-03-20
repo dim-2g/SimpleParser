@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/164250.html
+    [article] => 164250
+    [partnumber] => STH-6230DL-PSU2
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Smartec
+    [name] => Термокожух Smartec STH-6230DL-PSU2
+    [price] => 28843
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Smartec STH-6230DL-PSU2 предназначен для эксплуатации при экстремально низких температурах вплоть до -70°С и имеет максимальный уровень климатической защиты IP68.</p>
+<p>Важной отличительной особенностью наличие 7 встроенных обогревателей, шесть из которых подогревают внутреннее пространство кожуха и обеспечивают работу телекамеры в условиях низких температур (до -70°С), а седьмой специальный интегрированный в стекло кожуха обогреватель предотвращает запотевание и обмерзание стекла при неблагоприятных погодных условиях.</p>
+<p>Помимо этого реализована функция блокировки холодного старта устанавливаемой внутри камеры при долговременном нахождении кожуха в выключенном состоянии при особо низких температурах.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 164250
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => STH-6230DL-PSU2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164250.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164250/41cb6eb65b6e58ae16be36ba6fc0980c.jpg
+                    [alt] => Термокожух Smartec STH-6230DL-PSU2
+                    [name] => 41cb6eb65b6e58ae16be36ba6fc0980c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

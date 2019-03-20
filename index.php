@@ -11,6 +11,7 @@ $article = 125549;
 if (!empty($argv[1])) {
     $article = $argv[1];
 }
+
 $parser = new SimpleParser();
 $page = $parser->parseOnePageByArticle($article);
 

@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124781.html
+    [article] => 124781
+    [partnumber] => NXM1K1050
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC NXM1K1050
+    [price] => 74095
+    [price_small] => 73346
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух VIDEOTEC NXM1K1050 – универсальная конструкция для установки скрытых IP-видеокамер. Она предназначена для наружной установки и может эксплуатироваться в особо тяжелых условиях. Внутри может размещаться обогреватель для поддержиания постоянной температуры, а расположенный в передней части корпуса козырек предупреждает снижение видимости из-за попадания капель жидкости или грязи.</p>
+<p>Для защиты объектива используется прозрачное окошко, обеспечивающее получение четких и резких кадров. Кабели и шнуры проводятся через специальные входы, расположенные на корпусе.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124781
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NXM1K1050
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124781.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124781/94e85d614ff6343d946c611d36961822.jpg
+                    [alt] => Кожух VIDEOTEC NXM1K1050
+                    [name] => 94e85d614ff6343d946c611d36961822.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

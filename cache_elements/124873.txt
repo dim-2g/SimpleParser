@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124873.html
+    [article] => 124873
+    [partnumber] => HTV32K2A000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC HTV32K2A000
+    [price] => 76369
+    [price_small] => 94832
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC HTV32K2A000 применяется в системах видеонаблюдения для защиты используемого тепловизора от воздействия погодных условий. Благодаря универсальному исполнению корпуса с откидной крышкой, пользователь имеет быстрый доступ к установленному оборудованию.</p>
+<p>Окошко для обзора выполнено из германия, являющегося прозрачным для инфракрасного излучения, что в сумме с высоким коэффициентом преломления света, позволяет сохранить уровень действия ИК-подсветки. Наличие солнцезащитного козырька упрощает монтажную процедуру кожуха в условиях улицы, а возможность опциональной установки тампера исключает вероятность несанкционированного доступа.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124873
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HTV32K2A000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124873.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124873/c8292826c19402e29e82a366241f3572.jpg
+                    [alt] => Термокожух VIDEOTEC HTV32K2A000
+                    [name] => c8292826c19402e29e82a366241f3572.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

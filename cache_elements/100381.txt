@@ -1,0 +1,101 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100381.html
+    [article] => 100381
+    [partnumber] => LS320
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox LS320
+    [price] => 7429
+    [price_small] => 5545
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox LS320 предупреждает порчу скрытой камеры из-за негативного воздействия среды. Конструкция предусматривает встроенный нагревательный элемент, управляемый с помощью реле. Система автоматически включается и отключается при достижении пороговых значений температуры.</p>
+<p>Стабилизатор питания обеспечивает стабильность подачи энергии. Его напряжение составляет 12 или 24 В. Подключение к сети осуществляется через кабельный ввод, расположенный в конструкции. Для изготовления конструкции берется алюминиевый сплав. Окошко сделано из прочного германиевого стекла.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100381
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => LS320
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100381.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100381/879822cd680348a6ee4738e5915f8c84.jpg
+                    [alt] => Защитный кожух Wizebox LS320
+                    [name] => 879822cd680348a6ee4738e5915f8c84.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100355.html
+    [article] => 100355
+    [partnumber] => EL260
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox EL260
+    [price] => 5446
+    [price_small] => 4065
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox EL260 разработан для размещения стандартных телекамер в условиях, не предназначенных для их эксплуатации. Его установка возможна внутри или снаружи помещения при помощи специального кронштейна, способного выдерживать нагрузки до 50 кг.</p>
+<p>Корпус изготовлен из литого алюминия, что в сумме с наличием гермовводов для кабелей и герметизирующих прокладок, обеспечивает защиту видеокамеры от пыли и струй воды разной направленности. Встроенный помехоподавляющий фильтр предотвращает вероятность нарушения работоспособности видеооборудования по причине образования искажений и шумов в цепи питания.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100355
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EL260
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100355.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100355/ec75f8dbefab8c6e70cb89d416ad53ed.jpg
+                    [alt] => Защитный кожух Wizebox EL260
+                    [name] => ec75f8dbefab8c6e70cb89d416ad53ed.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

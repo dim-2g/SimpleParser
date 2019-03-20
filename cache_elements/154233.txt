@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154233.html
+    [article] => 154233
+    [partnumber] => NMI-08
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Расширитель Parsec NMI-08
+    [price] => 1226
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>NMI-08 создан для охранных контроллеров типа AC-08 для увеличения количества датчиков охраны, подключаемых напрямую к контроллерам. Возможности Parsec NMI-08 позволяют увеличить ограниченное до 8 экземпляров количество охранных датчиков ровно в два раза. Данный расширитель не рассчитан для монтажа на улице, так как его рабочие температуры от 0 до +55°C. Для Parsec NMI-08 наиболее оптимальными являются условия с плюсовой температурой и влажностью без конденсата от 0 до 95 %.</p>  <p>NMI-08 рассчитан на напряжение, которое соответствует показателям от 9 до 16 В постоянного тока, 20 мА. Представленный расширитель - это высококачественный современный продукт, который выполняет все свои функции на должном уровне без неполадок и нежелательных сбоев в работе, обеспечивая долговечную работу контроллеров типа AC-08.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154233
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NMI-08
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154233.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154233/db74b62fce04ad06938460b0a6f890a6.jpg
+                    [alt] => Расширитель Parsec NMI-08
+                    [name] => db74b62fce04ad06938460b0a6f890a6.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124907.html
+    [article] => 124907
+    [partnumber] => HEG37K1A074
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HEG37K1A074
+    [price] => 15919
+    [price_small] => 14817
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HEG37K1A074 представляет собой герметичную конструкцию, созданную для защиты сетевых видеокамер. Модель стандарта IP66 способна уберечь устройства от воздействия пыли, влаги и иных погодных явлений. Кожух снабжен солнцезащитным козырьком, дополнительно оборудован двойным обогревателем и вентиляционной системой.</p>
+<p>Выполнено изделие из качественного алюминия с нестандартным рельефом на лицевой панели. Благодаря плоской поверхности, на термокожух можно монтировать стеклоочиститель без необходимости использования дополнительного стекла. Камера легко и быстро устанавливается за счет специального запорного механизма.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124907
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEG37K1A074
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124907.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124907/e3ecd9e1c7d99b16de2fa9cc96629d02.jpg
+                    [alt] => Корпус VIDEOTEC HEG37K1A074
+                    [name] => e3ecd9e1c7d99b16de2fa9cc96629d02.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

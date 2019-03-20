@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124805.html
+    [article] => 124805
+    [partnumber] => NXW0K1025
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC NXW0K1025
+    [price] => 134691
+    [price_small] => 133357
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>VIDEOTEC NXW0K1025 – кожух с жидкостным охлаждением, предназначенный для размещения в условиях постоянного воздействия особо агрессивных сред. Он используется для защиты камер скрытого наблюдения и устанавливается поверх них. Корпус оснащен кабельными выходами для подключения обогревателя и блока питания, в передней части находится воздушный барьер для фильтрации частиц грязи.</p>
+<p>Каждая деталь корпуса сделана из электрополированной стали с антикоррозийным покрытием, которой не страшно попадание жидкости и внешние механические удары. Кожух совместим с поворотными механизмами, благодаря чему камера не только надежно фиксируется, но и может вращаться вокруг своей оси.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66/IP67
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124805
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NXW0K1025
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124805.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124805/116ecd4af293f642579595ee69ba11bb.jpg
+                    [alt] => Кожух VIDEOTEC NXW0K1025
+                    [name] => 116ecd4af293f642579595ee69ba11bb.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

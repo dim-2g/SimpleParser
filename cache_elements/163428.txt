@@ -1,0 +1,74 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163428.html
+    [article] => 163428
+    [partnumber] => CNC-14-IP
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Ethernet–шлюз CNC-14-IP
+    [price] => 20842
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Ethernet–шлюз Parsec CNC-14-IP предназначен для работы в составе системы контроля доступа ParsecNET и позволяет объединять территориально удаленные сегменты системы по сети Ethernet. 
+
+Шлюз поддерживает четыре линии RS-485, на каждую из которых может подключаться до 24 контроллеров. Каждая линия снабжена индивидуальной гальваноразвязкой от основной схемы шлюза. 
+
+Новая версия устройства поддерживает работу в системах ParsecNET 2.5, ParsecNET 3 и ParsecNET Office и имеет следующие улучшения:</p>  <ul><li>Существенно увеличена скорость обмена данными с контроллерами и как следствие общая скорость работы системы,</li>  <li>Поддержка сети Ethernet 10/100 Mb, с автоматическим распознаванием,</li>  <li>При работе с системой ParsecNET 3 расширена возможность диагностики внештатных ситуаций,</li>  <li>При установке оборудования и настройке системы в 10 раз увеличена скорость сканирования линии,</li>  <li>Реализована возможность визуальной диагностики состояния линии,</li>  <li>Для повышения стабильности работы установлен дополнительный сторожевой таймер Watchdog. </li>  </ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163428
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CNC-14-IP
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163428.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163428/72c49da0a4492c39e4286d172bffcccd.jpg
+                    [alt] => Ethernet–шлюз CNC-14-IP
+                    [name] => 72c49da0a4492c39e4286d172bffcccd.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

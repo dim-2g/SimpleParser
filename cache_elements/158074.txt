@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158074.html
+    [article] => 158074
+    [partnumber] => THP 2020 A
+    [category] => Дополнительное оборудование СКУД
+    [brand] => BOSCH
+    [name] => Термопринтер BOSCH THP 2020 A
+    [price] => 138961
+    [price_small] => 146363
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термопринтер THP 2020 A поставляется в корпусе для установки в раму. Он подсоединен к интерфейсу S20 коммуникационного модуля IOS 0020 A. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158074
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => THP 2020 A
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158074.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158074/db06985497a8000bfb2a5ff76092ebe9.jpg
+                    [alt] => Термопринтер BOSCH THP 2020 A
+                    [name] => db06985497a8000bfb2a5ff76092ebe9.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

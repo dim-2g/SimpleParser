@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154288.html
+    [article] => 154288
+    [partnumber] => PNSoft-16
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Программное обеспечение Parsec PNSoft-16
+    [price] => 20433
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Программное обеспечение Parsec PNSoft-16 представляет собой платформу СКУД ParsecNET 3 на 16 точек прохода. Решение может иметь территориально-распределенную структуру и интегрироваться с другими системами безопасности – видео, ОПС, охраны периметра.</p>
+<p>Модуль PNSoft-16 относится к линейке программных решений ParsecNET версии 3, посредством которых можно централизованно управлять несколькими удаленными охранными комплексами. В случае сетевых сбоев выполняется автоматическое переключение соответствующего комплекса в автономный режим, а при восстановлении связи накопленная в локальной базе информация оперативно передается на центральный сервер.</p>
+<p>Высокую безопасность решений ParsecNET версии 3 обеспечивает многоуровневая система защиты доступа к настройкам и базе данных.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154288
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-16
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154288.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154288/cc33ca8832bfd46106620cec624ab573.jpg
+                    [alt] => Программное обеспечение Parsec PNSoft-16
+                    [name] => cc33ca8832bfd46106620cec624ab573.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

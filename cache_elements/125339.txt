@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125339.html
+    [article] => 125339
+    [partnumber] => 001DIR30
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Фотоэлемент CAME 001DIR30
+    [price] => 3136
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Фотоэлементы Came DIR30. Функционируют по технологии инфракрасных лучей с синхронизацией между собой и широко применяются в системах автоматики ворот и шлагбаумов.</p><p>Устойчиво функционирует в условиях различного рода помех и гарантирует бесперебойную работу в любых погодных условиях.</p><p>Комплект фотоэлементов используется для защиты от возможного удара по проезжающему объекту при несвоевременной подаче команды на закрытие шлагбаума.</p><p>Между передатчиком и приёмником генерируется инфракрасный луч, который фиксирует наличие проезжающего автомобиля. При его обнаружении фотоэлемент выдаст запрещающий сигнал на опускание стрелы до или во время движения с возвратом в исходное положение.</p><p>Наибольшая эффективность в работе достигается путем выноса фотоэлементов на расстояние от 0,5 метра до 1 метра от тумбы шлагбаума во внешнюю или внутреннюю сторону контролируемого проезда.</p><p>DIR 30 монтируются в стойку DIR L или непосредственно в тумбу шлагбаума. Материал корпуса - поликарбонат, ABS. Степень защиты - IP54.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125339
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001DIR30
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125339.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125339/a038fabed52ce9e90fc6aeb0f140106d.jpg
+                    [alt] => Фотоэлемент CAME 001DIR30
+                    [name] => a038fabed52ce9e90fc6aeb0f140106d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

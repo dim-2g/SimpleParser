@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163468.html
+    [article] => 163468
+    [partnumber] => MS-200
+    [category] => Извещатели охранные
+    [brand] => Optimus
+    [name] => Датчик Optimus MS-200 беспроводной
+    [price] => 565
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Датчик Optimus MS-200 беспроводной размещается в составе охранных систем и предупреждает несанкционированное проникновение на территорию предприятия. Устройство устанавливается на дверях, окнах и других поверхностях, управляется одной кнопкой, расположенной на передней панели.</p>
+<p>Прибор делается из ударопрочного пластика, устойчивого к внешнему механическому воздействию и резким скачками температуры. Дальность связи устройства составляет около 100 метров при непосредственной видимости компонентов. Питание осуществляется от батареи на 12 В, поставляющейся в комплекте.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163468
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MS-200
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optimus
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163468.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163468/249021857722637cbc4f469f5ec4e4cb.jpg
+                    [alt] => Датчик Optimus MS-200 беспроводной
+                    [name] => 249021857722637cbc4f469f5ec4e4cb.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

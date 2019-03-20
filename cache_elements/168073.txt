@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/168073.html
+    [article] => 168073
+    [partnumber] => JA-192Y
+    [category] => Радиоканальные системы безопасности
+    [brand] => Jablotron
+    [name] => GSM/GPRS коммуникатор Jablotron JA-192Y
+    [price] => 10197
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>GSM/GPRS коммуникатор Jablotron JA-192Y - модуль GSM-коммуникатора предназначен для контрольной панели JA-103K или JA-107K, принадлежащей системе JABLOTRON 100+.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 168073
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => JA-192Y
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Jablotron
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/168073.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/168073/452550dac0a6e63628247578acb2afdd.jpg
+                    [alt] => GSM/GPRS коммуникатор Jablotron JA-192Y
+                    [name] => 452550dac0a6e63628247578acb2afdd.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100383.html
+    [article] => 100383
+    [partnumber] => WHE26
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox WHE26
+    [price] => 7146
+    [price_small] => 6465
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox WHE26 высокого класса защиты устанавливается поверх скрытых камер. Он обеспечивает стабильное функционирование системы в тяжелых и переменчивых климатических условиях. Конструкция оснащена смотровым окошком, обеспечивающим хорошую видимость. Располагающийся над объективом козырек предупреждает возникновение бликов в кадре.</p>
+<p>Встроенный адаптер питания имеет напряжение 42 В. Встроенный в сеть помехоподавляющий фильтр гарантирует стабильную подачу энергии при возникновении скачков энергии. Температуры эксплуатации кожуха составляет от -30 до +40 С.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100383
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WHE26
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100383.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100383/715fcea27cff5016381ed66bb6ee8a39.jpg
+                    [alt] => Защитный кожух Wizebox WHE26
+                    [name] => 715fcea27cff5016381ed66bb6ee8a39.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

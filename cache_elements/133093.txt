@@ -1,0 +1,76 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/133093.html
+    [article] => 133093
+    [partnumber] => MX-OPT-WH
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Mobotix
+    [name] => Кожух Mobotix MX-OPT-WH
+    [price] => 9757
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Mobotix MX-OPT-WH  идеально подходит для установки купольных камер MOBOTIX D22/D24 IT/Sec, Q22/Q24 Sec или ExtIO на стены в помещениях и на улице. Защитный корпус не допускает попадания в камеру пыли или воды (IP65). Особенности установки камеры позволяют защитить RJ-45 выходы, а так же в корпусе крепления предоставляется пространство для установки дополнительных модулей.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP65
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 133093
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MX-OPT-WH
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Mobotix
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/133093.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/133093/ebf90b2e5ff09cf3deff943fbfa36abf.jpg
+                    [alt] => Кожух Mobotix MX-OPT-WH
+                    [name] => ebf90b2e5ff09cf3deff943fbfa36abf.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

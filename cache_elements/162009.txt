@@ -1,0 +1,94 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162009.html
+    [article] => 162009
+    [partnumber] => E260-IP
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox E260-IP с кронштейном для IP-камер
+    [price] => 5079
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox E260-IP с кронштейном для IP-камер имеет герметичный кабельный ввод с разрезным сальником. Предназначен для простой установки внутри помещений IP камеры с кабелем Ethernet.</p>
+<h3>Особенности:</h3>
+<ol>
+<li>Класс защиты - IP66</li>
+<li>Установка внутри/вне помещений</li>
+<li>Кабельный ввод под RJ45 c разрезным сальником</li>
+</ol>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [Кронштейн в комплекте] => Core\Option Object
+                (
+                    [name] => Кронштейн в комплекте
+                    [value] => Есть
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162009
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => E260-IP
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162009.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162009/ecdd84137f9101efb9a0a4958576019d.jpg
+                    [alt] => Термокожух Wizebox E260-IP с кронштейном для IP-камер
+                    [name] => ecdd84137f9101efb9a0a4958576019d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

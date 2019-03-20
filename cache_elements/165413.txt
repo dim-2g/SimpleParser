@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/165413.html
+    [article] => 165413
+    [partnumber] => SHB-4200
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Samsung
+    [name] => Кожух Samsung SHB-4200
+    [price] => 5368
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Samsung SHB-4200 - кожух для установки корпусных камер. Термокожух выполнен в строгом, классическом исполнении. Рабочий диапазон температур позволяет использовать во всей средней полосе. Крышка открывается набок, что удобно для монтажа и обслуживания видеокамер.</p>
+<p>Термокожух изготовлен из алюминия, что гарантирует его длительную эксплуатацию при любых погодных условиях. Не большой вес позволяет легко монтировать кожух. Отличительной особенностью модели является отсутствие встроенных вентилятора и обогревателя, а также наличие настенного кронштейна для удобного монтажа, и высокая степень защиты.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 165413
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SHB-4200
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Samsung
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/165413.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/165413/f77b2101988ca403cec037f2b9ea7e86.jpg
+                    [alt] => Кожух Samsung SHB-4200
+                    [name] => f77b2101988ca403cec037f2b9ea7e86.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

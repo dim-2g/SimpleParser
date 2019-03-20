@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135300.html
+    [article] => 135300
+    [partnumber] => SA-03
+    [category] => Радиоканальные системы безопасности
+    [brand] => Rosslare
+    [name] => Передатчик Rosslare SA-03
+    [price] => 2910
+    [price_small] => 3197
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Передатчик Rosslare SA-03 - компактный и эргономичный трехкнопочный прибор, который находит применение в современных системах безопасности. Устройство выполнено в виде брелка, что делает пользование им еще более комфортным.</p>
+<p>Аппарат безупречно справляется со своей задачей - передать сигнал снятия или постановки на охрану на приемное устройства. Его также можно использовать для вызова команды "тревога".</p>
+<p>Модель имеет три кнопки, каждая из которых является независимым каналом передачи сигнала, а потому программируется отдельно. В одной охранной системе может использоваться несколько аппаратов такого типа. В числе прочих достоинств можно отметить 16 млн кодовых комбинаций, защиту от случайного нажатия тревожной кнопки и яркий светодиод на передней стенке.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135300
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-03
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135300.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135300/907436504beea9485072aa53b03b75a9.jpg
+                    [alt] => Передатчик Rosslare SA-03
+                    [name] => 907436504beea9485072aa53b03b75a9.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

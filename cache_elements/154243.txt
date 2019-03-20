@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154243.html
+    [article] => 154243
+    [partnumber] => NI-A01-USB
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Интерфейс Parsec NI-A01-USB
+    [price] => 3951
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Интерфейс Parsec NI-A01-USB - создан для применения в системе безопасности ParsecNET. Интерфейс NI-A01-USB применяется для подключения контроллеров к USB-порту компьютера. Представленный интерфейс имеет схемы сопряжения компьютера и контроллеров, в частности, схемы удлинения линии и преобразования интерфейсов. Интерфейс Parsec NI-A01-USB дает возможность подключать до 30 контроллеров к USB-порту компьютера. Конструктивно интерфейс NI-A01-USB - это блок интерфейса, распределительная коробка и соединительный кабель.</p>  <h3 style="text-align: left;">Технические характеристики:</h3>  <ul style="text-align: left;"><li>корпус - материал пластик ABS;</li>  <li>размеры - 120 x 60 x 32 мм;</li>  <li>потребляемый ток - не более 100 мА;</li>  <li>температура - 0 . . . +55 °C;</li>  <li>влажность - 0 . . . 95 % (без конденсата);</li>  <li>габаритные размеры - 120</li></ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154243
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NI-A01-USB
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154243.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154243/dece2a12b58d45f2353ec6fdc031d81d.jpg
+                    [alt] => Интерфейс Parsec NI-A01-USB
+                    [name] => dece2a12b58d45f2353ec6fdc031d81d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

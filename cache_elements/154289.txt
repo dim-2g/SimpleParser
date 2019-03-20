@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154289.html
+    [article] => 154289
+    [partnumber] => PNSoft-PO
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль Parsec PNSoft-PO
+    [price] => 20433
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Модуль Parsec PNSoft-PO - специально создан для организации следующих процессов:</p>  <ul><li style="text-align: left;">подача заявок на пропуска;</li>  <li style="text-align: left;">утверждение (или отказ) заявок и выдача пропуска, если этот пропуск не бумажный.</li>  </ul><p>Во время использования на проходной картоприемников вместо стандартных считывателей модуль обеспечивает автоматическую фиксацию забора пропуска у посетителя и возврат этого пропуска в пул свободных карт для последующего использования.</p>  <p>У Parsec PNSoft-PO есть база шаблонов для печати пропусков, формы отчётов по результатам деятельности с различными критериями отбора. Если есть модуль сканирования документов, то уровень автоматизации становится гораздо выше, так как не нужно вручную вводить данные о посетителе, а также автоматически в базу данных вносится со сканируемого документа даже фотография посетителя.</p>  <p>Модуль Parsec PNSoft-PO может функционировать как в обособленной организации (виртуальной подсистеме) со своими базами данных, так и в составе основной организации, позволяя совместить функции работы, как с постоянными пропусками сотрудников, так и с одноразовыми для посетителей.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154289
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-PO
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154289.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154289/ffef22dc8018133a3efc49f4fb45bc11.jpg
+                    [alt] => Модуль Parsec PNSoft-PO
+                    [name] => ffef22dc8018133a3efc49f4fb45bc11.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

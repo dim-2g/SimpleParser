@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158775.html
+    [article] => 158775
+    [partnumber] => VGA-BUBBLE-PTIR
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Купол BOSCH VGA-BUBBLE-PTIR
+    [price] => 5495
+    [price_small] => 5724
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол тонированный поликарбонатный для подвесных камер AutoDome обеспечивает высокую прочность.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158775
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VGA-BUBBLE-PTIR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158775.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158775/7ede48778057c0f9f2ae25f9ea7859c2.jpg
+                    [alt] => Купол BOSCH VGA-BUBBLE-PTIR
+                    [name] => 7ede48778057c0f9f2ae25f9ea7859c2.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

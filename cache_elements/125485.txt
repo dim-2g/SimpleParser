@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125485.html
+    [article] => 125485
+    [partnumber] => 002LB18
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Блок электроники CAME 002LB18
+    [price] => 6160
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Блок электроники CAME 002LB18 для распашных, подъемно-поворотных ворот ворот CAME 002LB18. Для автоматики FROG24, FERNI1024, EMEGA 1024 (используется аккумулятор РВ 12-7 в кол-ве 3 шт).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125485
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 002LB18
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125485.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125485/e0ebc200f2fce741f83ebd9879051286.jpg
+                    [alt] => Блок электроники CAME 002LB18
+                    [name] => e0ebc200f2fce741f83ebd9879051286.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

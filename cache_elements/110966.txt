@@ -1,0 +1,82 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/110966.html
+    [article] => 110966
+    [partnumber] => SHB-4300H1
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Samsung
+    [name] => Кожух Samsung SHB-4300H1
+    [price] => 12740
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух для защиты от экстремальных климатических условий, Для фиксированных видеокамер, Литая алюминиевая конструкция, Кронштейн с полностью кабельным управлением, Обогреватель, вентиляторр для защиты от запотевания, Три кабельных уплотнения, внутри 100 x 80 x 383mm, -40°C ~ +50°C, 24В AC</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 110966
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SHB-4300H1
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Samsung
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/110966.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/110966/af56b7a22b1a0ba9800c7dd34e3a5ee9.jpg
+                    [alt] => Кожух Samsung SHB-4300H1
+                    [name] => af56b7a22b1a0ba9800c7dd34e3a5ee9.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

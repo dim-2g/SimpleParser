@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163435.html
+    [article] => 163435
+    [partnumber] => PNOffice-AR
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль учета рабочего времени Parsec PNOffice-AR
+    [price] => 10217
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Модуль учета рабочего времени Parsec PNOffice-AR Модуль учета рабочего времени и контроля дисциплины сотрудников для системы ParsecNET Office.</p>  <p>Основные функции: формирование месячного табеля учета рабочего времени с выводом информации в стандартную форму Т-13, формирование недельных табелей учета рабочего времени, а также отчетов по разного рода отклонениям (опоздания, уход раньше времени, прогулы и так далее).</p>  Предназначен для ведения полного учета и анализа рабочего времени, позволяет задавать различные критерии поиска - опоздавших, переработавших, с возможностью деления по подразделениям за любой промежуток времени.    <h3>Особенности:</h3>      <ul><li>Возможность построения следующих типов отчетов:</li>  <li>Отчет по опозданиям</li>  <li>Отчет по отклонениям</li>  <li>Посещения за месяц</li>  <li>Приход/уход за месяц</li>  <li>Приход/уход за неделю</li>  <li>Табель за месяц (форма Т-13)</li>  </ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163435
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNOffice-AR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163435.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163435/e83fb08272513a78383bd77eb013c6b4.jpg
+                    [alt] => Модуль учета рабочего времени Parsec PNOffice-AR
+                    [name] => e83fb08272513a78383bd77eb013c6b4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

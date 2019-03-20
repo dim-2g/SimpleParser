@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/152485.html
+    [article] => 152485
+    [partnumber] => ELAN3-ALARM
+    [category] => Контроллеры
+    [brand] => Eldes
+    [name] => Коммуникатор Eldes ELAN3-ALARM
+    [price] => 3595
+    [price_small] => 4222
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Коммуникатор Eldes ELAN3-ALARM используют для организации корпоративных сетей внутри предприятий. Его устанавливают в охранных системах офисов, промышленных объектов, магазинов, складов. Оборудование предназначено для связывания панелей ESIM364 и ET082 и станции мониторинга, обеспечивает бесперебойную транспортировку информации.</p>
+<p>Прибор работает как дополнительный канал связи и обладает скоростью передачи данных до 100 Мбит/с. Он незаменим, когда на предприятии отсутствует или слабо работает сеть GPRS. Поддержка виртуальных технологии позволяет управлять оборудованием удаленно, использовать облачную платформу Eldes Cloud.</p>
+<p>Модель использует Ethernet-соединение и позволяет автоматически настраивать систему. Включение сигнализации происходит после передачи тревожного сигнала от коммуникатора Eldes ELAN3-ALARM. Подключение устройства осуществляется через стандартные порты.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 152485
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ELAN3-ALARM
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Eldes
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/152485.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/152485/1d4977a15f9d5cb7e88e076f550cb8a9.jpg
+                    [alt] => Коммуникатор Eldes ELAN3-ALARM
+                    [name] => 1d4977a15f9d5cb7e88e076f550cb8a9.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

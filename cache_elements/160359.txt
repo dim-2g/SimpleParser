@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/160359.html
+    [article] => 160359
+    [partnumber] => ST-AC103RC
+    [category] => Кнопки выхода
+    [brand] => Smartec
+    [name] => Пульт управления Smartec ST-AC103RC
+    [price] => 582
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Пульт управления Smartec ST-AC103RC устанавливается в охранных системах. Устройство контролирует доступ на предприятия и промышленные объекты, подходит для администрирования турникетов, шлагбаумов, электрозамков. На корпусе располагается три кнопки, на которые наносятся схематические обозначения.</p>
+<p>Модель оснащена контактами разомкнутого и замкнутого типа. Прибор работает от сети и отличается устойчивость к перепадам напряжения. Для его изготовления берется прочный ABS-пластик, которому не страшно прямое попадание капель жидкости. Монтаж производится с помощью стандартных крепежных элементов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 160359
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ST-AC103RC
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/160359.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/160359/54ca6c6221a55f1eeb1142c3d329d385.jpg
+                    [alt] => Пульт управления Smartec ST-AC103RC
+                    [name] => 54ca6c6221a55f1eeb1142c3d329d385.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

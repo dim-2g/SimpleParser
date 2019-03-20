@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162486.html
+    [article] => 162486
+    [partnumber] => ACA-ICL256-2AR
+    [category] => Идентификаторы
+    [brand] => BOSCH
+    [name] => Идентификатор BOSCH ACA-ICL256-2AR
+    [price] => 16983
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Идентификатор BOSCH ACA-ICL256-2AR I - клеящаяся метка (в упаковке 50 штук).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162486
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ACA-ICL256-2AR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162486.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162486/2fa26428930a3477b4d286f91ae06e4c.jpg
+                    [alt] => Идентификатор BOSCH ACA-ICL256-2AR
+                    [name] => 2fa26428930a3477b4d286f91ae06e4c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

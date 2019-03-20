@@ -1,0 +1,86 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158440.html
+    [article] => 158440
+    [partnumber] => UHI-OGS-0
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHI-OGS-0
+    [price] => 9925
+    [price_small] => 10181
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Уникальная конструкция бокового проема с откидной крышкой позволяет легко монтировать любые комбинации камер и объективов и обеспечивает доступ к большинству органов управления камерой и объективом после их установки в кожух.</p>  <p>Для подключения кабеля питания, сигнального кабеля и кабеля управления объективом можно использовать герметичные вводы внизу задней части кожуха, или — для наилучшего размещения кабелей — сквозные отверстия в основании кожуха.</p>  <p>Монтажные отверстия в основании кожуха позволяют устанавливать его на разнообразные конструкции, поворотные устройства и кронштейны для установки видеокамер. 
+
+Эти кожухи пригодны для установки камер Dinion, оснащенных объективами с постоянным и переменным фокусным расстоянием или автоматическими трансфокаторами с увеличением до 15x. 
+
+Дополнительную безопасность обеспечивают винты со специальным шлицем в замках кожуха, затрудняющие несанкционированный доступ к установленному в нем оборудованию.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158440
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHI-OGS-0
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158440.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158440/9be5f42c0a83e5aa74c7b0c1be636e42.jpg
+                    [alt] => Кожух BOSCH UHI-OGS-0
+                    [name] => 9be5f42c0a83e5aa74c7b0c1be636e42.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

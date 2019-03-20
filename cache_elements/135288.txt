@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135288.html
+    [article] => 135288
+    [partnumber] => SA-38
+    [category] => Идентификаторы
+    [brand] => Rosslare
+    [name] => Приемник Rosslare SA-38
+    [price] => 10541
+    [price_small] => 10571
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Приемник Rosslare SA-38 - универсальный восьмиканальный аппарат беспроводного типа, предназначенный для быстрого и безопасного расширения GSM-сигнализаций. Устройство взаимодействует с панелями управления и радиодатчиками, входящими в состав систем безопасности. Модель позволяет подключить к ней до 32 различных устройства.</p>
+<p>Простое и комфортное управление подкреплено возможностью соединить прибор с компьютером и наличием эргономичных навигационных клавиш, позволяющих выбрать пункты меню, а также системы световых индикаторов. Для передачи системных сообщений предусмотрено четыре канала.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135288
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-38
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135288.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135288/1991f1ee8ad7cd6a44ec0f80ea69829e.jpg
+                    [alt] => Приемник Rosslare SA-38
+                    [name] => 1991f1ee8ad7cd6a44ec0f80ea69829e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

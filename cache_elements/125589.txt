@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125589.html
+    [article] => 125589
+    [partnumber] => CAT 24
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME CAT 24
+    [price] => 87920
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>CAME CAT 24 - комплект цепного барьера, обладающий уникальным дизайном и прекрасно вписывающийся в любой, даже самый престижный архитектурный ансамбль, например, исторический центр города.</p><p>Изделия этой серии используются на частных и общественных парковках для резервирования одного или нескольких транспортных мест.</p><p>Ведущий столб содержит блок управления и привод, в то время как на ведомом столбе крепится стрела, которая автоматически опускается в специальный установленный в земле желоб.</p><p>Благодаря передовым технологиям и идеям Came, нашедшим свое воплощение в цепных барьерах Cat, изделия этой серии устанавливаются просто, быстро и без предварительной подготовки.</p><p>Барьеры серии Cat работают и от 24 В.</p><p>Низковольтное рабочее напряжение, функция электронного обнаружения препятствий и возможность регулировки скорости движения цепи гарантируют максимальную безопасность системы.</p><p>Кроме того, версия Cat 24 В идеально подходит для интенсивного режима работы.</p><h3>Комплект:</h3><ul><li>Колонка</li><li>Колонка с противовесом и системой натяжения цепи</li><li>Цепь с толщиной звена 9 мм / 7,5 метров</li></ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125589
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CAT 24
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125589.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125589/9931db98d4f5dafe1b7780a61c2ab70a.jpg
+                    [alt] => Комплект CAME CAT 24
+                    [name] => 9931db98d4f5dafe1b7780a61c2ab70a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

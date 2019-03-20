@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159188.html
+    [article] => 159188
+    [partnumber] => UHO-POE-10
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Термокожух BOSCH UHO-POE-10
+    [price] => 18518
+    [price_small] => 19055
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух BOSCH UHO-POE-10.</p>  <p>Защита видеокамер размером (вместе с объективом) до 268 мм в длину. Стильный и прочный кожух (IP67; NEMA 4x). Подача питания через PoE соединение для однокабельной установки. Нагреватель и антиобледенитель окна. Боковая откидная крышка, упрощающяя монтаж и настройку камеры.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159188
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHO-POE-10
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159188.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159188/7f39788c3db253f4aca4bcd086ce8558.jpg
+                    [alt] => Термокожух BOSCH UHO-POE-10
+                    [name] => 7f39788c3db253f4aca4bcd086ce8558.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

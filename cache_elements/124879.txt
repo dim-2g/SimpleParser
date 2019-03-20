@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124879.html
+    [article] => 124879
+    [partnumber] => HPV42K2A016
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HPV42K2A016
+    [price] => 13572
+    [price_small] => 13409
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HPV42K2A016 используется для обеспечения стабильной работы камеры, установка которой осуществляется в суровых погодных или промышленных условиях. Модель оборудована эффективной системой охлаждения и обогревателем, что гарантирует эксплуатацию видеооборудования в широком температурном диапазоне.</p>
+<p>Солнцезащитный козырек упрощает процесс размещения IP-камеры, исключая засветку объектива и его повреждение УФ-излучением. Главным преимуществом кожуха является наличие двух вентиляторров с двойными воздушными фильтрами, которые улучшают вентиляцию внутреннего пространства.</p>
+<p>Антивандальное исполнение расширяет сферу применения продукта, допуская монтаж в условиях повышенного риска нападения правонарушителей.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124879
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HPV42K2A016
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124879.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124879/aaf26c3a7e1c82c92512b40cc933b0c8.jpg
+                    [alt] => Корпус VIDEOTEC HPV42K2A016
+                    [name] => aaf26c3a7e1c82c92512b40cc933b0c8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

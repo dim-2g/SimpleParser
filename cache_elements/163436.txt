@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163436.html
+    [article] => 163436
+    [partnumber] => PNOffice-PI
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль печати пропусков Parsec PNOffice-PI
+    [price] => 13622
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Модуль печати пропусков Parsec PNOffice-PI</p>  <p>Модуль подготовки шаблонов печати для персонализации пластиковых карт в системе ParsecNET Office</p>  <p>Предназначен для разработки шаблонов для печати карт и пропусков, также поддерживается печать данных сотрудников на бумаге формата А4, печать нескольких выбранных пропусков одновременно с раскладкой на листе большего формата.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163436
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNOffice-PI
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163436.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163436/7d2070e4c06a8bcd93b9372255681cda.jpg
+                    [alt] => Модуль печати пропусков Parsec PNOffice-PI
+                    [name] => 7d2070e4c06a8bcd93b9372255681cda.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

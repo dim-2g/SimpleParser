@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125004.html
+    [article] => 125004
+    [partnumber] => DBH18K0F028
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Гермокожух VIDEOTEC DBH18K0F028
+    [price] => 11884
+    [price_small] => 14447
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Гермокожух VIDEOTEC DBH18K0F028 нужен для установки купольных и роботизированных камер в тяжелых климатических условиях. Герметичная конструкция закрывает оборудование от пыли, жидкости и атмосферных осадков. Для защиты объектива используется прозрачная полусфера, обеспечивающая хорошую видимость.</p>
+<p>Внутри корпуса располагается универсальный адаптер, поддерживающий установку камер разного типа. Кожух имеет компактные габариты, а его дизайн напоминает осветительный прибор, что делает конструкцию незаметной. Монтаж производится на вертикальную поверхность.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125004
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => DBH18K0F028
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125004.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125004/1af26a14ee36019f5c85a0652730c751.jpg
+                    [alt] => Гермокожух VIDEOTEC DBH18K0F028
+                    [name] => 1af26a14ee36019f5c85a0652730c751.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

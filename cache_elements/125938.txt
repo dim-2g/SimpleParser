@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125938.html
+    [article] => 125938
+    [partnumber] => AU01
+    [category] => Сетевые СКУД
+    [brand] => PERCo
+    [name] => ИК-пульт PERCo AU01
+    [price] => 654
+    [price_small] => 939
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>ИК-пульт PERCo AU01 в паре с переносным приемником PERCo AI01 предоставляет возможность удаленно управлять контроллером замка/турникета, что особенно выгодно для профессиональных охранных систем. Модель отличается высокой дальностью передачи команды, которая может достигать 10 м.</p>  <p>Данное устройства имеет компактные размеры и интуитивно понятную панель управления. Также оно позволяет использовать различные режимы для настройки доступа в охраняемое помещение. Для электропитания оборудования используются 2 батарейки типа ААА, которые позволяют эксплуатировать его на протяжении длительного периода времени без необходимости в замене элементов питания.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125938
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => AU01
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => PERCo
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125938.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125938/30a22b113e593e4d845039afca4561e8.jpg
+                    [alt] => ИК-пульт PERCo AU01
+                    [name] => 30a22b113e593e4d845039afca4561e8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

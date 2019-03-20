@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135299.html
+    [article] => 135299
+    [partnumber] => SA-20
+    [category] => Извещатели охранные
+    [brand] => Rosslare
+    [name] => Датчик Rosslare SA-20
+    [price] => 5303
+    [price_small] => 5807
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Датчик Rosslare SA-20 - компактное высоконадежное оснащение, которое объединено с детектором движения и извещателем магнитоконтактного типа. Устройство работает на частоте 433.92МГц. При условии хорошей видимости по прямой аппарат передает сигнал на расстояние до 250 метров.</p>
+<p>Компактная и простая в обращении модель имеет три канала - один, служащий для подключения к датчику магнитных контактов, и два канала для присоединения проводных устройства. В числе прочих достоинств можно отметить наличие внутренней антенны, гарантирующей отличный прием, систему световых индикаторов, оповещающих о состоянии рабочего процесса, и надежный литий-ионный встроенный аккумулятор на 1300мА/ч.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135299
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-20
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135299.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135299/7cd94bb57eed7c60486955754db4203f.jpg
+                    [alt] => Датчик Rosslare SA-20
+                    [name] => 7cd94bb57eed7c60486955754db4203f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/108362.html
+    [article] => 108362
+    [partnumber] => OML-DAM
+    [category] => Технические средства охраны периметра
+    [brand] => Optex
+    [name] => Извещатель Optex OML-DAM
+    [price] => 6661
+    [price_small] => 7308
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Optex OML-DAM - извещатель охранный объемный (15х15 м - широкий угол), комбинированный (микроволновый и оптико-электронный), микропроцессорный, активная система Антимаскирования, не реагирует на мелких животных, твердая сферическая мультифокусная линза, двойное экранирование пироэлемента, усовершенствованная система температурной компенсации, система автоматической деактивации МВ-части при снятии с охраны, система EOL (удобный выбор оконечных сопротивлений), -10°С +50°С.</p>
+<p>Способен обеспечить надежную и стабильную работу без ложных тревог на объекте любой сложности.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Охранный
+                )
+
+            [Принцип работы] => Core\Option Object
+                (
+                    [name] => Принцип работы
+                    [value] => Объемный
+                )
+
+            [Потребление тока] => Core\Option Object
+                (
+                    [name] => Потребление тока
+                    [value] => 0,03 А
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 108362
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => OML-DAM
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optex
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/108362.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/108362/c9316c86130aabc97a16e62615f44329.jpg
+                    [alt] => Извещатель Optex OML-DAM
+                    [name] => c9316c86130aabc97a16e62615f44329.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

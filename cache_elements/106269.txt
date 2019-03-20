@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/106269.html
+    [article] => 106269
+    [partnumber] => ICH-300M/24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Infinity
+    [name] => Уличный гермокожух Infinity ICH-300M/24V
+    [price] => 1805
+    [price_small] => 2310
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Уличный гермокожух Infinity ICH-300M/24V с солнцезащитным козырьком предназначен для обеспечения благоприятных условий работы корпусных камер видеонаблюдения. Это оптимальное соотношение цены/качества.</p>
+<p>Кожух устанавливается вне помещения. Корпус выполнен из прочного алюминия, за счет этого камера будет надежно защищена внутри от внешних воздействий окружающей среды. Встроенный обогреватель позволяет камере работать даже при низких температурах. А морозостойкие уплотнители обеспечивают надежную работу камеры при сильных морозах.</p>
+<p>Питание 12В постоянного тока, 24В переменного тока. Благодаря особому качественному порошковому покрытию кожух будет иметь привлекательный вид даже через много лет. Для крепления этого гермокожуха нужен специальный кронштейн infinity IB-210M не входит в комплект.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 106269
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ICH-300M/24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Infinity
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/106269.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/106269/d9b0c22cbb2cbd5fed9359f2c92528e4.jpg
+                    [alt] => Уличный гермокожух Infinity ICH-300M/24V
+                    [name] => d9b0c22cbb2cbd5fed9359f2c92528e4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

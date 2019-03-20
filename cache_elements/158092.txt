@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158092.html
+    [article] => 158092
+    [partnumber] => FCH-T320
+    [category] => Адресные системы пожарной сигнализации
+    [brand] => BOSCH
+    [name] => Извещатель BOSCH FCH-T320
+    [price] => 1735
+    [price_small] => 1827
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Пожарный извещатель BOSCH FCH-T320 работает на основе электронной оценки состояния помещения. Он оснащен оптическим, химическим и тепловым сенсором, что позволяет производить точную и достоверную диагностику. Устройство реагирует в случае, если резко возросла температура или превысила тепловой максимум (52°), внутрь датчика попал дым, в помещении изменилась концентрация угарного газа или других продуктов горения.</p>
+<p>Прибор оснащен пылеотталкивающей системой, механическим замком. При установке следует учитывать - к первичной линии можно подключать до 32 подобных устройства.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Газа/Пожарный/Тепловой
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158092
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => FCH-T320
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158092.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158092/d2564b29d7e43a9bd33d7eed630577d0.jpg
+                    [alt] => Извещатель BOSCH FCH-T320
+                    [name] => d2564b29d7e43a9bd33d7eed630577d0.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

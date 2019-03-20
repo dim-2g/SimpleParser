@@ -1,0 +1,96 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/118974.html
+    [article] => 118974
+    [partnumber] => HEB-320H-12-220
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => LTV
+    [name] => Термокожух LTV HEB-320H-12-220
+    [price] => 7200
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух LTV LTV-HEB-320H-12-220 используется для установки и эксплуатации видеокамер в тяжелых климатических условиях. Он защищает оборудование от атмосферных осадков, сильного ветра и внешнего механического воздействия.</p>
+<p>Модель дополнена встроенным нагревателем для поддержиания постоянной температуры и использования системы при сильных морозах.</p>
+<p>В комплекте поставляется кронштейн LTV-WBM для настенного монтажа. Питание осуществляется от сети переменного тока напряжением или от батареи на 12 В. Передняя часть кожуха оснащена прозрачным смотровым окном, располагающимся напротив объектива.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -25 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 118974
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEB-320H-12-220
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => LTV
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/118974.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/118974/5599c3fbec60635c3ec335c22ac7fa6e.jpg
+                    [alt] => Термокожух LTV HEB-320H-12-220
+                    [name] => 5599c3fbec60635c3ec335c22ac7fa6e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

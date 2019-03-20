@@ -1,0 +1,82 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/133107.html
+    [article] => 133107
+    [partnumber] => MX-WH-Dome
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Mobotix
+    [name] => Кожух Mobotix MX-WH-Dome
+    [price] => 14672
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Влагоустойчивый (IP65) для установки камер D12Di-IT и D12Di-Sec на улице, прочный и стойкий к ультрафиолету со стекловолоконным покрытием, скрытая проводка, закрывает настенный плоский коннектор RJ45, возможно размещение оборудования беспроводной локальной сети или GSM/GPRS внутри кожуха.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP65
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 133107
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MX-WH-Dome
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Mobotix
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/133107.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/133107/ef35ddcea051fbdd01ea703ade5ec874.jpg
+                    [alt] => Кожух Mobotix MX-WH-Dome
+                    [name] => ef35ddcea051fbdd01ea703ade5ec874.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

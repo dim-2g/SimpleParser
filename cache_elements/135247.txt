@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135247.html
+    [article] => 135247
+    [partnumber] => MD-N33
+    [category] => Контроллеры
+    [brand] => Rosslare
+    [name] => PSTN модем Rosslare MD-N33
+    [price] => 14421
+    [price_small] => 14291
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Модем применяется в системах СКУД для осуществления передачи данных между телефонной аппаратурой и удаленным оборудованием посредством всемирной сети PSTN. На передней панели устройства расположено гнездо питания и стандартный сетевой разъем RJ-11, а с противоположной стороны предусмотрен вход RS-232, который используется для подключения ПК.</p>
+<p>Светодиодная индикация информирует пользователя о состоянии телефонной линии и источника напряжения. Встроенная технология DAA упрощает настройку прибора, а энергозависимая память обеспечивает дополнительную защиту сохраненных профилей клиента.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135247
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MD-N33
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135247.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135247/7b07e9aee4b23fb3fcf62eb5af195252.jpg
+                    [alt] => PSTN модем Rosslare MD-N33
+                    [name] => 7b07e9aee4b23fb3fcf62eb5af195252.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

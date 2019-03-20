@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159169.html
+    [article] => 159169
+    [partnumber] => FAH-425-T-R
+    [category] => Адресные системы пожарной сигнализации
+    [brand] => BOSCH
+    [name] => Извещатель BOSCH FAH-425-T-R
+    [price] => 4723
+    [price_small] => 5122
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Иизвещатель BOSCH FAH-425-T-R оборудован одним сенсором и предназначен для работы в паре с системой пожарной сигнализации. По своей сути является тепловым сигнализатором с интеллектуальной обработкой сигнала. Он сделан из высококачественных материалов и оборудован современной электроникой.</p>
+<p>Иизвещатель отличается высокой надежностью и может использоваться длительное время без ремонта и замены. Его корпус полностью соответствует степени защиты IP 40 и предохраняет важные элементы от механических повреждений. Для визуального контроля работоспособности устройства, имеется светодиодный индикатор красного цвета.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Тепловой
+                )
+
+            [Принцип работы] => Core\Option Object
+                (
+                    [name] => Принцип работы
+                    [value] => Оптический
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159169
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => FAH-425-T-R
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159169.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159169/1a0c586f12b8fbe27314ab4039ee7e57.jpg
+                    [alt] => Извещатель BOSCH FAH-425-T-R
+                    [name] => 1a0c586f12b8fbe27314ab4039ee7e57.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

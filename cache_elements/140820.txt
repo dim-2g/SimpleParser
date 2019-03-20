@@ -1,0 +1,82 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/140820.html
+    [article] => 140820
+    [partnumber] => WEX40-220V-03 (с блендой)
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WEX40-220V-03 (с блендой)
+    [price] => 149429
+    [price_small] => 135200
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух WizeBox WEX40-220V-03 (с блендой) предназначен для защиты телекамер от неблагоприятных воздействий окружающей среды в условиях взрыво- и пожароопасных зон внутри и вне помещений.</p>  <p>В комплект поставки термокожуха входит пневматическая бленда, разработанная для предотвращения загрязнения смотрового стекла путем создания перед стеклом избыточного давления воздуха, препятствующего образованию отложений пыли и грязи. Маркировка взрывозащиты: 0ExdIICT6X.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -60 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 140820
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WEX40-220V-03 (с блендой)
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/140820.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/140820/af93dc5d1621d0219469145a5a73cfe5.jpg
+                    [alt] => Термокожух Wizebox WEX40-220V-03 (с блендой)
+                    [name] => af93dc5d1621d0219469145a5a73cfe5.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

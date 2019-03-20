@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/118975.html
+    [article] => 118975
+    [partnumber] => HOV-260H-12-220
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => LTV
+    [name] => Термокожух LTV HOV-260H-12-220
+    [price] => 19400
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух LTV LTV-HOV-260H-12-220 требуется для защиты IP-видеокамер, устанавливаемых в составе систем скрытого наблюдения. Конструкция предназначена предупреждает порчу оборудования из-за попадания атмосферных осадков, сильного ветра и механического воздействия. Прозрачное окошко, располагающееся в передней части конструкции, обеспечивает хороший обзор.</p>
+<p>Солнцезащитный козырек предупреждает появление бликов и перегревание системы. Рабочий диапазон температур составляет от -50 до +50 С. Встроенные обогреватели включаются в зависимости от условий окружающей среды. Блок питания оснащен разъемами для подключения камеры и дополнительного оборудования.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -50 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 118975
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HOV-260H-12-220
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => LTV
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/118975.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/118975/a006175162d10c96f646737b2d814f33.jpg
+                    [alt] => Термокожух LTV HOV-260H-12-220
+                    [name] => a006175162d10c96f646737b2d814f33.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159408.html
+    [article] => 159408
+    [partnumber] => EH5723
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => PELCO
+    [name] => Кожух PELCO EH5723
+    [price] => 42488
+    [price_small] => 54816
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух PELCO EH5723 – это специальное приспособление, которое используется для защиты камер наблюдения от механических повреждений и поддержиания заданного температурного режима внутри. Он сделан из высококачественного алюминия, покрыт защитным слоем краски, оборудован штатным обогревателем и вентилятором.</p>
+<p>Кожух достаточно просто монтируется на кронштейн, а для помещения внутрь видеокамеры, достаточно открыть верхнюю крышку. Он полностью герметичный, предотвращает попадание внутрь посторонних предметов, а также пыли и влаги. Благодаря хорошей изоляции, отлично поддерживает заданную температуру во время работы оборудования.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159408
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EH5723
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => PELCO
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159408.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159408/5c0aad3aae522f7ade2499d32cd2acb6.jpg
+                    [alt] => Кожух PELCO EH5723
+                    [name] => 5c0aad3aae522f7ade2499d32cd2acb6.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

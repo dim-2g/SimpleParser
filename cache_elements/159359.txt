@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159359.html
+    [article] => 159359
+    [partnumber] => EH5729-3
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => PELCO
+    [name] => Термокожух PELCO EH5729-3
+    [price] => 55228
+    [price_small] => 71196
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух PELCO EH5729-3 – это современное устройства, которое способно работать в сложных погодных условиях и при этом надежно защищать установленную внутри камеру от повреждений и обеспечивать для нее стабильную температуру. Кожух сделан из качественных материалов на основе алюминия и стекла и снабжен надежной электроникой.</p>
+<p>Термокожух укомплектован штатным обогревателем, вентилятором, солнцезащитным козырьком и системой открывания верхней крышки для быстрого доступа к оборудованию. Он рассчитан на длительный срок эксплуатации и постоянное использование. Широкий диапазон рабочих температур, делает это изделие одним из лучших в своем классе.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159359
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EH5729-3
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => PELCO
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159359.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159359/6e0fc4cea27898f4bda43be41b092128.jpg
+                    [alt] => Термокожух PELCO EH5729-3
+                    [name] => 6e0fc4cea27898f4bda43be41b092128.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

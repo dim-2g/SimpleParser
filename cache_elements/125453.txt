@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125453.html
+    [article] => 125453
+    [partnumber] => 001SET-K
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Ключ CAME 001SET-K
+    [price] => 1328
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Ключ-выключатель Came SET-K.</p><p>Предназначен для ручного управления приводными механизмами.</p><p>Высокопрочный вандалозащищенный корпус из алюминиевого сплава имеет степень пыле- и влагозащищенности IP54, что допускает его монтаж врезным способом на открытой местности при любых атмосферных осадках.</p><p>Ключ-выключатель встраивается в специальную стойку CSSN. SET-К оснащен устройстваом защиты цилиндра замка.</p><p>Важным преимуществом является невозможность вскрытия корпуса без ключа. В основном комплекте поставки - 3 ключа.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125453
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001SET-K
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125453.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125453/0896c6eacb513c2ab33903af4d48dc37.jpg
+                    [alt] => Ключ CAME 001SET-K
+                    [name] => 0896c6eacb513c2ab33903af4d48dc37.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

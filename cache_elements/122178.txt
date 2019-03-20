@@ -1,0 +1,84 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/122178.html
+    [article] => 122178
+    [partnumber] => SNCA-ICPTZ/C
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Sony
+    [name] => Кожух декоративный Sony SNCA-ICPTZ/C
+    [price] => 26855
+    [price_small] => 33394
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух декоративный Sony SNCA-ICPTZ/C – прозрачный низкопрофильный потолочный кожух для PTZ-камер Sony. Верхняя часть корпуса выполнена из стали с регулировочным кольцом, имеющим белое порошковое покрытие.</p>
+<p>К ней крепится оптически прозрачный 7-дюймовый асферический купол из поликарбоната толщиной 3 мм, обеспечивающий простую установку и удобное обслуживание под потолком.</p>
+<p>Кожух декоративный Sony SNCA-ICPTZ/C -  "купольного" типа для изделий SNC-RH/RS/RX/RZ Series; внутренняя установка , in-ceiling, прозрачный плафон.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Декоративный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Купольный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 122178
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SNCA-ICPTZ/C
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Sony
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/122178.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/122178/87fad62dc382457be61eff2e5a519a02.jpg
+                    [alt] => Кожух декоративный Sony SNCA-ICPTZ/C
+                    [name] => 87fad62dc382457be61eff2e5a519a02.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

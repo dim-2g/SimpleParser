@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125333.html
+    [article] => 125333
+    [partnumber] => 001DF17
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Профиль CAME 001DF17
+    [price] => 3664
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Описание:</p><p>Профиль безопасности Came DF17.</p><p>Резиновый чувствительный профиль безопасности с механическим контактом длиной 1.7 метра защищает от защемления краем створки и применяется на подвижных или неподвижных элементах ворот.</p><p>Подключение к БУ осуществляется через специальную плату для диагностики DFI.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125333
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001DF17
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125333.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125333/370ba35e49c14a09d6418a9376a3fd0f.jpg
+                    [alt] => Профиль CAME 001DF17
+                    [name] => 370ba35e49c14a09d6418a9376a3fd0f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

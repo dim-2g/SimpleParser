@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124894.html
+    [article] => 124894
+    [partnumber] => HPV42K1A160
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HPV42K1A160
+    [price] => 11444
+    [price_small] => 11261
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HPV42K1A160 разработан для обеспечения стабильного функционирования видеокамеры, размещенной в агрессивной среде. Преимуществом модели является усовершенствованная система обогрева, позволяющая устанавливать кожух с видеооборудованием в условиях экстремально низких температур, достигающих -55 °C.</p>
+<p>Также устройства отличается антивандальным исполнением, что гарантирует защиту камеры от сильных механических повреждений. Наличие солнцезащитного козырька, изготовленного из прочного ABC пластика, исключает засветку объектива в дневное время суток. За счет широкого ассортимента крепежей различного типа, продукт является простым в установке.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124894
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HPV42K1A160
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124894.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124894/a9704c347b536a9b649b4b6526bca9ea.jpg
+                    [alt] => Корпус VIDEOTEC HPV42K1A160
+                    [name] => a9704c347b536a9b649b4b6526bca9ea.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

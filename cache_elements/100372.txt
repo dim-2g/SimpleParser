@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100372.html
+    [article] => 100372
+    [partnumber] => LS210-24/9V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox LS210-24/9V
+    [price] => 4681
+    [price_small] => 4116
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox LS210-24/9V со встроенной системой отопления. Он обеспечивает поддержание постоянной температуры внутри корпуса. Нагревательный элемент автоматически включается в зависимости от условий среды. Тепло равномерно распределяется по всему корпусу.</p>
+<p>Конструкция совместима с камерами, оснащенными вариофокальным или сменным объективом. Напротив линз располагается прозрачное смотровое окошко из ударопрочного германиевого стекла. Для изготовления кожура берется алюминий с антикоррозийным покрытием. Возможна покраска корпуса в любой цвет.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100372
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => LS210-24/9V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100372.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100372/9e53b74f0335bb2c59ad0b541aaafda5.jpg
+                    [alt] => Защитный кожух Wizebox LS210-24/9V
+                    [name] => 9e53b74f0335bb2c59ad0b541aaafda5.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

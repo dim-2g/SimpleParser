@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125588.html
+    [article] => 125588
+    [partnumber] => CAT 220
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME CAT 220
+    [price] => 76720
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>CAME CAT 220 - комплект цепного барьера, обладающий уникальным дизайном и прекрасно вписывающийся в любой, даже самый престижный архитектурный ансамбль, например, исторический центр города.</p><p>Изделия этой серии используются на частных и общественных парковках для резервирования одного или нескольких транспортных мест.</p><p>Ведущий столб содержит блок управления и привод, в то время как на ведомом столбе крепится стрела, которая автоматически опускается в специальный установленный в земле желоб.</p><p>Благодаря передовым технологиям и идеям Came, нашедшим свое воплощение в цепных барьерах Cat, изделия этой серии устанавливаются просто, быстро и без предварительной подготовки.</p><h3>Комплект:</h3><ul><li>Колонка</li><li>Колонка с противовесом и системой натяжения цепи</li><li>Цепь с толщиной звена 9 мм / 7,5 метров</li></ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125588
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CAT 220
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125588.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125588/2032fa266ae1eddacdccb5a489175f80.jpg
+                    [alt] => Комплект CAME CAT 220
+                    [name] => 2032fa266ae1eddacdccb5a489175f80.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

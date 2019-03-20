@@ -1,0 +1,84 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/106350.html
+    [article] => 106350
+    [partnumber] => DOME4-I
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Arecont Vision
+    [name] => Кожух Arecont Vision DOME4-I
+    [price] => 15779
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Arecont Vision DOME4-I совместим с камерами видеонаблюдения серии AV13xx, AV21xx, AV31xx, AV51xx, AV10xxх, которые размещены в помещениях с показателями температуры от 0 до +50 °С. Приспособление крепится на потолок с помощью защитных винтов.</p>
+<p>Данная модель изготовлена из высококачественного алюминия и имеет антивандальную защиту из поликарбоната, за счет чего прочная конструкция способна выдержать механические повреждения, удары, и защитить камеру от пыли или влаги. Внешнее оформление гармонирует с дизайном интерьера в различных стилях и позволяет сделать устройства максимально незаметным.</p>
+<p>Совместим с камерами: AV1300, AV1300-AI, AV1300-DN, AV2100, AV2100-AI, AV2100-DN, AV3100, AV3100-AI, AV3100-DN, AV3130, AV5100, AV5100-AI, AV5100-DN.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 106350
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => DOME4-I
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Arecont Vision
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/106350.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/106350/3c1276dc9ca944f61be17cd83ca501c7.jpg
+                    [alt] => Кожух Arecont Vision DOME4-I
+                    [name] => 3c1276dc9ca944f61be17cd83ca501c7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

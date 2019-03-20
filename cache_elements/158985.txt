@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158985.html
+    [article] => 158985
+    [partnumber] => VGA-BUBBLE-CCLA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Купол BOSCH VGA-BUBBLE-CCLA
+    [price] => 4697
+    [price_small] => 5429
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол BOSCH VGA-BUBBLE-CCLA разработан для эксплуатации в системах видеонаблюдения с целью защиты камер от пыли, влаги и других негативных воздействий окружающей среды. Благодаря соблюдению стандартов, касающихся конструкции, модель отличается высокой совместимостью с потолочными кронштейнами, что упрощает процесс ее интеграции.</p>
+<p>Обзорное стекло выполнено из акрила с высокой степенью прозрачности, что позволяет выполнять съемку в высоком разрешении без вреда для ее качества. Данное изделие также защищает камеру от механических повреждений, что делает его универсальным решением для организации профессиональной системы безопасности.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158985
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VGA-BUBBLE-CCLA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158985.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158985/25aa1ea98d4fb44cf16e1a9cb4ba3118.jpg
+                    [alt] => Купол BOSCH VGA-BUBBLE-CCLA
+                    [name] => 25aa1ea98d4fb44cf16e1a9cb4ba3118.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

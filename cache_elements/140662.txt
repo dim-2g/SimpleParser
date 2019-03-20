@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/140662.html
+    [article] => 140662
+    [partnumber] => HPV42K2A716
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Гермокожух Videotec HPV42K2A716
+    [price] => 19514
+    [price_small] => 19262
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Гермокожух Videotec HPV42K2A716 – конструкция для установки поворотных камер. Корпус обеспечивает надежную защиту оборудования от негативного воздействия среды. Передняя часть оснащена полукруглым окошком, сквозь которое обеспечивается хорошая видимость и достигается получение четких и резких кадров.</p>
+<p>Оснащен козырьком, предупреждающим появление бликов в кадре и нагревание оптики. Внутри располагается обогреватель, поддерживающий постоянную температуру, а также вентилятор. При морозах система автоматически включает систему подогрева перед началом работы камеры. Технология IPM определяет используемый источник питания.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 60 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 140662
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HPV42K2A716
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/140662.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/140662/58b700392eab7898d90004019c9ac296.jpg
+                    [alt] => Гермокожух Videotec HPV42K2A716
+                    [name] => 58b700392eab7898d90004019c9ac296.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,106 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100419.html
+    [article] => 100419
+    [partnumber] => SV32P-03/04NR
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SV32P-03/04NR
+    [price] => 19418
+    [price_small] => 17539
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox SV32P-03/04NR для стандартной видеокамеры с устройством передачи видеосигнала по "витой паре" (без приемника) и грозозащитой. Рабочая температура до -65°С, электронный термостат, полезный объем 225х70х66 мм.</p>
+<p>Входное напряжение ~220 В или ~24 В. Напряжение к видеокамере =9 В или =12 В или ~24 В. Прокладки из авиационной резины, нержавеющий крепеж, латунные вводы, IP66.</p>
+<h3>Особенности:</h3>
+<ul>
+<li>Тип термокожуха: SPECIAL.</li>
+<li>Дополнительные устройства преобразования и передачи сигнала, грозозащиты: Передатчик видеосигнала по кабелю типа "витая пара" на расстояние до 1500 м с грозозащитой.</li>
+<li>Серия: 320.</li>
+<li>Температурный режим эксплуатации термокожуха, гр. С: -65..+40.</li>
+<li>Напряжение, подводимое к термокожуху, В: ~220, ~24.</li>
+<li>Напряжение питания телекамеры, В: =9, =12, ~24.</li>
+<li>Приведенный полезный объем, мм: 220x73x66.</li>
+</ul>
+<p>Защищает телекамеру с фиксированным, или вариообъективом от неблагоприятных воздействий окружающей среды в условиях экстремально холодного климата.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100419
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SV32P-03/04NR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100419.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100419/baba4b3ca3df2d20c94982ae28e19e5b.jpg
+                    [alt] => Защитный кожух Wizebox SV32P-03/04NR
+                    [name] => baba4b3ca3df2d20c94982ae28e19e5b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

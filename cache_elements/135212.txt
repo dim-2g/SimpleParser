@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135212.html
+    [article] => 135212
+    [partnumber] => MP-Z02
+    [category] => Дополнительное оборудование СКУД
+    [brand] => Rosslare
+    [name] => Дистансер Rosslare MP-Z02
+    [price] => 1875
+    [price_small] => 1827
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Дистансер Rosslare MP-Z02 – это специальное монтажное крепление, используемое для установки считывателя Rosslare AY-Z12. Оно позволяет осуществить монтаж системы контроля доступа на расстоянии в 50 мм от стены, что обеспечивает стабильную работу прибора.</p>
+<p>Данный зазор исключает воздействие электромагнитных полей других оборудований и предотвращает возникновение электрического потенциала, который может исказить сигнал и негативно отразиться на работе считывателя. Благодаря использованию прочного пластика, крепление-распорка может эксплуатироваться в суровых погодных условиях, что делает ее пригодной для установки вне помещения.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135212
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MP-Z02
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135212.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135212/b7a441e511f414aa35ea9ff132f04797.jpg
+                    [alt] => Дистансер Rosslare MP-Z02
+                    [name] => b7a441e511f414aa35ea9ff132f04797.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

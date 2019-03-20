@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125183.html
+    [article] => 125183
+    [partnumber] => EXPTC000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC EXPTC000
+    [price] => 599946
+    [price_small] => 605888
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух VIDEOTEC EXPTC000, представленный в комплекте с поворотным устройстваом, способен защитить камеру видеонаблюдения на нефтеперерабатывающих и иных химических предприятиях. Держатель перемещается как по вертикали, так и по горизонтали в большом диапазоне и с высокой скоростью (-90°/+90° скорость: 2.4°/сс; 360° скорость 6°/с).</p>
+<p>Интегрированный корпус из алюминиевого сплава покрыт специальным антикоррозийным порошком, повышающим устойчивость конструкции к перепадам влаги и температуры. Встроенный обогреватель с терморегулятором обеспечивает своевременный нагрев камеры либо его отключение при нормализации окружающих условий.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125183
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EXPTC000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125183.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125183/9892742b99c6e4fc0dfd84248ac60835.jpg
+                    [alt] => Кожух VIDEOTEC EXPTC000
+                    [name] => 9892742b99c6e4fc0dfd84248ac60835.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

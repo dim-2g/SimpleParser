@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/118869.html
+    [article] => 118869
+    [partnumber] => HEB-320H-220
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => LTV
+    [name] => Термокожух LTV HEB-320H-220
+    [price] => 4900
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух LTV LTV-HEB-320H-220 для видеокамер размером до 105x100x280 мм, модель LTV-HEB-320H-220 со встроенным нагревателем и с питанием от сети 220 В. Поддерживает оптимальную температуру внутри кожуха для видеокамеры в пределах +15°C - +25°C.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -25 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 118869
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEB-320H-220
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => LTV
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/118869.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/118869/3b592de0496405c3837cbcce67aa2952.jpg
+                    [alt] => Термокожух LTV HEB-320H-220
+                    [name] => 3b592de0496405c3837cbcce67aa2952.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159150.html
+    [article] => 159150
+    [partnumber] => UHO-HGS-11
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHO-HGS-11
+    [price] => 12494
+    [price_small] => 12817
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух BOSCH UHO-HGS-11 - уличный термокожух с обогревателем и размораживателем входного стекла, солнцезащитный козырек, IP66, NEMA 4x, (камера+объектив до 262 мм), от -40 до +50 C, входное питание 24 В (АС) =&gt; выходное питание 12B (DС).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159150
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHO-HGS-11
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159150.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159150/60ed498d23b0d02010f3851d4e780d60.jpg
+                    [alt] => Кожух BOSCH UHO-HGS-11
+                    [name] => 60ed498d23b0d02010f3851d4e780d60.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

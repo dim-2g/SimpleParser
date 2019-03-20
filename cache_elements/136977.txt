@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/136977.html
+    [article] => 136977
+    [partnumber] => ST-EX001RF
+    [category] => Контроллеры
+    [brand] => Smartec
+    [name] => Комплект управления Smartec ST-EX001RF
+    [price] => 1035
+    [price_small] => 1239
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект управления Smartec ST-EX001RF рассчитан на осуществление контроля на расстоянии за различными устройствами, подходит для бесконтактного открывания замков, дверей, руководства освещением, турникетами, которые подключены к системе управления доступом.</p>
+<p>Набор состоит из приемника, который имеет три режима работы и поддерживает до 30 брелоков, и передатчика в виде брелока с двумя кнопками.</p>
+<p>Данная модель имеет один канал и программируется при помощи одной кнопки, также в конструкцию встроены световые индикаторы. Триггерный, следящий и импульсивный режимы работы переключаются перемычкой для выбора режимов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 136977
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ST-EX001RF
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/136977.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/136977/c8a73dfb45c43a9165f6b462540cf84e.jpg
+                    [alt] => Комплект управления Smartec ST-EX001RF
+                    [name] => c8a73dfb45c43a9165f6b462540cf84e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

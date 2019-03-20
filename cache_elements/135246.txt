@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135246.html
+    [article] => 135246
+    [partnumber] => MD-N32
+    [category] => Контроллеры
+    [brand] => Rosslare
+    [name] => Конвертер Rosslare MD-N32
+    [price] => 12029
+    [price_small] => 11876
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Конвертер Rosslare MD-N32 – это последовательный порт Ethernet, предназначенный для подключения контроллеров к компьютеру через протокол сети. Конверторный блок осуществляет быстрый обмен данными между конечными оборудованиями со скоростью до 115 Кбис/с, что позволяет обрабатывать информацию и посылать команды на панель СКУД за считанные секунды.</p>
+<p>Высокопроизводительный шлюз поддерживает шесть протоколов, оснащен двумя светодиодами и несколькими сетевыми режимами, поэтому он отличается простотой настройки и эксплуатации. Также устройства оборудовано стандартным разъемом LAN, а также гнездом R9 для подсоединения сшитого кабеля RS-232.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135246
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MD-N32
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135246.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135246/0d32531b1e179adccc53f79d7b92be3d.jpg
+                    [alt] => Конвертер Rosslare MD-N32
+                    [name] => 0d32531b1e179adccc53f79d7b92be3d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

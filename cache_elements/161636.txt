@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/161636.html
+    [article] => 161636
+    [partnumber] => SNR-tunablebox
+    [category] => Считыватели
+    [brand] => SNR
+    [name] => Программатор XFP/SFP SNR SNR-tunablebox
+    [price] => 66415
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Программатор XFP/SFP SNR SNR-tunablebox позволяет осуществлять программирование (выбор нового канала) перестраиваемых DWDM модулей марки SNR на любые каналы в С диапазоне.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 161636
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SNR-tunablebox
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => SNR
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/161636.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/161636/0be77ca3a3d20d0d218e78466c0ba769.jpg
+                    [alt] => Программатор XFP/SFP SNR SNR-tunablebox
+                    [name] => 0be77ca3a3d20d0d218e78466c0ba769.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

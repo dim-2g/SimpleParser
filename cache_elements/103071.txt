@@ -1,0 +1,108 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/103071.html
+    [article] => 103071
+    [partnumber] => STH-5230D-PSU2
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Smartec
+    [name] => Термокожух Smartec STH-5230D-PSU2
+    [price] => 11770
+    [price_small] => 10963
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Smartec STH-5230D-PSU2 имеет достаточно большое внутреннее пространство, что позволяет размещать в нем практически любую современную камеру видеонаблюдения. Он оборудован двумя обогревателями, что позволяет создавать и поддержиивать требуемый температурный режим для бесперебойной работы установленного оборудования.</p>
+<p>Термокожух сделан из литого алюминия и дополнительно защищен несколькими слоями краски. Он полностью герметичен и соответствует степени защиты IP 67. Внутри установлена передвижная пластина, которая позволяет максимально точно выставить камеру.</p>
+<p>Для быстрого доступа к оборудованию, верхняя часть корпуса полностью открывается.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Черный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -50 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 103071
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => STH-5230D-PSU2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/103071.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/103071/9188cebd1a94c3fafe9e81055662f6ed.jpg
+                    [alt] => Термокожух Smartec STH-5230D-PSU2
+                    [name] => 9188cebd1a94c3fafe9e81055662f6ed.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

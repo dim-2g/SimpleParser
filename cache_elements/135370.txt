@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135370.html
+    [article] => 135370
+    [partnumber] => WHE26-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox WHE26-24V
+    [price] => 12430
+    [price_small] => 7201
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух для стандартной видеокамеры со сменным объективом, рабочий режим телекамер до -35°С, электронный термостат, дополнительный обогреватель под стеклом.</p>  <p>Прокладки из авиационной резины. Защищает телекамеру с фиксированным или вариообъективом от неблагоприятных воздействий окружающей среды в условиях умеренного климата.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135370
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WHE26-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135370.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135370/5b23091f9f0fecb821a3ead9a82a5d86.jpg
+                    [alt] => Защитный кожух Wizebox WHE26-24V
+                    [name] => 5b23091f9f0fecb821a3ead9a82a5d86.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

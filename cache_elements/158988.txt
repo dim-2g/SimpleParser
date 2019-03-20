@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158988.html
+    [article] => 158988
+    [partnumber] => VGA-BUBHD-CTIA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Купол BOSCH VGA-BUBHD-CTIA
+    [price] => 7178
+    [price_small] => 7363
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол BOSCH VGA-BUBHD-CTIA используется для защиты видеокамеры от механических повреждений, а также предотвращает попадание внутрь корпуса пыли и влаги. Благодаря соответствию международным стандартам безопасности и соблюдению конструкционных норм, модель отличается высокой совместимостью с потолочными и настенными кронштейнами.</p>
+<p>Тонированное стекло позволяет скрыть камеру от глаз потенциальных нарушителей, что усложняет определение угла ее обзора. Обзорная панель выполнена из акрила повышенной прозрачности, что дает возможность реализовать съемку в HD-качестве. Изделие отличается надежностью и простотой установки.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158988
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VGA-BUBHD-CTIA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158988.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158988/565a6103a9c27b484f7159ef79ca4cd4.jpg
+                    [alt] => Купол BOSCH VGA-BUBHD-CTIA
+                    [name] => 565a6103a9c27b484f7159ef79ca4cd4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

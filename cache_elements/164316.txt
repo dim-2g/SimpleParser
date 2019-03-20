@@ -1,0 +1,91 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/164316.html
+    [article] => 164316
+    [partnumber] => SL-200TNR
+    [category] => Технические средства охраны периметра
+    [brand] => Optex
+    [name] => Инфракрасный барьер Optex SL-200TNR
+    [price] => 17784
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Инфракрасный барьер Optex SL-200TNR – двухлучевой извещатель малой и средней дальности, предназначенный для беспроводных или гибридных систем охраны. Это наиболее простое и экономичное решение среди все активных извещателей OPTEX. В полностью беспроводной системе оба блока извещателя работают от батарей, в гибридной – один из блоков подключается к электросети.</p>
+<p>Передатчик SL-TNR способен по ИК-каналу отправлять приемнику специальный сигнал, показывающий, что уровень заряда батареи понизился до критичной отметки. Благодаря этому извещатель способен работать только с одним беспроводным передатчиком.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Охранный
+                )
+
+            [Принцип работы] => Core\Option Object
+                (
+                    [name] => Принцип работы
+                    [value] => Инфракрасный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 164316
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SL-200TNR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optex
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164316.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164316/1228e062a23919e887d777d55064bf32.jpg
+                    [alt] => Инфракрасный барьер Optex SL-200TNR
+                    [name] => 1228e062a23919e887d777d55064bf32.jpg
+                )
+
+            [1] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164316_1.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164316/8ce31c4f0b7a99965b93e486af894fb8.jpg
+                    [alt] => Вид внутри на инфракрасный барьер Optex SL-200TNR
+                    [name] => 8ce31c4f0b7a99965b93e486af894fb8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,84 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/161965.html
+    [article] => 161965
+    [partnumber] => SVS32P-P13
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Кожух Wizebox SVS32P-P13 защитный для IP-телекамер
+    [price] => 13399
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Wizebox SVS32P-P13 защитный для IP-телекамер представляет собой функциональный и простой в обращении аксессуар, защищающий камеры видеонаблюдения от негативного воздействия внешних раздражителей, в том числе и атмосферных явлений в условиях экстремально холодного климата.</p>
+<p>Встроенный электронный датчик температур гарантирует своевременное включение термореле. 
+В числе прочих особенностей модели можно отметить встроенный элемент питания для камеры, низкий уровень потребления энергии, обогрев переднего стекла по уникальной технологии без запотевания объектива и универсальное входное напряжение.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -55 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 161965
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS32P-P13
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/161965.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/161965/cff8f9ddf1a3a0d70205595a980a5d10.jpg
+                    [alt] => Кожух Wizebox SVS32P-P13 защитный для IP-телекамер
+                    [name] => cff8f9ddf1a3a0d70205595a980a5d10.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

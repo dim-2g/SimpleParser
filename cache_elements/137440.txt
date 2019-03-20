@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/137440.html
+    [article] => 137440
+    [partnumber] => IC03
+    [category] => Сетевые СКУД
+    [brand] => PERCo
+    [name] => Картоприемник PERCo IC03
+    [price] => 33028
+    [price_small] => 47478
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Картоприемник PERCo IC03 – это стационарное оборудование, используемое в полномасштабных системах контроля доступа. Оно ограничивает круг пользователей, которые могут проникать на предприятие, обеспечивая проход постоянных сотрудников с картами.</p>  <p>Особенностью модели является встроенный контейнер для изъятых карт-пропускников, который отличается своей вместительностью и простотой извлечения. Также к преимуществам устройства относится высокая отказоустойчивость и надежность, поэтому средний срок службы достигает 8 лет.</p>  <p>Индикационный блок упрощает управление аппаратом, а за счет стильного исполнения из нержавеющей стали он легко вписывается в современный дизайн проходных СКУД.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 137440
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => IC03
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => PERCo
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/137440.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/137440/45ea3d7d7c3fe32b416cafa93505a447.jpg
+                    [alt] => Картоприемник PERCo IC03
+                    [name] => 45ea3d7d7c3fe32b416cafa93505a447.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

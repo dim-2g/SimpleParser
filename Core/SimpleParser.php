@@ -59,13 +59,17 @@ class SimpleParser
      */
     public $logger;
 
-    function __construct()
+    function __construct(Product $product = null)
     {
-        $this->remote_host = 'https://www.domain.ltd/';
+        $this->remote_host = 'https://www.domain.ru/';
         $this->root = dirname(__DIR__);
         $this->cache_path = $this->root . '/cache';
         $this->images_path = $this->root . '/images';
-        $this->product = new Product();
+        if ($product instanceof Product) {
+            $this->product = clone $product;
+        } else {
+            $this->product = new Product();
+        }
         $this->log = new Logger('log.txt');
     }
 
@@ -74,10 +78,14 @@ class SimpleParser
 
     }
 
-    public function parseOnePageByArticle($article)
+    public function parseOnePageByArticle($article = '')
     {
-        $this->article = $article;
-        $url = $this->getRemotePageAddress($article);
+        if (empty($this->product->article)) {
+            die('Не найден артикул');
+        }
+        $this->article = $this->product->article;
+        $url = $this->getRemotePageAddress($this->product->article);
+        $this->product->remote_url = $url;
         return $this->parseOnePageByUrl($url);
     }
 
@@ -92,7 +100,7 @@ class SimpleParser
         $this->findOptions($this->raw_content);
         $this->findImages($this->raw_content);
 
-        $this->product->toString(true);
+        //$this->product->toString(true);
         //echo $this->product->toJson();
 
         if ($asJson) {
@@ -207,7 +215,7 @@ class SimpleParser
                     $this->log->write('findImages: не удалось загрузить изображение: ' . $image->remote_path);
                 }
                 if (is_readable($image->local_path)) {
-                    $this->product->image = $image;
+                    $this->product->images[] = $image;
                 }
             }
         }

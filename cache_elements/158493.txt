@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158493.html
+    [article] => 158493
+    [partnumber] => API-AMC2-16IOE
+    [category] => Адресные системы пожарной сигнализации
+    [brand] => BOSCH
+    [name] => Модуль расширения BOSCH API-AMC2-16IOE
+    [price] => 51840
+    [price_small] => 54923
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Модуль расширения BOSCH API-AMC2-16IOE находит применение при установке пожарно-охранных систем. Оборудование оснащено 16 входами и выходами для подключения контроллеров серии AMC2. Оно играет роль адаптера и используется при передаче информации о состоянии дверей: открыто или закрыто. Скорость транспортировки данных достигает 9.6 Кбит/с по всем каналам.</p>
+<p>Для питания прибора используется источник постоянного тока напряжением 10 или 30 В. Корпус изготовлен из поликарбоната, устойчивого к ударам и попаданию жидкости. Модуль расширения отличается стабильностью функционирования при продолжительных нагрузках.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158493
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => API-AMC2-16IOE
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158493.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158493/d6c80a9d45d681a2232b6a241b0f3990.jpg
+                    [alt] => Модуль расширения BOSCH API-AMC2-16IOE
+                    [name] => d6c80a9d45d681a2232b6a241b0f3990.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

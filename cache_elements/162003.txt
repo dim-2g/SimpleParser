@@ -1,0 +1,101 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162003.html
+    [article] => 162003
+    [partnumber] => SVS32-42V-mbsc25
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox SVS32-42V-mbsc25 с кронштейном
+    [price] => 10344
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox SVS32-42V-mbsc25 с кронштейном с фиксированным или вариообъективом от неблагоприятных воздействий окружающей среды в условиях холодного климата.</p>
+<h3>Особенности:</h3>
+<ol>
+<li>Входное напряжение: ~42В</li>
+<li>Надежное и своевременное включение и выключение нагревателя при помощи оптореле и электронного термодатчика</li>
+<li>Гальваническая трансформаторная развязка по питанию, встроенный источник питания</li>
+<li>Все крепежные изделия изготовлены из нержавеющей стали</li>
+<li>Герметизирующие прокладки изготовлены из Армлена</li>
+<li>Безаварийный режим включения телекамеры на морозе (питание на телекамеру подается только после предварительного прогрева)</li>
+<li>Контроль и поддержиание температуры непосредственно телекамеры</li>
+<li>Уникально низкое энергопотребление</li>
+<li>Кронштейн с полускрытым каналом</li>
+<li>Возможна покраска в любой цвет по шкале RAL</li>
+</ol>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -52 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162003
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS32-42V-mbsc25
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162003.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162003/e78aefabc0795f7bb63720e7b742f390.jpg
+                    [alt] => Термокожух Wizebox SVS32-42V-mbsc25 с кронштейном
+                    [name] => e78aefabc0795f7bb63720e7b742f390.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

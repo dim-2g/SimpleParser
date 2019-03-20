@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124897.html
+    [article] => 124897
+    [partnumber] => HPV36K2A000B
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HPV36K2A000B
+    [price] => 6309
+    [price_small] => 6223
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HPV36K2A000B представляет собой компактный термокожух, который применяется для защиты видеокамеры, неподготовленной к установке в суровых уличных условиях. Особенностью модели является антивандальное исполнение, позволяющее предотвратить преждевременный выход из строя используемого видеооборудования вследствие атак злоумышленников.</p>
+<p>Также кожух оборудован низковольтным обогревателем, который обеспечивает эффективный прогрев воздуха внутри изделия при низкой температуре окружающей среды. Предельная мощность продукта равна 20 W, что свидетельствует об экономном потреблении электроэнергии даже при максимальной нагрузке.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124897
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HPV36K2A000B
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124897.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124897/b1d0cc06cfef5ce075b07dfb1560cd93.jpg
+                    [alt] => Корпус VIDEOTEC HPV36K2A000B
+                    [name] => b1d0cc06cfef5ce075b07dfb1560cd93.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

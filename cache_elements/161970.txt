@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/161970.html
+    [article] => 161970
+    [partnumber] => SV26-03/04МNR
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Кожух Wizebox SV26-03/04МNR защитный для видеокамер
+    [price] => 11840
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Wizebox SV26-03/04МNR защитный для видеокамер – защитная конструкция для видеокамер, позволяющая эксплуатировать устройства в агрессивных средах. Усовершенствованная модель поддерживает подачу сигналов по витой паре на расстояния до 1 км. Внутри конструкции оборудован обогреватель, включением которого руководит термодатчик. Камера питается от встроенного аккумулятора.</p>
+<p>Для изготовления кожуха берется алюминий с антикоррозийным покрытием. Прокладки из авиационной резины обеспечивают герметичность корпуса. Оборудованы входы для подключения кабелей. Кронштейн выдерживает нагрузку до 50 кг.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -52 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 161970
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SV26-03/04МNR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/161970.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/161970/19f7505f66686fc69a83eebe05d4b31e.jpg
+                    [alt] => Кожух Wizebox SV26-03/04МNR защитный для видеокамер
+                    [name] => 19f7505f66686fc69a83eebe05d4b31e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

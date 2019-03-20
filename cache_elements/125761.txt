@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125761.html
+    [article] => 125761
+    [partnumber] => HOV-260H-12-PoE
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => LTV
+    [name] => Термокожух LTV HOV-260H-12-PoE
+    [price] => 27800
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух LTV-HOV-260H-12-PoE используется для защиты камеры от внешнего воздействия. Он предназначен для расположения на улице и предупреждает порчу оборудования от снега, дождя, града, сильных ветров и механических ударов. Универсальная модель подходит для камер с фиксированным и фокусным объективом.</p>
+<p>Для изготовления конструкции берется алюминий с порошковым напылением. Внутри корпуса располагается нагреватель для эксплуатации кожуха при экстремально низких температурах. Питание осуществляется с помощью PoE-технологии. Для крепежа используется штатный кронштейн, позволяющий сокрыть лишние кабели и проводку.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67/IP68
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -50 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125761
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HOV-260H-12-PoE
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => LTV
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125761.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125761/ec57cc7f724edd4ca665a68130b6c090.jpg
+                    [alt] => Термокожух LTV HOV-260H-12-PoE
+                    [name] => ec57cc7f724edd4ca665a68130b6c090.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

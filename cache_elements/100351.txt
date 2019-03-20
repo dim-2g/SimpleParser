@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100351.html
+    [article] => 100351
+    [partnumber] => EL210-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox EL210-24V
+    [price] => 4001
+    [price_small] => 2986
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox EL210-24V является идеальным решением для защиты видеокамеры с вариофокальным/фиксированным объективом от неблагоприятных факторов окружающей среды. Модель уберегает видеооборудование, установленное внутри корпуса, не только от пыли, но и от водяных струй с любого направления, что подтверждает степень пыле-влагозащищенности IP66.</p>
+<p>Алюминиевый корпус обеспечивает необходимую защиту от механических повреждений, а в сумме с наличием воздушной подушки между солнцезащитным козырьком и боксом, он помогает избежать излишнего нагрева камеры. Предусмотрен помехоподавляющий фильтр, применяемый для ослабления вредоносных сигналов и помех, которые могут поступать по линии энергоснабжения.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100351
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EL210-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100351.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100351/fd841b6d06826398f9ddcbccb68ed08a.jpg
+                    [alt] => Защитный кожух Wizebox EL210-24V
+                    [name] => fd841b6d06826398f9ddcbccb68ed08a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

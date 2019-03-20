@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159021.html
+    [article] => 159021
+    [partnumber] => ISC-PMC-F3S
+    [category] => Извещатели охранные
+    [brand] => BOSCH
+    [name] => Извещатель BOSCH ISC-PMC-F3S
+    [price] => 984
+    [price_small] => 1044
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>BOSCH ISC-PMC-F3S – магнитный контакт, предназначенный для контроля за открыванием оконных проемов и дверей. Он размещается в составе систем безопасности и предупреждает несанкционированное проникновение на охраняемую территорию. Модель совместима с конструкциями из ферромагнитных материалов.</p>
+<p>Преимуществом контакта выступает простота установки. Предусмотрен утопленный монтаж с использованием фланцев, для фиксации используется магнит. Возможно размещение внутри специальной пластиковой трубки.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159021
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ISC-PMC-F3S
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159021.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159021/5a3a3e6b28ccf3c51ddaaa030471e554.jpg
+                    [alt] => Извещатель BOSCH ISC-PMC-F3S
+                    [name] => 5a3a3e6b28ccf3c51ddaaa030471e554.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135303.html
+    [article] => 135303
+    [partnumber] => SA-26G
+    [category] => Идентификаторы
+    [brand] => Rosslare
+    [name] => Передатчик Rosslare SA-26G
+    [price] => 2910
+    [price_small] => 3197
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Передатчик Rosslare SA-26G - компактное беспроводное устройства, которое служит для моментальной передачи сигнала тревоги на основной блок. Модель выполнена из ударопрочного пластика. Небольшой размер и малый вес позволяют носить агрегат в кармане или руке. Он имеет всего одну кнопку, защищенную от случайного нажатия, что гарантирует быстрый вызов команды "тревога".</p>
+<p>Аппарат можно использовать как внутри помещения так и снаружи. В открытом пространстве дальность передачи сигнала достигает отметки в 80 м, в закрытом 50 м. Уровень контроля заряда батареи легко контролировать благодаря наличию яркого светодиода на передней стенке прибора.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135303
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-26G
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135303.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135303/e80791ef3b9ac6f038b13d283813ba04.jpg
+                    [alt] => Передатчик Rosslare SA-26G
+                    [name] => e80791ef3b9ac6f038b13d283813ba04.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

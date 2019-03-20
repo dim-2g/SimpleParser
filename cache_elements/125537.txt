@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125537.html
+    [article] => 125537
+    [partnumber] => AXO 7
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME AXO 7
+    [price] => 46880
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>В качестве механизма для распашных ворот от итальянского производителя можно убедиться, если купить автоматический привод Came AXO 7.</p><p>Для модели характерен быстрый и качественный монтаж даже в условиях ограниченного пространства.</p><p>Устройство предназначено для интенсивной работы, независимо от атмосферных воздействий и других неблагоприятных факторов.</p><p>Электропривод не требует смазки и прост в обслуживании.</p><p>Безопасность системы гарантирует возможность управлять скоростью движения ворот. </p>
+    [complectation] => <ul><li>AX71230 Привод 230В линейный не блокирующийся с электронными концевиками. С датчиком контроля движения и обнаружения препятствий (инкодер). Электрозамок обязателен. 2</li><li>ZM3E Блок управления многофункциональный 1</li></ul>
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125537
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => AXO 7
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125537.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125537/a025f5a9d29296bf00e5d19e05193575.jpg
+                    [alt] => Комплект CAME AXO 7
+                    [name] => a025f5a9d29296bf00e5d19e05193575.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

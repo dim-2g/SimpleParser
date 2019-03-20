@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124801.html
+    [article] => 124801
+    [partnumber] => NTL1K1500
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC NTL1K1500
+    [price] => 508832
+    [price_small] => 503795
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC NTL1K1500 – прочная конструкция, предназначенная для установки IP-видеокамер и их защиты от внешнего воздействия среды. Корпус не только фиксирует оборудование, но и позволяет менять его угол наклона в зависимости от действия датчиков движения. Модель оснащена солнцезащитным козырьком, предупреждающем появление бликов в кадре.</p>
+<p>Полукруглое окошко из ударопрочного стекла используется для защиты объектива и гарантирует хорошую видимости. Конструкция поддерживает установку нагревателя, а питание системы осуществляется с помощью технологии PoE.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124801
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NTL1K1500
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124801.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124801/67d0f97ec2a21834a8d383c1b1b8cba9.jpg
+                    [alt] => Термокожух VIDEOTEC NTL1K1500
+                    [name] => 67d0f97ec2a21834a8d383c1b1b8cba9.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

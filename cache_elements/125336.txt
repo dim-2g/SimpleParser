@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125336.html
+    [article] => 125336
+    [partnumber] => 001DFI
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Плата CAME 001DFI
+    [price] => 1168
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Плата Came DFI.</p><p>Используется для выполнения подключения чувствительных профилей безопасности DF15, DF17, DF20, DF25 к БУ и самодиагностирования электроконтактов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125336
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001DFI
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125336.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125336/8889dcfb8cf17206478fa8d2a72fecd3.jpg
+                    [alt] => Плата CAME 001DFI
+                    [name] => 8889dcfb8cf17206478fa8d2a72fecd3.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

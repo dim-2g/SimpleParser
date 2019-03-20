@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135158.html
+    [article] => 135158
+    [partnumber] => MD-IO84
+    [category] => Дополнительное оборудование СКУД
+    [brand] => Rosslare
+    [name] => Плата Rosslare MD-IO84
+    [price] => 11835
+    [price_small] => 13247
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Плата Rosslare MD-IO84 – это расширительная микросхема, позволяющая увеличить количество контролируемых входов/выходов на охраняемом объекте. Данное устройства устанавливается опционально и поддерживает работу с сетевыми контроллерами AC -225/AC-425.</p>
+<p>Модель обеспечивает возможность пополнить панель управления 4 дополнительными релейными выходами и 8 входами, которые нуждаются в постоянном контроле. Настройка функционирования дверей осуществляется через ПК, при условии установленного программного обеспечения. Для питания оборудования требуется стабильное напряжение в 12 B.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135158
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MD-IO84
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135158.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135158/d35446dc4a2378094e2392334653971b.jpg
+                    [alt] => Плата Rosslare MD-IO84
+                    [name] => d35446dc4a2378094e2392334653971b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

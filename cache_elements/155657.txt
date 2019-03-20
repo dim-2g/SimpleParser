@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/155657.html
+    [article] => 155657
+    [partnumber] => T95A10
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => AXIS
+    [name] => Купольный кожух AXIS T95A10
+    [price] => 48749
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купольный кожух AXIS T95A10 – это специальное устройства, предназначенное для обеспечения стабильного функционирования сетевых видеокамер вне зависимости от температуры окружающей среды и погодных условий. Модель имеет верхнюю систему открывания, что облегчает фиксацию камеры.</p>
+<p>Нижняя часть устройства в виде прозрачной полусферы обеспечивает превосходную передачу картинки без разводов и прочих дефектов. Защитный держатель оснащен вентиляторами, системой отопления и источником питания, что делает его универсальным и простым в эксплуатации. Корпус имеет высокий класс защиты IP66, что свидетельствует о защите от влаги и пыли.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 155657
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => T95A10
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => AXIS
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/155657.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/155657/d91f58ff5decf5f1e99aadc19577ff37.jpg
+                    [alt] => Купольный кожух AXIS T95A10
+                    [name] => d91f58ff5decf5f1e99aadc19577ff37.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

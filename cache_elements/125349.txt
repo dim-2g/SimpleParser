@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125349.html
+    [article] => 125349
+    [partnumber] => 001E781A
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Принадлежности для передающей системы CAME 001E781A
+    [price] => 768
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Принадлежности для передающей системы CAME 001E781A, необходимо 2 штуки. При установке двух приводов не используются.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125349
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001E781A
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125349.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125349/5e2f7ae0aa4f2e0e23c9f8822edf9007.jpg
+                    [alt] => Принадлежности для передающей системы CAME 001E781A
+                    [name] => 5e2f7ae0aa4f2e0e23c9f8822edf9007.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/164157.html
+    [article] => 164157
+    [partnumber] => Гранит-5
+    [category] => Приёмно-контрольные приборы
+    [brand] => Сибирский Арсенал
+    [name] => Прибор приемно-контрольный Гранит 5 Сибирский Арсенал
+    [price] => 3785
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Прибор приемно-контрольный Гранит 5 - устройства, разработанное для автономного и дистанционного контроля территории с установленными контактными и запитываемыми пожарными и охранными датчиками. Аппарат анализирует явления, происходящие в контролируемой зоне и включает приборы оповещения и передачу извещений на центральный пульт.</p>  <p>Во время установки и снятия шлейфов сигнализации с охраны производится сброс ранее сработавших пожарных извещателей. Сброс осуществляется снятием напряжения со шлейфов на 2 секунды. Устройство имеет десять возможных тактик использования, выбор которых производится установкой имеющихся на плате перемычек.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 164157
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => Гранит-5
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Сибирский Арсенал
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164157.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164157/dff3b83585c5fa777705604a3c0c5fdb.jpg
+                    [alt] => Прибор приемно-контрольный Гранит 5 Сибирский Арсенал
+                    [name] => dff3b83585c5fa777705604a3c0c5fdb.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

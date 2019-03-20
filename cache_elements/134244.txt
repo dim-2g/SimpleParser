@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134244.html
+    [article] => 134244
+    [partnumber] => H1/12
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => RVi
+    [name] => Термокожух RVi H1/12
+    [price] => 2376
+    [price_small] => 2970
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух RVi H1/12 - компактное и простое в обращении приспособление, для защиты камер, входящих в состав систем видеонаблюдения, от внешних раздражителей. Крепкий козырек предохраняет устройства от попадания на них частичек пыли, прямых солнечных лучей и атмосферных осадков.</p>
+<p>Аксессуар прост в монтаже и неприхотлив в уходе. Его корпус, выполненный из высокопрочного алюминиевого сплава, сохраняет форму при эксплуатации в широком диапазоне температур воздуха. Модель имеет встроенный обогреватель и вентиляторр, что позволяет ей поддержиивать оптимальную для большинства современных камер рабочую среду.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 55 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134244
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => H1/12
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => RVi
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134244.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134244/f0f3482828c2caad9738494cb5bf2674.jpg
+                    [alt] => Термокожух RVi H1/12
+                    [name] => f0f3482828c2caad9738494cb5bf2674.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124840.html
+    [article] => 124840
+    [partnumber] => OHOTS
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Козырек VIDEOTEC OHOTS
+    [price] => 587
+    [price_small] => 666
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Козырек VIDEOTEC OHOTS представляет собой дополнительный элемент термокожухов модели Punto, который обеспечивает защиту объектива камеры от засветки солнечным светом и от негативного влияния ультрафиолетового излучения. Благодаря данному продукту, пользователь может наладить оптимальную работу используемой видеокамеры, эксплуатируемой в уличной среде.</p>
+<p>Солнцезащитная крышка выполнена из технополимера, что гарантирует длительный срок службы изделия, а его обтекаемая форма уменьшает влияние сильного ветра или дождя на работу видеооборудования. Также модель отличается простотой установки, реализацию которой сможет осуществить даже неопытный пользователь.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124840
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => OHOTS
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124840.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124840/992223674593904f80a5ef1fcca031a8.jpg
+                    [alt] => Козырек VIDEOTEC OHOTS
+                    [name] => 992223674593904f80a5ef1fcca031a8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

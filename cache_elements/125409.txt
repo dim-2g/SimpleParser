@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125409.html
+    [article] => 125409
+    [partnumber] => 001G0467
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Шарнир CAME 001G0467
+    [price] => 8720
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Шарнир для складной стрелы 001G0401, 001G0601 Came 001G0467. </p><p>Шарнир для складной стрелы представляет собой устройства, состоящее из кронштейна (монтируется на тумбу шлагбаума) и шарнира (монтируется на стрелу).</p><p>Эти основные элементы конструкции связывает с между собой прочный натяжной трос.</p><p>Применяется в местах с низким перекрытием и в случае необходимости контролировать проезд транспортных средств, ограничивая их движение по высоте.</p><p>Точно определенное место установки шарнира для складной стрелы разрешает задавать высоту, достигая которую часть стрелы принимает положение в 90 градусов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125409
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001G0467
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125409.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125409/e542e596ed4a8b96b5a85846d8cd7bae.jpg
+                    [alt] => Шарнир CAME 001G0467
+                    [name] => e542e596ed4a8b96b5a85846d8cd7bae.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

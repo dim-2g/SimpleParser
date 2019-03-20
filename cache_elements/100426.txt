@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100426.html
+    [article] => 100426
+    [partnumber] => SV26P-08
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SV26P-08
+    [price] => 13964
+    [price_small] => 13634
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Wizebox SV26P-08 – защитный кожух, устанавливаемый поверх IP-камер. Конструкция позволяет развертывать системы охранного видеонаблюдения в тяжелых климатических условиях. Модель оснащена козырьком, снижающим негативное воздействие осадком. Располагающееся напротив объектива окошко из ударопрочного стекла обеспечивает хорошую видимость и резкость картинки.</p>
+<p>Встроенная система обогрева включается автоматически и сохраняет постоянный температурный режим. Корпус изготовлен из экструзионного алюминия с порошковым антикоррозийным покрытием. Прокладки из авиационной резины отвечают за герметичность кожуха.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100426
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SV26P-08
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100426.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100426/e220aa3a7fd1e004bfebe9a0b344edbb.jpg
+                    [alt] => Защитный кожух Wizebox SV26P-08
+                    [name] => e220aa3a7fd1e004bfebe9a0b344edbb.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

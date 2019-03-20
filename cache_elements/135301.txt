@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135301.html
+    [article] => 135301
+    [partnumber] => SA-33
+    [category] => Идентификаторы
+    [brand] => Rosslare
+    [name] => Передатчик Rosslare SA-33
+    [price] => 1681
+    [price_small] => 3197
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Передатчик Rosslare SA-33 - функциональное, надежное и простое в обращении устройства, которое используется в современных системах контроля доступа. Брелок этой модели служит для моментальной передачи сигнала на основную панель.</p>
+<p>Прибор имеет пять клавиш и позволяет включить или снять охрану на определенной территории, а также сигнализировать о тревоге. Кнопки надежно защищены от случайного нажатия.</p>
+<p>На передней панели брелка располагается яркий светодиод, позволяющий контролировать рабочее состояние прибора и уровень заряда установленной в него батареи. В числе прочих достоинств стоит отметить 16 млн кодовых комбинаций и возможность внедрить в одну охранную систему сразу несколько таких устройства.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135301
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-33
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135301.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135301/cd81f15f3d3fff34c9780e9e02e10f27.jpg
+                    [alt] => Передатчик Rosslare SA-33
+                    [name] => cd81f15f3d3fff34c9780e9e02e10f27.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

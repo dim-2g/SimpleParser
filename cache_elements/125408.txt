@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125408.html
+    [article] => 125408
+    [partnumber] => 001G0465
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Шторка CAME 001G0465
+    [price] => 6000
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Шторка под стрелу шлагбаума (по 2 метра) для стрелы 001G0401, 001G0402, 001G0601, 001G0602 Came 001G0465.</p><p>Шторка под стрелу автоматического шлагбаума выполнена в виде наборных секций по 2 метра длиной каждая.</p><p>Данное приспособление является дополнительным барьером между проезжей частью и стрелой шлагбаума.</p><p>Шторка под стрелу изготовлена из алюминиевых планок, окрашенных в красный и белый цвет, что представляет собой дополнительную сигнализацию и выделяет шлагбаум среди окружающих предметов и строений.</p><p>Благодаря шарнирному соединению в вертикальном положении происходит складывание шторки вдоль стрелы шлагбаума.</p><p>При опускании стрелы в горизонтальное положение, шторка вновь устанавливается в положение перпендикулярное стреле шлагбаума.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125408
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001G0465
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125408.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125408/14f32e5a63a12b3aba5fa7bc174d9f39.jpg
+                    [alt] => Шторка CAME 001G0465
+                    [name] => 14f32e5a63a12b3aba5fa7bc174d9f39.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134696.html
+    [article] => 134696
+    [partnumber] => CMA025
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Teleste
+    [name] => Кожух Teleste CMA025
+    [price] => 11664
+    [price_small] => 9557
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Teleste CMA025 используется для настенного размещения оптоволоконных модулей. Она обеспечивает надежную фиксацию компонентов и позволяет систематизировать их. Конструкция оснащена двумя слотами с плинтами для подключения кабелей. В верхней части корпуса размещается зажим, через который подается питание к подключенным компонентам.</p>
+<p>Конструкция изготавливается из стали с антикоррозийным покрытием, устойчивой к повышенной влажности. Корпус выдерживает механические вибрации, резкие перепады температур. Располагающиеся в стенках отверстия предупреждают перегрев кабельных систем.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134696
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CMA025
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Teleste
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134696.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134696/797dfca7f41fea377054fa4b49f20020.jpg
+                    [alt] => Кожух Teleste CMA025
+                    [name] => 797dfca7f41fea377054fa4b49f20020.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

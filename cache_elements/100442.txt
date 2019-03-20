@@ -1,0 +1,100 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100442.html
+    [article] => 100442
+    [partnumber] => RR26
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox RR26
+    [price] => 76330
+    [price_small] => 69062
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух радиационностойкий, питание кожуха 24/220В AC, напряжение для питания телекамеры 9/12В DC, 24В AC.</p>  <h3>Особенности:</h3>  <ul><li>Тип термокожуха: Термокожухи специального назначения.</li>  <li>Серия: RR.</li>  <li>Температурный режим эксплуатации термокожуха, гр. С: -10..+40.</li>  <li>Мощность излучения: до 10? рад/час.</li>  <li>Суммарная доза, накапливаемая за период эксплуатации: до 105 рад.</li>  <li>Телекамера устанавливается вертикально в свинцовой оболочке, что исключает прямое попадание направленного радиоактивного излучения на ПЗС-матрицу за счет излома оптической оси при помощи зеркала.</li>  <li>Телекамера заключена в защитную свинцовую оболочку.</li>  <li>Шарнирный механизм крепления к кронштейну позволяет наводить камеру в вертикальной и горизонтальной плоскостях.</li>  <li>Рабочая температура, гр. C: -10...+40.</li>  <li>Класс защиты от воздействия окружающей среды - IP66 (полная защита от пыли; защита от водяных струй с любых направлений).</li>  </ul><p>Защищает телекамеру с фиксированным объективом (фокусное расстояние 8 или 12 мм) от воздействия радиоактивного излучения. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100442
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => RR26
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100442.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100442/52b80b95d223c4dc3fa8b38aeb819c22.jpg
+                    [alt] => Термокожух Wizebox RR26
+                    [name] => 52b80b95d223c4dc3fa8b38aeb819c22.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

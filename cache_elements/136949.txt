@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/136949.html
+    [article] => 136949
+    [partnumber] => ST-DH605U
+    [category] => Замки
+    [brand] => Smartec
+    [name] => Фиксатор Smartec ST-DH605U
+    [price] => 2328
+    [price_small] => 2871
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Фиксатор Smartec ST-DH605U подходит для эксплуатации в случае необходимости зафиксировать двери в раскрытом состоянии, что может потребоваться при передвижении каких-либо объектов без помех.</p>
+<p>Устройство изготовлено из цинкового сплава высокого качества с порошковой покраской, установка осуществляется на пол или на стену в зоне, где показатели рабочей температуры могут быть от -10 до +55 °С. Оборудование оснащено кнопкой, которая осуществляет отключение удерживания двери, также данная модель может быть подсоединена к системе пожарной сигнализации, с помощью чего при возникновении загорания возможно герметизировать помещение.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 136949
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ST-DH605U
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/136949.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/136949/97858bc714d13d148e8c8777976565a4.jpg
+                    [alt] => Фиксатор Smartec ST-DH605U
+                    [name] => 97858bc714d13d148e8c8777976565a4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

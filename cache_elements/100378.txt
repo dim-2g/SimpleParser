@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100378.html
+    [article] => 100378
+    [partnumber] => L320
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox L320
+    [price] => 6783
+    [price_small] => 5063
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Антивандальный защитный кожух Wizebox L320 обеспечивает комплексную защиту скрытых камер и позволяет эксплуатировать их в тяжелых климатических условиях. Увеличенный полезный объем подходит для размещения большинства камер. Комплексная система подогрева начинает работать автоматически и поддерживает постоянную температуру внутри корпуса.</p>
+<p>Питание подается через кабельные вводы, предусмотренные в конструкции. За ее герметичность отвечают пенополипропиленовые прокладки. Установлен помехоподавляющий фильтр, предупреждающий возникновение высокоимпульсных скачков тока и напряжения.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100378
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => L320
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100378.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100378/58717c415fde8b2a832e00b94abebaa3.jpg
+                    [alt] => Защитный кожух Wizebox L320
+                    [name] => 58717c415fde8b2a832e00b94abebaa3.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154238.html
+    [article] => 154238
+    [partnumber] => UIM-01
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль Parsec UIM-01
+    [price] => 1839
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Плата для сопряжения контроллеров Parsec с турникетами дает возможность приводить к нормальным значениям, необходимым для корректной работы контроллеров сигнал от датчика поворота турникета (по уровню и длительности). Данная плата может использовать турникеты различных производителей вместе с контроллерами Parsec.</p>  <p style="text-align: left;">Поддерживает следующие контроллеры:</p>  <ul><li style="text-align: left;">NC-1000 контроллер доступа;</li>  <li style="text-align: left;">NC-2000-D контроллер доступа;</li>  <li style="text-align: left;">NC-2000-DIP контроллер доступа;</li>  <li style="text-align: left;">NC-2000-IP контроллер доступа;</li>  <li style="text-align: left;">NC-5000 контроллер доступа;</li>  <li style="text-align: left;">NC-32K контроллер доступа;</li>  <li style="text-align: left;">NC-32K-IP контроллер доступа.</li>  </ul><p>Представленный модуль реализован в виде печатной платы. Кроме того, предусматривается установка в корпус контроллера.</p>  <h3 style="text-align: left;">Технические характеристики:</h3>  <ul><li style="text-align: left;">материал - плата;</li>  <li style="text-align: left;">габариты - 50х40х15 мм;</li>  <li style="text-align: left;">температурный диапазон - 0…55°C;</li>  <li style="text-align: left;">питание - 8-24 В DC;</li>  <li style="text-align: left;">потребление - до 20 мА.</li>  </ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154238
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UIM-01
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154238.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154238/82e0205a19b2b0933f254e8caaa20f33.jpg
+                    [alt] => Модуль Parsec UIM-01
+                    [name] => 82e0205a19b2b0933f254e8caaa20f33.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

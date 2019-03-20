@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158439.html
+    [article] => 158439
+    [partnumber] => UHI-OG-0
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHI-OG-0
+    [price] => 9305
+    [price_small] => 9545
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух BOSCH UHI-OG-0 нужен для монтажа скрытых камер и их защиты от негативного воздействия среды. Конструкция совместима с устройствами длиной до 317 мм. Для быстрого и легкого доступа в верхней части располагается откидная крышка. Напротив объектива размещается смотровое окно, изготовленное из ударопрочного стекла.</p>
+<p>Кабельные вводы располагаются в основании или задней стороне кожуха. Для изготовления кожуха берется алюминиевый сплав, устойчивый к возникновению коррозии и механическим вибрациям. Монтаж производится внутри помещений.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158439
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHI-OG-0
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158439.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158439/fc0f32d7fc82e9df13211ada06db9aa2.jpg
+                    [alt] => Кожух BOSCH UHI-OG-0
+                    [name] => fc0f32d7fc82e9df13211ada06db9aa2.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

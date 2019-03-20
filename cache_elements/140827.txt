@@ -1,0 +1,82 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/140827.html
+    [article] => 140827
+    [partnumber] => WCH32 T (с блендой)
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WCH32 T (с блендой)
+    [price] => 129313
+    [price_small] => 117000
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух WizeBox WCH32 T (с блендой) разработан специально для использования на промышленных предприятиях в условиях «горячих цехов», защищает IP-камеры, телекамеры с фиксированным, вариообъективом или трансфокатором от неблагоприятных воздействий окружающей среды в условиях высоких температур, горячих цехов, химических производств и прочих агрессивных сред.</p>  <p>В комплект поставки термокожуха входит пневматическая бленда, разработана с целью предотвращения загрязнения смотрового стекла путем создания перед стеклом избыточного давления воздуха, препятствующего образованию отложений пыли и грязи.</p>  <p>Дополнительно способствует отводу тепла от смотрового окна. Комплектация пневматической блендой возможна для любой модификации термокожуха WCH32.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 400 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 140827
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WCH32 T (с блендой)
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/140827.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/140827/d47f7d6dafb2006e23f8426540b1cf9f.jpg
+                    [alt] => Термокожух Wizebox WCH32 T (с блендой)
+                    [name] => d47f7d6dafb2006e23f8426540b1cf9f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

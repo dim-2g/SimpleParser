@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154219.html
+    [article] => 154219
+    [partnumber] => H3/PoE
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => RVi
+    [name] => Термокожух RVi H3/PoE
+    [price] => 7040
+    [price_small] => 8800
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух RVi H3/PoE – аксессуар, предназначенный для защиты IP-камер от внешнего механического воздействия. Оснащенная полностью откидывающейся крышкой модель обеспечивает легкость доступа к устройства, упрощая его монтаж и техобслуживание.</p>  <p>Отличительной особенностью кожуха выступает вставка из тонкого стекла, преломляющая свет и предохраняющая оптику от прямого попадания солнечных лучей. Встроенный обогреватель поддерживает благоприятную для эксплуатации камеры температуру. Аксессуар подключается к сети с помощью того же кабеля, что и записывающее устройства. В комплекте поставляется кронштейн для монтажа модели.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 55 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154219
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => H3/PoE
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => RVi
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154219.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154219/3c9ca896ae399db264ce83a1df150a7e.jpg
+                    [alt] => Термокожух RVi H3/PoE
+                    [name] => 3c9ca896ae399db264ce83a1df150a7e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

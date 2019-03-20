@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125403.html
+    [article] => 125403
+    [partnumber] => 001G0460
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Лампа CAME 001G0460
+    [price] => 4160
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Лампа сигнальная на стрелу с платой управления для шлагбаумов 001G4000, 001G6000. В комплекте 6 штук.</p><p> Лампа сигнальная Came 001G0460 является устройстваом, обозначающим работу шлагбаума.</p><p>Получив обработанный платой управления сигнал, на открытие либо закрытие шлагбаума, лампа начинает мигать соответствующим образом.</p><p>Проблесковый свет шести ламп, входящих в комплект, отлично заметен в темное время суток, в условиях тумана и недостаточной видимости.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125403
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001G0460
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125403.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125403/274ce0c20856b5cd41f6c78a9922bc5f.jpg
+                    [alt] => Лампа CAME 001G0460
+                    [name] => 274ce0c20856b5cd41f6c78a9922bc5f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

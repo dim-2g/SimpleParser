@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/147751.html
+    [article] => 147751
+    [partnumber] => SNCA-HRX550/PRE
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Sony
+    [name] => Кожух Sony SNCA-HRX550/PRE
+    [price] => 92195
+    [price_small] => 114578
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Sony SNCA-HRX550/PRE предназначен для защиты купольных видеокамер, располагаемый в составе систем скрытого наблюдения. Он устанавливается поверх устройства и предупреждает попадание жидкости, частиц пыли и грязи. Модель позволяет размещать устройства серии SNC-RX550P, SNC-RX530P, SNC-RX570P на улице.</p>
+<p>Расположенная напротив объектива стеклянная полусфера обеспечивает хорошую видимость. Для прокладки кабелей используется расположенный в верхней части конструкции вход. Питание производится от источника постоянного тока напряжением 24 В. Кожух, изготовленный из прочного металла, устойчив к внешним механическим ударам и вибрациям.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -29 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 147751
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SNCA-HRX550/PRE
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Sony
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/147751.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/147751/00d64a0ffbbdb77393317ddbd64344ef.jpg
+                    [alt] => Кожух Sony SNCA-HRX550/PRE
+                    [name] => 00d64a0ffbbdb77393317ddbd64344ef.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

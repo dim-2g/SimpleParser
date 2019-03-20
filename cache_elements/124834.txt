@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124834.html
+    [article] => 124834
+    [partnumber] => HOT39K2A000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC HOT39K2A000
+    [price] => 4622
+    [price_small] => 4519
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC HOT39K2A000 нужен для защиты видеокамер, устанавливаемых в составе систем скрытого наблюдения. Внутри корпуса поддерживается постоянная температура, благодаря чему устройства может размещаться в сложных и быстро меняющихся климатических условиях. Через кабельные входы к кожуху подключается универсальный блок питания и обогреватель.</p>
+<p>Солнцезащитный козырек предупреждает появление бликов на отснятых кадрах, а изготовленное из ударопрочного стекла окошко не дает частицам грязи и каплям жидкости попадать на объектив. Верхняя часть конструкции откидывается, упрощая доступ к рабочим элементам.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP67
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124834
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HOT39K2A000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124834.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124834/5ca210585d5edb613b666cb1814a7f18.jpg
+                    [alt] => Термокожух VIDEOTEC HOT39K2A000
+                    [name] => 5ca210585d5edb613b666cb1814a7f18.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

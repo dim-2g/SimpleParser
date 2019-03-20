@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/168390.html
+    [article] => 168390
+    [partnumber] => STH-5230S-HPOE
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Smartec
+    [name] => Термокожух Smartec STH-5230S-HPOE
+    [price] => 14680
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Smartec STH-5230S-HPOE имеет степень пыле- и влагозащиты IP67 и используется во всех регионах России для защиты камер от различных атмосферных воздействий в широком диапазоне температур. Поставляется с одним обогревателем, солнцезащитным козырьком и кронштейном настенным (полная сквозная проводка), а также со встроенным блоком питания для камеры. Возможно фронтальное открывание верхней части корпуса.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 168390
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => STH-5230S-HPOE
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/168390.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/168390/e50f1fa752f335c7d0ab9ff16226b0f8.jpg
+                    [alt] => Термокожух Smartec STH-5230S-HPOE
+                    [name] => e50f1fa752f335c7d0ab9ff16226b0f8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

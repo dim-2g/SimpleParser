@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158581.html
+    [article] => 158581
+    [partnumber] => ISP-MCS3-FP110
+    [category] => Извещатели охранные
+    [brand] => BOSCH
+    [name] => Магнитный контакт BOSCH ISP-MCS3-FP110
+    [price] => 3438
+    [price_small] => 3652
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Магнитный контакт BOSCH ISP-MCS3-FP110 с тампером. Данный извещатель поддерживает технологию адресных шлейфов LSN improved, оставаясь при этом совместимым с контрольными панелями работающими по технологии LSN classic. Монтаж поверхностный.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158581
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ISP-MCS3-FP110
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158581.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158581/135447438a7a98e97299652e61c7470b.jpg
+                    [alt] => Магнитный контакт BOSCH ISP-MCS3-FP110
+                    [name] => 135447438a7a98e97299652e61c7470b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135243.html
+    [article] => 135243
+    [partnumber] => MD-08
+    [category] => Медиаконвертеры
+    [brand] => Rosslare
+    [name] => Конвертер Rosslare MD-08
+    [price] => 2587
+    [price_small] => 2545
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Конвертер Rosslare MD-08 представляет собой универсальное устройства, позволяющее подключить бесконтактный считыватель к компьютеру охранной системы. Аппарат преобразовывает протоколы Wiegand, включая 26-битный формат, в EIA-стандарт RS-485.</p>
+<p>Благодаря совместимости работы с модулем MD-12W, прибор настольного типа может использоваться для регистрации прокси-карт новых пользователей в единой системе контроля доступа. Поддержка программного обеспечения AC-115 позволяет осуществлять быструю настройку подключенного считывателя, а также проводить идентификацию клиентов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135243
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MD-08
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135243.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135243/0bbb9cc235046e082a1577fa0c67ad9d.jpg
+                    [alt] => Конвертер Rosslare MD-08
+                    [name] => 0bbb9cc235046e082a1577fa0c67ad9d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

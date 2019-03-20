@@ -1,0 +1,78 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134697.html
+    [article] => 134697
+    [partnumber] => CMA035
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Teleste
+    [name] => Кожух Teleste CMA035
+    [price] => 12618
+    [price_small] => 11631
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Teleste CMA035 – надежная конструкция, использующаяся для монтажа кроссового оборудования. Она обеспечивает надежную фиксацию кабелей и предупреждает их спутывание. Внутри корпуса плинты для крепежа элементов. Корпус ориентирован на настенную установку.</p>
+<p>Стенки оснащены отверстиями, способствующими поддержанию непрерывной циркуляции воздуха, за счет чего снижается вероятность нагревания внутренних компонентов.</p>
+<p>Для изготовления конструкции берется сталь с цинковым покрытием. Стенки выдерживают механические удары, попадание жидкости, сильные вибрации. Установка конструкции осуществляется с помощью стандартных крепежных элементов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134697
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CMA035
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Teleste
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134697.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134697/6c0983844c9cc078ee47fcb682434cd1.jpg
+                    [alt] => Кожух Teleste CMA035
+                    [name] => 6c0983844c9cc078ee47fcb682434cd1.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

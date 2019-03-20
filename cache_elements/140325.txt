@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/140325.html
+    [article] => 140325
+    [partnumber] => SHP-3701F
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Samsung
+    [name] => Кожух Samsung SHP-3701F
+    [price] => 5238
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух для установки камер SCP-2250/3250/2430/ 3430/3371/2371/2271/2270, SNP-5300 в потолок, D254x248mm, 700 г.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 140325
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SHP-3701F
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Samsung
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/140325.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/140325/93cefce902fe6ccc761f834334202cac.jpg
+                    [alt] => Кожух Samsung SHP-3701F
+                    [name] => 93cefce902fe6ccc761f834334202cac.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

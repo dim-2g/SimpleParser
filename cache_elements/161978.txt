@@ -1,0 +1,113 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/161978.html
+    [article] => 161978
+    [partnumber] => SVS32P-42V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Кожух Wizebox SVS32P-42V защитный для видеокамер
+    [price] => 14543
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Wizebox SVS32P-42V защитный для видеокамер с фиксированным или вариообъективом от неблагоприятных воздействий окружающей среды в условиях экстремально холодного климата.</p>
+<h3>Особенности:</h3>
+<ol>
+<li>Надежное своевременное включение и выключение нагревателя при помощи оптореле и электронного термодатчика</li>
+<li>Гальваническая трансформаторная развязка по питанию, встроенный источник питания</li>
+<li>Все крепежные изделия изготовлены из нержавеющей стали</li>
+<li>Входное напряжение: ~42В</li>
+<li>Герметизирующие прокладки изготовлены из Армлена</li>
+<li>Непосредственный обогрев стекла по периметру</li>
+<li>Контроль и поддержиание температуры непосредственно телекамеры</li>
+<li>Безаварийный режим включения телекамеры на морозе (питание на телекамеру подается только после предварительного прогрева)</li>
+<li>Уникально низкое энергопотребление</li>
+<li>Возможна покраска в любой цвет по шкале RAL</li>
+</ol>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 161978
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS32P-42V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/161978.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/161978/c4a9e2e3498bd9297d2725aba637be9d.jpg
+                    [alt] => Кожух Wizebox SVS32P-42V защитный для видеокамер
+                    [name] => c4a9e2e3498bd9297d2725aba637be9d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

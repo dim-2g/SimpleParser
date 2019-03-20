@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/136972.html
+    [article] => 136972
+    [partnumber] => ST-ER115
+    [category] => Кнопки выхода
+    [brand] => Smartec
+    [name] => Устройство разблокировки двери Smartec ST-ER115
+    [price] => 647
+    [price_small] => 978
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Устройство разблокировки двери Smartec ST-ER115 подходит для установки внутри помещения с целью отпирания электромагнитных замков на управлении при необходимости осуществить выход персонала в неотложных ситуациях. В наборе с приспособлением предоставляется дополнительная пластиковая вставка, которая позволяет восстановить первоначальный вид изделия после эвакуации.</p>
+<p>Есть возможность установить пломбу в специальное отверстие на крышке из прозрачного пластика для предотвращения неумышленного срабатывания. Показатели температурного режима, при котором данная модель может осуществлять работу, от -20 до +45 °С.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 136972
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ST-ER115
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/136972.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/136972/9fa89998d629849a5ac3596c8d68c40e.jpg
+                    [alt] => Устройство разблокировки двери Smartec ST-ER115
+                    [name] => 9fa89998d629849a5ac3596c8d68c40e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100397.html
+    [article] => 100397
+    [partnumber] => SVS26L-12V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SVS26L-12V
+    [price] => 5439
+    [price_small] => 4921
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox SVS26L-12V имеет увеличенный внутренний объем и позволяет размещать большинство моделей IP-камер. Он оборудован встроенным нагревательным элементом, равномерно распределяющим тепло. Рабочий диапазон температур модели составляет от -30 до +40 С. Напротив объектива имеется смотровое окошко, над ним располагается козырек.</p>
+<p>Корпус изготовлен из алюминия с антикоррозийным покрытием. Элементы крепежа также устойчивы к прямому попаданию жидкости, атмосферных осадков. Прокладка кабелей осуществляется через стандартные вводы. Имеются прокладки из авиационной резины для поддержания герметичности конструкции.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -52 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100397
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS26L-12V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100397.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100397/7ba6080197675fb757bbe50b5cb5488d.jpg
+                    [alt] => Защитный кожух Wizebox SVS26L-12V
+                    [name] => 7ba6080197675fb757bbe50b5cb5488d.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

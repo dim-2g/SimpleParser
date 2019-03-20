@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100350.html
+    [article] => 100350
+    [partnumber] => EL210-12V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox EL210-12V
+    [price] => 4001
+    [price_small] => 2986
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox EL210-12V используется для установки внутри или снаружи помещения с целью защиты телекамеры, неподготовленной для эксплуатации в промышленных условиях. Модель оборудована фильтром для подавления помех, возникающих во время питания камеры.</p>
+<p>Наличие пенополипропиленовых прокладок обеспечивает герметичность изделия по классу IP66, что исключает попадания пыли внутрь бокса и уберегает установленное устройство от влаги. Для сохранения эстетичного вида конструкции на долгие годы алюминиевый корпус покрыт порошковой краской. Смотровое стекло также выполнено из качественных материалов, что является гарантией отсутствия оптических искажений.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100350
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EL210-12V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100350.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100350/f108baa1461bbdd756c54369126135e1.jpg
+                    [alt] => Защитный кожух Wizebox EL210-12V
+                    [name] => f108baa1461bbdd756c54369126135e1.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124902.html
+    [article] => 124902
+    [partnumber] => HGV52K1A100
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HGV52K1A100
+    [price] => 84879
+    [price_small] => 84015
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Всепогодный корпус VIDEOTEC HGV52K1A100 предназначен для монтажа телекамер вне помещения. Модель размером 520 мм станет оптимальным вариантом для видеоустройства с большими моторизированными объективами. Она выполнена из легкого, но прочного алюминия с использованием вставок из ABS пластика.</p>
+<p>Изделие обладает влагозащитными свойствами и продуманной конструкцией: для защиты камеры от солнечных лучей предусмотрен козырек, а для стабильной видеосъемки внутри установлен тройной вентиляторр для нагревателя и очиститель стекла 230. Питание осуществляется благодаря встроенному блоку на 100-240В. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124902
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HGV52K1A100
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124902.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124902/4bad01d60292c4e0e0318ecf54871b8c.jpg
+                    [alt] => Корпус VIDEOTEC HGV52K1A100
+                    [name] => 4bad01d60292c4e0e0318ecf54871b8c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

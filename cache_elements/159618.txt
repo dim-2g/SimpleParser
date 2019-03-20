@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159618.html
+    [article] => 159618
+    [partnumber] => CIVS-IPCA-1005=
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Cisco
+    [name] => Купол Cisco CIVS-IPCA-1005=
+    [price] => 2910
+    [price_small] => 3262
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол Cisco CIVS-IPCA-1005 устанавливается поверх IP-видеокамер и обеспечивает их надежную защиту. Аксессуар отличается легкостью установки и демонтажа. Он выполнен из затемненного ударопрочного стекла, устойчивого к механическому воздействию, попаданию снега и капель дождя. Одновременно с этим купол обеспечивает хороший обзор и позволяет получать четкие и резкие изображения.</p>
+<p>Модель совместима с купольными поворотными видеокамерами серии 2500. Оригинальное комплектующее имеет долгий срок службы и при необходимости может быть заменено. Минималистичный дизайн купола позволяет его встраивать в современный интерьер.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159618
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CIVS-IPCA-1005=
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Cisco
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159618.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159618/a27658cad3e65ea981d748b2fc2218eb.jpg
+                    [alt] => Купол Cisco CIVS-IPCA-1005=
+                    [name] => a27658cad3e65ea981d748b2fc2218eb.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,82 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/118972.html
+    [article] => 118972
+    [partnumber] => HEM-300H-220
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => LTV
+    [name] => Термокожух LTV HEM-300H-220
+    [price] => 2900
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух LTV LTV-HEM-300H-220 предназначен для защиты камеры видеонаблюдения от агрессивных внешних воздействий, и прекрасно подходит как для установки в помещении, так и для монтажа камер видеонаблюдения на улице. Стандарт IP66 гарантирует надежную защиту видеокамеры от пыли, дождя, снега, града и других неблагоприятных воздействий окружающей среды. Встроенный обогреватель обеспечивает бесперебойную работу камеры при температуре воздуха до -25°С.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -25 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 118972
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEM-300H-220
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => LTV
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/118972.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/118972/08326694ab21f31a83cf4251decf7599.jpg
+                    [alt] => Термокожух LTV HEM-300H-220
+                    [name] => 08326694ab21f31a83cf4251decf7599.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

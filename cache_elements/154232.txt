@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154232.html
+    [article] => 154232
+    [partnumber] => NIP-A01
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Интерфейс Parsec NIP-A01
+    [price] => 1226
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Устройство NIP-А01 дает возможность создать довольно простую недорогую систему контроля доступа, сформированную из одной точки прохода на основе оборудования ParsecNET. Преобразователь интерфейсов Parsec NIP-А01 подключает к компьютеру контроллер серии NC/AC при использовании бесплатного программного обеспечения без ключа защиты. Данное устройства не предусматривает гальванической развязки. NIP-A01 изготовлен в качественном пластиковом корпусе с кабелем для подключения к порту USB компьютера.</p>  <p>Подключаемое оборудование:</p>  <ul><li>NC-1000 контроллер доступа;</li>  <li>NC-2000-D контроллер доступа;</li>  <li>NC-5000 контроллер доступа;</li>  <li>NC-32K контроллер доступа;</li>  <li>АС-08 охранный контроллер.</li>  </ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154232
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NIP-A01
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154232.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154232/dbb1d6fb825138ddf3ee76b80128e001.jpg
+                    [alt] => Интерфейс Parsec NIP-A01
+                    [name] => dbb1d6fb825138ddf3ee76b80128e001.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

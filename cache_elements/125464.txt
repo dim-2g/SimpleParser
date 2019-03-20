@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125464.html
+    [article] => 125464
+    [partnumber] => 001TOP-A40
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Антенна CAME 001TOP-A40
+    [price] => 720
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Антенна Came AF40 предназначена для использования в системах радиоуправления с рабочей частотой 40.685 МГц.</p><p>Основное назначение антенны - усиление сигнала брелка-передатчика и фильтрация помех.</p><p>В большинстве случаев использование антенны способствует улучшению качества приема сигнала и увеличению дальности уверенного приема.</p><p>Помимо радиоприемников CAME, антенна может быть использована с любыми другими системами радиоуправления, работающими на частоте 40.685 МГц.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125464
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001TOP-A40
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125464.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125464/85d93a637654e9f69bb6ee3dffbf0a7b.jpg
+                    [alt] => Антенна CAME 001TOP-A40
+                    [name] => 85d93a637654e9f69bb6ee3dffbf0a7b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

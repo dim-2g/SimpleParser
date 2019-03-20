@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135150.html
+    [article] => 135150
+    [partnumber] => CP-R26
+    [category] => Считыватели
+    [brand] => Rosslare
+    [name] => Программатор карт Rosslare CP-R26
+    [price] => 37573
+    [price_small] => 37262
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Программатор карт Rosslare CP-R26 используется для программирования смарт-карт, которые необходимы для обеспечения доступа работников компании к помещениям с ограниченным доступом. Настольное оборудование имеет компактные размеры, а подключение к ПК осуществляется через обычный USB-разъем.</p>
+<p>Смарт-карта MIFARE 13.56 МГц вставляется в специальный слот, после чего пользователь оставляет свой отпечаток на дактилоскопическом сенсоре. Информация сохраняется в память карты и зашифровывается кодом. Предусмотрено программирование мастер-карт с расширенными возможностями доступа. Для работы прибора необходимо ПО AS-B01.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135150
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CP-R26
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135150.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135150/ff03b6541ac20848616d7cb3d9d40899.jpg
+                    [alt] => Программатор карт Rosslare CP-R26
+                    [name] => ff03b6541ac20848616d7cb3d9d40899.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

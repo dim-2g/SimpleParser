@@ -1,0 +1,90 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/108392.html
+    [article] => 108392
+    [partnumber] => HX-40
+    [category] => Технические средства охраны периметра
+    [brand] => Optex
+    [name] => Извещатель Optex HX-40
+    [price] => 11770
+    [price_small] => 12986
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Optex HX-40 - всепогодный извещатель охранный объемный (12м, 85° - широкий угол) оптико-электронный пассивный для открытых пространств, имеет уникальный пироэлемент, который обеспечивает создание 94 зон детекции повышенной плотности и высокую точность распознавания разницы температур движущихся в зоне детекции объектов.</p>
+<p>Нежелательные зоны легко маскируются, а улучшенная система температурной компенсации гарантирует стабильную работу в условиях постоянных изменений окружающей среды.</p>
+<p>Высота установки извещателя составляет 2,5-3 м, а его уникальный дизайн и входящий в комплект поставки настенный кронштейн с возможностью поворота на 180° в горизонтальной плоскости позволяют установить его в наиболее оптимальном и недоступном для нарушителей месте.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Охранный
+                )
+
+            [Принцип работы] => Core\Option Object
+                (
+                    [name] => Принцип работы
+                    [value] => Объемный
+                )
+
+            [Потребление тока] => Core\Option Object
+                (
+                    [name] => Потребление тока
+                    [value] => 0,03 А
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 108392
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HX-40
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optex
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/108392.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/108392/d85f0bb364edc1d6f4df9205800693f2.jpg
+                    [alt] => Извещатель Optex HX-40
+                    [name] => d85f0bb364edc1d6f4df9205800693f2.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

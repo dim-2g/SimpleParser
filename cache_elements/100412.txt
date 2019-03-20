@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100412.html
+    [article] => 100412
+    [partnumber] => SVS32P-12V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SVS32P-12V
+    [price] => 15721
+    [price_small] => 14224
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox SVS32P-12V - простой в обращении, долговечный аксессуар, предохраняющий камеру видеонаблюдения от негативного воздействия извне. Приспособление защищает оборудования от пыли и влаги, позволяет эксплуатировать приборы в широком диапазоне температур окружающей среды от 65 до +40 С.</p>
+<p>Предельно допустимая нагрузка на кронштейн достигает 50 кг, что, совместно с увеличенным внутренним пространством, делает кожух универсальным и пригодным для камер различного типа. Специальное полированное стекло сохраняет высокое качество видеосъемки без преломления и искажения картинки. Подходит для видеокамер различных моделей.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100412
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS32P-12V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100412.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100412/2b0d0ba50920684a9c9d0f029647338b.jpg
+                    [alt] => Защитный кожух Wizebox SVS32P-12V
+                    [name] => 2b0d0ba50920684a9c9d0f029647338b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

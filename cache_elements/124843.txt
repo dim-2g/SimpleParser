@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124843.html
+    [article] => 124843
+    [partnumber] => HOV32K1A000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HOV32K1A000
+    [price] => 9317
+    [price_small] => 9186
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HOV32K1A000 используется для защиты видеокамер от агрессивных условий окружающей среды. Модель выполнена из алюминия, что свидетельствует о высоком качестве и прочности изделия. Внутри устройства предусмотрено пространство для размещения блока питания, датчика вскрытия и камеры с фиксированным или съемным объективом.</p>
+<p>Верхняя крышка термокожуха открывается вверх, что обеспечивает быстрый доступ ко всем компонентам установленного видеооборудования. Особенностью кожуха является наличие эффективной системы охлаждения и нагревателя, что гарантирует стабильную работу IP-камеры, размещенной в условиях улицы.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124843
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HOV32K1A000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124843.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124843/51908f57465141804726c791005cea51.jpg
+                    [alt] => Корпус VIDEOTEC HOV32K1A000
+                    [name] => 51908f57465141804726c791005cea51.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

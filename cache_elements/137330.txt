@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/137330.html
+    [article] => 137330
+    [partnumber] => 001DD-1KA
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Сигнальная лампа CAME 001DD-1KA
+    [price] => 3024
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Сигнальная лампа Came DD-1KA. Представляет собой универсальную сигнальную лампу в обновлённом дизайне. Материал изготовления - ABS пластик.</p><p>Освещение светодиодное, цвет - янтарный. Питается, в зависимости от мощности, от сети с напряжением 24/110/230 вольт. Мощность выбирается в диапазоне от 5 до 7 Вт.</p><p>Класс защиты IP54. Присутствует возможность установки антенны (433,92 и 868,35 МГц).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 137330
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001DD-1KA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/137330.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/137330/67843da60015866780631fdb4de4cad7.jpg
+                    [alt] => Сигнальная лампа CAME 001DD-1KA
+                    [name] => 67843da60015866780631fdb4de4cad7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

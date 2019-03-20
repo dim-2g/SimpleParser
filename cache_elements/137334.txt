@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/137334.html
+    [article] => 137334
+    [partnumber] => 001G03755SX
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Шарнир CAME 001G03755SX
+    [price] => 11680
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>G03755SX - шарнир для складной стрелы 001G03750 для левого шлагбаума.</p><p>Применяется внутри зданий и в местах, где имеется низкий потолок.</p><p>Шарнир ставится посередине стрелы и при поднятии одна из частей стрелы складывается, таким образом давая возможность стреле открыться.</p><p>Складывание стрелы происходит за счет натяжения троса.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 137334
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001G03755SX
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/137334.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/137334/ec07945f3af0a7f92ab6581e913be70a.jpg
+                    [alt] => Шарнир CAME 001G03755SX
+                    [name] => ec07945f3af0a7f92ab6581e913be70a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

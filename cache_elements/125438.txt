@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125438.html
+    [article] => 125438
+    [partnumber] => 001PSRT02
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Кабель CAME 001PSRT02
+    [price] => 2656
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кабель нагревательный со встроенным термостатом универсальный серии приводов FERNI, FAST.</p><p>CAME PSRT02 - кабель для использования с приводами CAME для откатных ворот серии BX, BK, BY, а также с приводами CAME для распашных ворот серии FAST, FERNI и FROG.</p><p>Кабель активируется, когда показатели температуры на термостате опускаются ниже +5 С и отключается, когда температура достигает +15 С.</p><p>Удобный и простой монтаж с помощью клейкой термоленты, которая поставляется в комплекте. В кабеле предусмотрен греющий участок длиной 40 см со стороны термостата.</p><p>Температура поверхности кабеля может достигать 135%.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125438
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001PSRT02
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125438.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125438/949a8aef2172e12e1e4be582a0295ca7.jpg
+                    [alt] => Кабель CAME 001PSRT02
+                    [name] => 949a8aef2172e12e1e4be582a0295ca7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

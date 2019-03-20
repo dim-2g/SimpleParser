@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159628.html
+    [article] => 159628
+    [partnumber] => CIVS-IPCA-1018=
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Cisco
+    [name] => Козырек Cisco CIVS-IPCA-1018=
+    [price] => 2651
+    [price_small] => 2936
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Козырек Cisco CIVS-IPCA-1018 – комплектующее для поворотных IP-видеокамер, предназначенное для защиты устройства от негативного воздействия окружающей среды. Универсальная модель устанавливается поверх кожухов и имеет стандартный форм-фактор. Она монтируется с помощью кронштейна, идущего в комплекте.</p>
+<p>Конструкция изготавливается из ударопрочного металла с антикоррозийным покрытием, за счет чего козырек соответствует высокому классу защиты. Деталь предупреждает перегревание камеры, предупреждает появление бликов во время съемки. Козырек выполнен в универсальном черном цвете, на котором не видны частицы пыли и грязи.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159628
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CIVS-IPCA-1018=
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Cisco
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159628.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159628/b2309526d80b14b1b9a1ca4b2de9c2db.jpg
+                    [alt] => Козырек Cisco CIVS-IPCA-1018=
+                    [name] => b2309526d80b14b1b9a1ca4b2de9c2db.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

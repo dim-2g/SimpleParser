@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/152491.html
+    [article] => 152491
+    [partnumber] => ESIM364
+    [category] => GSM мониторинг
+    [brand] => Eldes
+    [name] => Охранная панель Eldes ESIM364 (P
+    [price] => 10344
+    [price_small] => 
+    [currency] => 
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Охранная панель Eldes ESIM364 (P,W) нужна для управления GSM/GPRS-модулем. Она подходит для управления датчиками, отопительными системами и бытовыми приборами. Модель поддерживает до 44 проводных зон и до 32 беспроводных, поддерживает расширение путем подключения дополнительных модулей.</p>
+<p>Удаленные устройства функционируют по защищенному каналу для безопасной передачи данных.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 152491
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ESIM364
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Eldes
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/152491.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/152491/0a9478f5c63779972d6041b1c836a742.jpg
+                    [alt] => Охранная панель Eldes ESIM364 (P,W)
+                    [name] => 0a9478f5c63779972d6041b1c836a742.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

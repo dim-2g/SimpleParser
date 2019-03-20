@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163437.html
+    [article] => 163437
+    [partnumber] => PNOffice-WS
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль дополнительной рабочей станции Parsec PNOffice-WS
+    [price] => 4428
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>В СКУД ParsecNET Office все функции (сервер системы, сервер СУБД, обслуживание оборудования) выполняет один компьютер. Однако в организации могут потребоваться дополнительные рабочие места различного функционального назначения (рабочее место менеджера по персоналу, рабочее место охранника и так далее).</p>  <p>В такой ситуации потребуется использование лицензий на дополнительные рабочие станции, предоставляемых данным модулем.</p>  <p>Дополнительный модуль работает под управлением следующих ОС: Windows 7 (не ниже редакции Professional),Windows 8 (не ниже редакции Pro), Windows 8.1 (не ниже редакции Pro),Windows 2008 Server R2,Windows 2012 Server,Windows 2012 R2 Server.</p>  <p>Для работы модуля необходимо разрешение на использование, которое «прописывается» в ключе защиты системы ParsecNET Office.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163437
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNOffice-WS
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163437.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163437/ff54e05d832a07060b1a2ed7a60d2059.jpg
+                    [alt] => Модуль дополнительной рабочей станции Parsec PNOffice-WS
+                    [name] => ff54e05d832a07060b1a2ed7a60d2059.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

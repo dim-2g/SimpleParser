@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/103068.html
+    [article] => 103068
+    [partnumber] => STH-1230D-PSU1
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Smartec
+    [name] => Термокожух Smartec STH-1230D-PSU1
+    [price] => 7437
+    [price_small] => 7178
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Smartec STH-1230D-PSU1 предназначен для установки на улице, отличается высокой прочность, надежностью и простотой обслуживания. Он рассчитана на размещения одной камеры наблюдения, внутри имеет установочную пластину, которая регулируется в 4 направлениях. Для поддержиания стабильной температуры вокруг камеры, внутри используется два небольших обогревателя.</p>
+<p>Термокожух сделан из сплавов на основе алюминия и покрыт несколькими слоями защитной краски. Он полностью герметичный и соответствует степени защиты IP 66. Для максимально удобного использования и обслуживания встроенного оборудования, верхняя часть изделия полностью открывается.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Черный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -55 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 103068
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => STH-1230D-PSU1
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/103068.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/103068/644d5c58a7bc08b133028eb9af31d482.jpg
+                    [alt] => Термокожух Smartec STH-1230D-PSU1
+                    [name] => 644d5c58a7bc08b133028eb9af31d482.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

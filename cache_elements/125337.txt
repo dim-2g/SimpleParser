@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125337.html
+    [article] => 125337
+    [partnumber] => 001DIR10
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Фотоэлемент CAME 001DIR10
+    [price] => 2440
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Фотоэлемент CAME 001DIR10 используется для организации стабильного функционирования систем доступа, так как позволяет осуществлять синхронизацию инфракрасного луча между приемником и передатчиком. Приспособление способно работать на расстоянии 10 метров, имеет компактный корпус и современный дизайн.</p>
+<p>Размещение прибора происходит посредством накладного или встроенного способа установки с использованием аксессуаров для монтажа. Оборудование позволяет защитить систему от ложных срабатываний, так как каждый установленный приемник может взаимодействовать только с согласованным передатчиком.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125337
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001DIR10
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125337.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125337/b9a3625b835130d85ef5ad9b06225187.jpg
+                    [alt] => Фотоэлемент CAME 001DIR10
+                    [name] => b9a3625b835130d85ef5ad9b06225187.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

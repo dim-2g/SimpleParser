@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158438.html
+    [article] => 158438
+    [partnumber] => UHI-SBG-0
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHI-SBG-0
+    [price] => 7532
+    [price_small] => 7727
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух BOSCH UHI-SBG-0 – конструкция для установки скрытых видеокамер, устанавливаемая поверх устройства. Она совместима с оборудованием формата 1/4", 1/3" и 1/2" и защищает его от неблагоприятного воздействия окружающей среды. Кабель для питания приборов подводится через основание или с задней стороны конструкции, а откидывающаяся крышка упрощает доступ к камере.</p>
+<p>В лицевой части находится окошко для объектива, обеспечивающее хороший обзор и четкость картинки. Корпус изготавливается из укрепленного полимера и предназначен для внутреннего размещения. Для монтажа используется идущий в комплекте алюминиевый кронштейн.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Кронштейн в комплекте] => Core\Option Object
+                (
+                    [name] => Кронштейн в комплекте
+                    [value] => Есть
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158438
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHI-SBG-0
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158438.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158438/69366f420a813b9f989a0c5db3607228.jpg
+                    [alt] => Кожух BOSCH UHI-SBG-0
+                    [name] => 69366f420a813b9f989a0c5db3607228.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/155655.html
+    [article] => 155655
+    [partnumber] => T92A00
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => AXIS
+    [name] => Термокожух AXIS T92A00
+    [price] => 20265
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух AXIS T92A00 – это оборудование, необходимое для стабильной работы камер, находящихся в неприемлемых условиях работы внутри и вне помещения. Данный аппарат выполнен из прочного алюминия, что гарантирует защищенность видеокамеры от града и других физических факторов.</p>
+<p>Наличие защиты от солнечных лучей и козырька увеличивает диапазон рабочих температур до +50°C, а функция подогрева гарантирует стабильную съемку до -20 °C. Кожух имеет высокий класс защиты от пыли и влаги IP66. Боковое открывание и возможность питания по технологии PoE упрощает монтаж прибора.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 155655
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => T92A00
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => AXIS
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/155655.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/155655/19ce9450f5745d73a27b2f550596c37a.jpg
+                    [alt] => Термокожух AXIS T92A00
+                    [name] => 19ce9450f5745d73a27b2f550596c37a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

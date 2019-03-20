@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/168096.html
+    [article] => 168096
+    [partnumber] => JA-150R
+    [category] => Радиоканальные системы безопасности
+    [brand] => Jablotron
+    [name] => Ретранслятор радиосигнала Jablotron JA-150R
+    [price] => 19074
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Ретранслятор радиосигнала Jablotron JA-150R предназначен для увеличения расстояния связи и повышения надежности передачи в больших установках. Повторяет сигнал всех однонаправленных устройств в системе JABLOTRON 100+.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 168096
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => JA-150R
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Jablotron
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/168096.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/168096/d707bf76c2a14613b98e73f054f546de.jpg
+                    [alt] => Ретранслятор радиосигнала Jablotron JA-150R
+                    [name] => d707bf76c2a14613b98e73f054f546de.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,101 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100433.html
+    [article] => 100433
+    [partnumber] => WIR26P-12V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WIR26P-12V
+    [price] => 83964
+    [price_small] => 75969
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух специального назначения Wizebox WIR26P-12V устанавливается поверх камер с фиксированным объективом. Конструкция эксплуатируется в условиях экстремально низких температур и имеет высокий класс защиты. Напротив оптики располагается прозрачное окошко, имеющее хорошую видимость и позволяющее получать резкие и детализированные кадры.</p>
+<p>Для поддержания комфортной для камеры температуры используется встроенный обогреватель, позволяющий удаленно настаивать параметры. Герметичность конструкции поддерживается за счет резиновых прокладок. Питание элементов возможно от сети или аккумулятора на 12 В.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 55 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100433
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WIR26P-12V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100433.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100433/4a75b04ff4384c4a65aa30fb24dd7aac.jpg
+                    [alt] => Термокожух Wizebox WIR26P-12V
+                    [name] => 4a75b04ff4384c4a65aa30fb24dd7aac.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

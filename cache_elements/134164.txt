@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134164.html
+    [article] => 134164
+    [partnumber] => ТГБ-7-220/12
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Тахион
+    [name] => Гермобокс Тахион ТГБ-7-220/12
+    [price] => 9959
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Гермобокс Тахион ТГБ-7-220/12 специально разработан отечественными специалистами для защиты камер наблюдения и другого подобного оборудования от внешних воздействий, а также пыли и влаги. Он сделан из высококачественных материалов и рассчитан на длительное время эксплуатации.</p>
+<p>Отличительные особенности этой модели заключаются в возможности универсального использования и совместимости с большинством современных устройства. Изделие полностью соответствует ГОСТам по техническим требованиям, а также по требованиям безопасности. При необходимости гермобокс может быть доработан и оборудован дополнительными приспособлениями.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134164
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ТГБ-7-220/12
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Тахион
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134164.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134164/7c4e1f21b7bbe2c1e346d9d4180ba9ab.jpg
+                    [alt] => Гермобокс Тахион ТГБ-7-220/12
+                    [name] => 7c4e1f21b7bbe2c1e346d9d4180ba9ab.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

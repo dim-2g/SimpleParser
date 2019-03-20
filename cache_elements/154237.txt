@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154237.html
+    [article] => 154237
+    [partnumber] => ActiveTag.I2
+    [category] => Идентификаторы
+    [brand] => Parsec
+    [name] => Активные метки Parsec ActiveTag.I2
+    [price] => 1839
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Parsec ActiveTag.I2 - это активный радиочастотный идентификатор с рабочей частотой 2.45 ГГц, который выпускается в качественном пластиковом корпусе, с классом защиты IP67 и диапазоном рабочих температур -40…+50°C. Представленная метка работает в режиме пакетной передачи кода - код передается постоянно с заранее заданным промежутком времени. В процессе настройки можно выбрать длительность паузы между передачами кода и мощность излучения.
+Питание активной метки производится за счет литиевой батареи LS14250 (3W), обеспечивающей не менее 5 лет бесперебойной работы. Обеспечиваемая ActiveTag.I2 дальняя идентификация оптимальна для учета перемещения товара на открытых территориях складских и логистических комплексов, а также идентификации транспортных средств в СКУД. По основным параметрам и характеристикам Parsec ActiveTag.I2 соответствует ГОСТ 51241-2008, в частности, при работе в составе СКУД - высокому уровню устойчивости к НСД (несанкционированному доступу).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154237
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ActiveTag.I2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154237.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154237/c84bb0ba226050e4bf48435c42b36335.jpg
+                    [alt] => Активные метки Parsec ActiveTag.I2
+                    [name] => c84bb0ba226050e4bf48435c42b36335.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

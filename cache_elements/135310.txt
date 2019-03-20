@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135310.html
+    [article] => 135310
+    [partnumber] => MD-CC101
+    [category] => Дополнительное оборудование ОПС
+    [brand] => Rosslare
+    [name] => GSM коммуникатор Rosslare MD-CC101
+    [price] => 11446
+    [price_small] => 12594
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>GSM коммуникатор Rosslare MD-CC101 - функциональный аксессуар для современных охранных сигнализаций, которые используют внутреннюю связь. Линия GSM используется в качестве резервной или основной - на выбор пользователя.</p>
+<p>Агрегат существенно расширяет функциионал телефонов, зарегистрированных в охранной системе - с их помощью можно отправлять и получать голосовые или текстовые сообщения о той или иной проблеме, а также осуществлять постановку на охрану или снятие с нее определенного объекта. В числе дополнительных возможностей оборудования полная отчетность о событиях, несколько режимов работы, двухсторонняя голосовая связь, возможность удаленного обновления прошивки.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135310
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MD-CC101
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135310.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135310/9c80c2b5a6e501938215fcf040f59d39.jpg
+                    [alt] => GSM коммуникатор Rosslare MD-CC101
+                    [name] => 9c80c2b5a6e501938215fcf040f59d39.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

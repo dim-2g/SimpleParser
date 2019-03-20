@@ -1,0 +1,94 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/164180.html
+    [article] => 164180
+    [partnumber] => EXPRESS-GSM
+    [category] => GSM мониторинг
+    [brand] => Сибирский Арсенал
+    [name] => GSM сигнализация Express GSM Сибирский Арсенал
+    [price] => 3420
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>GSM сигнализация Express GSM – прибор, размещаемый в охранных системах и предназначенный для информирования пользователей о попытках несанкционированного проникновения на территорию предприятий. Устройство оснащено датчиками и реагирует на движение в зоне охвата. При авариях система автоматически отравляет пользователю письмо с сообщением о возникновении экстремальной ситуации.</p>  <p>Автономность модели – одна из ее отличительных особенностей. Сигнализация функционирует от батареи на 12 В, поддерживает до 6 месяцев автономной работы. Для управления используется трехканальный брелок, совместимый с SIM-картой.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 164180
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EXPRESS-GSM
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Сибирский Арсенал
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164180.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164180/ea6053c91d8ba9aaf975a7f1532d78d3.jpg
+                    [alt] => GSM сигнализация Express GSM Сибирский Арсенал
+                    [name] => ea6053c91d8ba9aaf975a7f1532d78d3.jpg
+                )
+
+            [1] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164180_1.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164180/518303b85b65833f4f67e9d78f025589.jpg
+                    [alt] => GSM сигнализация Express GSM фото
+                    [name] => 518303b85b65833f4f67e9d78f025589.jpg
+                )
+
+            [2] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164180_2.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164180/6b40879e7bedfb3aec6488a39b4c9489.jpg
+                    [alt] => Фото Express GSM
+                    [name] => 6b40879e7bedfb3aec6488a39b4c9489.jpg
+                )
+
+            [3] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/164180_3.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/164180/2e19161ba3d39069f6abf38ff18b1be6.jpg
+                    [alt] => GSM сигнализация от Сибирского Арсенала с пультом
+                    [name] => 2e19161ba3d39069f6abf38ff18b1be6.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

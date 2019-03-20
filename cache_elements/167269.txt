@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/167269.html
+    [article] => 167269
+    [partnumber] => CF30004GRUS
+    [category] => Приёмно-контрольные приборы
+    [brand] => COOPER
+    [name] => Извещатель COOPER CF30004GRUS
+    [price] => 250607
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Извещатель COOPER CF30004GRUS имеет четыре адресных шлейфа пожарной сигнализации, максимальный ток нагрузки на каждый шлейф - 500мА. Подключение до 880 адресных устройств. Встроенный сенсорный дисплей; Индикация 96 пожарных зон; Контролируемые выходы сигналов: "Пожар", "Активация пожаротушения ", "Неисправность". Дополнительное реле =24В/1А (сухие контакты).</p>
+<p>Выход питания =24В/0,03А; с защитой от короткого замыкания (самовосстанавливающийся предохранитель); 4 выхода по 2 зоны в каждом для подключения звуковых (не адресных) оповещателей с контролем на обрыв и короткое замыкание, суммарный максимальный ток нагрузки на устройства звуковой сигнализации 1,5А; выход для подключения модема или компьютера по RS232.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 167269
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CF30004GRUS
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => COOPER
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/167269.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/167269/f07788f96ebd321bf657ff8124422ecc.jpg
+                    [alt] => Извещатель COOPER CF30004GRUS
+                    [name] => f07788f96ebd321bf657ff8124422ecc.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

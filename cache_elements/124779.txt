@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124779.html
+    [article] => 124779
+    [partnumber] => NXM1K1000B
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC NXM1K1000B
+    [price] => 71087
+    [price_small] => 70383
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух VIDEOTEC NXM1K1000B – конструкция, устанавливаемая поверх IP-видеокамер и защищающая их от негативного воздействия среды. Цилиндрический корпус оснащен прозрачным окошком для объектива, сквозь который обеспечивается хороший обзор и достигается получение четких и резких кадров. Верхняя часть имеет козырек, предупреждающий попадание жидкости на стекло.</p>
+<p>Встроенные кабельные входы используются для установки элемента питания и нагревателя. Последний поддерживает постоянную температуру внутри конструкции, позволяя устанавливать камеру в тяжелых климатических условиях.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -20 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124779
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NXM1K1000B
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124779.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124779/378794ea38c26201ccf2636855d4100e.jpg
+                    [alt] => Кожух VIDEOTEC NXM1K1000B
+                    [name] => 378794ea38c26201ccf2636855d4100e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

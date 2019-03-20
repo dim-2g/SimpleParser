@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154255.html
+    [article] => 154255
+    [partnumber] => PNSoft-WS
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Рабочая станция Parsec PNSoft-WS
+    [price] => 6811
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Если в небольшой системе все функции (сервер системы, сервер СУБД, обслуживание оборудования) может выполнять один компьютер, то в более крупных системах часто требуется иметь возможность подключения оборудования к нескольким ПК. Кроме того, обычно требуется организация нескольких рабочих мест одинакового или различного функционального назначения (рабочее место менеджера по персоналу, рабочее место охранника и так далее).</p>  <p>В такой ситуации потребуется использование лицензий на дополнительные рабочие станции, предоставляемых данным модулем.</p>  <p>В системе ParsecNET третьей версии лицензируются только консоли, то есть рабочие станции, на которых запускается пользовательский интерфейс. Для рабочих станций, которые занимаются только обслуживанием подключённого к ним оборудования, дополнительных лицензий не требуется.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154255
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-WS
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154255.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154255/ca0a05366b4fdcdf75ecd125d5639f29.jpg
+                    [alt] => Рабочая станция Parsec PNSoft-WS
+                    [name] => ca0a05366b4fdcdf75ecd125d5639f29.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

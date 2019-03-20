@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/137342.html
+    [article] => 137342
+    [partnumber] => SCB12-1
+    [category] => 
+    [brand] => 
+    [name] => 
+    [price] => 640
+    [price_small] => 
+    [currency] => 
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Аккумулятор CAME SCB12-1,2 применяется в качестве резервного источника напряжения при использовании плат аварийного питания САМЕ, целью которых является обеспечение бесперебойного электропитания исполнительных механизмов с автоматическим резервированием основного источника питания.</p>
+<p>Плата осуществляет отключение и автоматическую зарядку батарей при восстановлении основного источника питания 220 B AC.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 137342
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SCB12-1,2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/137342.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/137342/3d0a02fd53cb0ede122d870ecadf4e06.jpg
+                    [alt] => Аккумулятор CAME SCB12-1,2
+                    [name] => 3d0a02fd53cb0ede122d870ecadf4e06.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124989.html
+    [article] => 124989
+    [partnumber] => WBMA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC WBMA
+    [price] => 1247
+    [price_small] => 1185
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>VIDEOTEC WBMA – прочный корпус для установки поворотных видеокамер. Конструкция позволяет размещать оборудование в тяжелых климатических условиях и при резких скачках температур. Верхняя часть дополнена окошком из ударопрочного стекла, предупреждающего попадание грязи и жидкости на линзы объектива.</p>
+<p>Кожух поддерживает установку обогревателя, заряжаемого от блока питания камеры. Для упрощения доступа к компонентам корпус оснащен откидывающейся частью. Козырек предупреждает появление солнечных бликов в кадре, а стеклянное окошко предназначено для защиты объектива камеры.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124989
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WBMA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124989.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124989/0054954e9946bee5a6b07d7cde854c85.jpg
+                    [alt] => Корпус VIDEOTEC WBMA
+                    [name] => 0054954e9946bee5a6b07d7cde854c85.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

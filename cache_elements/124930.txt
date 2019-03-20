@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124930.html
+    [article] => 124930
+    [partnumber] => HEB32K2A000B
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HEB32K2A000B
+    [price] => 9390
+    [price_small] => 8742
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>VIDEOTEC HEB32K2A000B – прочный корпус, используемый для наружной установки поворотных камер. Оснащенная обогревателем и козырьком конструкция защищает оборудование от скачков температур, осадков и внешнего механического воздействия. Хорошая видимость достигается за счет расположенного в передней части прозрачного окошка.</p>
+<p>Корпус оснащен кабельными входами для подключения блока питания, вентилятора и других аксессуаров. Для изготовления конструкции используется алюминий с антикоррозийным покрытием. Монтаж осуществляется с помощью кронштейна и крепежных элементов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124930
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEB32K2A000B
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124930.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124930/661426e2f08009749d1482597be507e8.jpg
+                    [alt] => Корпус VIDEOTEC HEB32K2A000B
+                    [name] => 661426e2f08009749d1482597be507e8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

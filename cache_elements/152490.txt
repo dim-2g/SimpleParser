@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/152490.html
+    [article] => 152490
+    [partnumber] => ESIM264
+    [category] => GSM мониторинг
+    [brand] => Eldes
+    [name] => Охранная панель Eldes ESIM264
+    [price] => 8143
+    [price_small] => 9631
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Охранная панель Eldes ESIM264 нужна для управления сигнализацией. Она устанавливается на предприятиях и промышленных объектах и контролирует до 44 зон. При возникновении чрезвычайных ситуаций сигнал автоматически передается на телефон пользователя или на станцию мониторинга.</p>
+<p>Устройство используется для отслеживания состояния дверей, окон и детекторов движения. Также оно осуществляет контроль за температурой воздуха, информирует об отключении электричества, аварийных ситуациях, протечке водопровода. Настройка системы осуществляется через интернет, с помощью клавиатуры или USB-интерфейса.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 152490
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ESIM264
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Eldes
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/152490.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/152490/32783ea61ebd77f7d4147046c8993f8b.jpg
+                    [alt] => Охранная панель Eldes ESIM264
+                    [name] => 32783ea61ebd77f7d4147046c8993f8b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

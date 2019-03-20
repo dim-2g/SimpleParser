@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/137584.html
+    [article] => 137584
+    [partnumber] => HPV42K2A700
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC HPV42K2A700
+    [price] => 17240
+    [price_small] => 17040
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC HPV42K2A700 оснащен тепловентиляторов, который осуществляет обогрев видеокамер наружного наблюдения, и защитным козырьком из АБС-материала от солнечных лучей. Габариты изделия, которое выполнено из высококачественного поликарбоната с винтами из нержавеющей стали, составляют 70х70х230 мм.</p>
+<p>Прочная конструкция крепится с помощью надежного кронштейна, также приспособление защищено от механических повреждений и воздействия некоторых химических веществ. Температурный режим, при котором может функционировать устройства, составляет от -20 до +60C.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 137584
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HPV42K2A700
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/137584.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/137584/abca8e7179b43bb07a6cfd1e5cb43335.jpg
+                    [alt] => Термокожух VIDEOTEC HPV42K2A700
+                    [name] => abca8e7179b43bb07a6cfd1e5cb43335.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

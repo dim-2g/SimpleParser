@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158143.html
+    [article] => 158143
+    [partnumber] => FMC-420RW-HSGRD
+    [category] => Адресные системы пожарной сигнализации
+    [brand] => BOSCH
+    [name] => Извещатель BOSCH FMC-420RW-HSGRD
+    [price] => 13279
+    [price_small] => 13985
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Иизвещатель BOSCH FMC-420RW-HSGRD нужен для оповещения о пожарах и чрезвычайных ситуациях. Прибор подключается к охранным системам с помощью четырех кабелей. Он поддерживает прямое включение тревоги при разбивании стеклянной панели и нажатии на кнопку.</p>
+<p>Устройство размещается в адресных шлейфах и поддерживает индивидуальную идентификацию пользователей. Светодиодный индикатор оповещает о возникновении аварии или режиме тестирования. Пластиковый корпус выдерживает негативное воздействие окружающей среды, перепады температур и подходит для уличного размещения. Напряжение поддерживается в диапазоне 15-33 В.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Потребление тока] => Core\Option Object
+                (
+                    [name] => Потребление тока
+                    [value] => 0,0004 А
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158143
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => FMC-420RW-HSGRD
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158143.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158143/137ad0a157a50192e39bfb5b69b2d5a6.jpg
+                    [alt] => Извещатель BOSCH FMC-420RW-HSGRD
+                    [name] => 137ad0a157a50192e39bfb5b69b2d5a6.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

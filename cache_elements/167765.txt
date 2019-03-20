@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/167765.html
+    [article] => 167765
+    [partnumber] => HX-80NRAM
+    [category] => Технические средства охраны периметра
+    [brand] => Optex
+    [name] => Извещатель Optex HX-80NRAM
+    [price] => 19918
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>В извещателе Optex HX-80NRAM используется разработанная компанией Optex уникальная оптическая система, состоящая из двух независимых пироэлементов, которые, образуя область детекции повышенной плотности из 20 зон, обеспечивают высокую точность распознавания разницы температур и возможность определения реальных размеров объекта.</p>
+<p>Инновационный алгоритм обработки сигнала от обоих пироэлементов при работе в режиме «И» позволяет достичь высочайшей точности детекции и свести к минимуму вероятность ложных срабатываний, которые могут быть вызваны небольшими животными или птицами, при этом исключая пропуски тревог от реальных нарушителей, проникших в охраняемую зону.</p>
+<p>Извещатель может быть установлен на высоте до 3 м, а его универсальный настенный кронштейн с возможностью поворота на 180° в горизонтальной плоскости позволяют установить его в наиболее оптимальном и недоступном для нарушителей месте.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 167765
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HX-80NRAM
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optex
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/167765.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/167765/93ceaa74aa79151694225fe78b957c50.jpg
+                    [alt] => Извещатель Optex HX-80NRAM
+                    [name] => 93ceaa74aa79151694225fe78b957c50.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/168097.html
+    [article] => 168097
+    [partnumber] => JA-111R
+    [category] => Радиоканальные системы безопасности
+    [brand] => Jablotron
+    [name] => Адресный интерфейс Jablotron JA-111R
+    [price] => 11224
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Адресный интерфейс Jablotron JA-111R -  радио-модуль JA-111R используется для подключения всех беспроводных устройств системы JABLOTRON 100+. Для максимального покрытия охраняемых помещений в системе можно установить до трех модулей JA-111R.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 168097
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => JA-111R
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Jablotron
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/168097.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/168097/031d84de53af21336a5ce2d0d72a5c97.jpg
+                    [alt] => Адресный интерфейс Jablotron JA-111R
+                    [name] => 031d84de53af21336a5ce2d0d72a5c97.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

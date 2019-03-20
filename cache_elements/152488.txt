@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/152488.html
+    [article] => 152488
+    [partnumber] => ESIM022
+    [category] => 
+    [brand] => Eldes
+    [name] => Автодозвонщик Eldes ESIM022
+    [price] => 4255
+    [price_small] => 5037
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Автодозвонщик Eldes ESIM022 – контрольная панель для удаленного управления электронными устройствами. Устанавливается на средних и малых предприятиях и отличается простотой администрирования. Устройство подключается к охранным панелям и предназначено для сообщения о взломе, несанкционированном доступе и возникновении непредвиденных ситуаций на объекте.</p>
+<p>Инновационная модель позволяет управлять системой с помощью смартфона, на который приходят сообщения о возникшей тревоге. Круглосуточный мониторинг обеспечивает непрерывный контроль за территорией. Для установки используется три провода и SIM-карта.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 152488
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ESIM022
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Eldes
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/152488.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/152488/1144c4548c1b04707606834e24cf6a79.jpg
+                    [alt] => Автодозвонщик Eldes ESIM022
+                    [name] => 1144c4548c1b04707606834e24cf6a79.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

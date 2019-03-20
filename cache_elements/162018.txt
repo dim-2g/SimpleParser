@@ -1,0 +1,107 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162018.html
+    [article] => 162018
+    [partnumber] => WEX40-220V-08
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WEX40-220V-08
+    [price] => 122608
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox WEX40-220V-08 - это компактный и функциональный аксессуар, который обеспечивает телекамерам в составе системы видеонаблюдения надежную защиту от пагубного воздействия окружающих среды. Модель подходит для приборов с вариофокальным объективом или трансфокатором и может использоваться как снаружи, так и внутри помещений, в том числе и пожароопасных.</p>
+<p>Кожух поддерживает внутри себя комфортный для функционирования камеры температурный режим. В числе прочих особенностей аксессуара можно отметить наличие управляемых биметаллических реле и встроенную защиту от грозовых разрядов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Стальной
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -60 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162018
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WEX40-220V-08
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162018.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162018/809ed436c9db815df57b03e4f77acaf4.jpg
+                    [alt] => Термокожух Wizebox WEX40-220V-08
+                    [name] => 809ed436c9db815df57b03e4f77acaf4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

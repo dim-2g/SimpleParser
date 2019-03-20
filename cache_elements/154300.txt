@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154300.html
+    [article] => 154300
+    [partnumber] => PNSoft-Max
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Программное обеспечение Parsec PNSoft-Max
+    [price] => 57213
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Программное обеспечение Parsec PNSoft-Max с поддержкой контроллеров доступа серии NC, без ограничений на количество точек прохода. Само ПО PNSoft-Std, как и вся интегрированная система ParsecNET 3 является продуктом полностью отечественной разработки, и представляет собой результат длительной плодотворной работы большого коллектива специалистов высочайшего уровня. Новое ПО разрабатывалось с использованием самых современных и передовых технологий в области построения открытых сетевых платформ для интеграции.</p>
+<p>Система ParsecNET 3 является сетевой распределенной системой, позволяющей обслуживать любое количество территорий, между которыми существуют каналы связи (сеть Ethernet). В отличие от предыдущих версий, в которых при потере связи с сервером функционирование рабочих станций полностью прекращалось, в ParsecNET 3 работа рабочей станции при потере связи с сервером продолжается, хотя и в несколько ограниченном объеме. Ограничения касаются только действий, связанных с доступом серверу баз данных системы, т.е. редактированием персонала и других объектов системы.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154300
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-Max
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154300.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154300/53e0058302bb29be2f63b12c8c4bbc18.jpg
+                    [alt] => Программное обеспечение Parsec PNSoft-Max
+                    [name] => 53e0058302bb29be2f63b12c8c4bbc18.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

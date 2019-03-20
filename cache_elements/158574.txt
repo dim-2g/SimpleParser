@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158574.html
+    [article] => 158574
+    [partnumber] => ISC-PDL1-WA18G
+    [category] => Адресные системы пожарной сигнализации
+    [brand] => BOSCH
+    [name] => Извещатель BOSCH ISC-PDL1-WA18G
+    [price] => 7956
+    [price_small] => 8452
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Иизвещатель BOSCH ISC-PDL1-WA18G – комбинированная модель, реагирующая на движения и предупреждающая несанкционированный доступ на охраняемую территорию. Использование трехфокусной оптики сводит к нулю возможность появления мертвых зон, а технология Sensor Data Fusion формирует тревожные сигналы, предупреждая передачу ложных сообщений.</p>
+<p>Модель поддерживает функцию антимаскирования, благодаря которой нарушитель не сможет пройти незамеченным. Зона обнаружения составляет 18х25 метров, она может быть сужена. Простота монтажа обеспечивается за счет использования самозащелкивающегося корпуса и трех идущих в комплекте кронштейнов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158574
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ISC-PDL1-WA18G
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158574.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158574/a44cd56d8047de4e76cb3083789da8a5.jpg
+                    [alt] => Извещатель BOSCH ISC-PDL1-WA18G
+                    [name] => a44cd56d8047de4e76cb3083789da8a5.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

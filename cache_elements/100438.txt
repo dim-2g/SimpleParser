@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100438.html
+    [article] => 100438
+    [partnumber] => THM40H-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox THM40H-24V
+    [price] => 96656
+    [price_small] => 81987
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Wizebox THM40H-24V – конструкция из нержавеющих металлов, предназначенная для установки IP-камер. Она участвует в развертывании систем охранного наблюдения на предприятиях. Модель эксплуатируется в условиях морского климата. Корпус выдерживает попадание жидкости, солей, сильный ветер и воздействие критически низких температур.</p>
+<p>Встроенная нагревательная пластина включается/выключается автоматически и равномерно распределяет тепло по всему кожуху. Питание подается от аккумулятора на 24 В. В комплекте поставляется солнцезащитный козырек. Монтажный кронштейн выдерживает нагрузки до 60 кг.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -60 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100438
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => THM40H-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100438.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100438/4a29eaf626b7c1cd0a59bff5c14a3606.jpg
+                    [alt] => Термокожух Wizebox THM40H-24V
+                    [name] => 4a29eaf626b7c1cd0a59bff5c14a3606.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

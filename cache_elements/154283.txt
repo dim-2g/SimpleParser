@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154283.html
+    [article] => 154283
+    [partnumber] => PNSoft-PI
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль Parsec PNSoft-PI
+    [price] => 14985
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Parsec PNSoft-PI - это модуль, с помощью которого можно заносить персональную информацию сотрудника на карту допуска типа proximity. Модуль PNSoft-PI справляется с такими задачами очень эффективно, в отличие от остальных альтернативных разработок и позволяет обеспечивать высокий уровень безопасности предприятия. Современные предприятия используют карты доступа типа proximity не только в качестве электронного идентификатора, но и в качестве обычного пропуска. Но, для того, чтобы использовать карту в таких целях, обязательно нанесение персональных данных сотрудника, которому она принадлежит. Это должно быть сделано в соответствии со всеми установленными правилами компании.</p>  <p>Модуль PNSoft-PI позволяет создавать не только шаблоны, которые необходимы для печати пропусков и карт доступа, но и во время печати использовать персональную информацию о сотрудниках, которая хранится в базах данных. Кроме того, Parsec PNSoft-PI может осуществлять печать не только на картах, но и на других носителях печатной информации, формат которых поддерживается принтером.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154283
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-PI
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154283.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154283/13246641e6d79ead3232ef1b9df8931f.jpg
+                    [alt] => Модуль Parsec PNSoft-PI
+                    [name] => 13246641e6d79ead3232ef1b9df8931f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

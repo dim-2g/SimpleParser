@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/103069.html
+    [article] => 103069
+    [partnumber] => STH-3230D
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Smartec
+    [name] => Термокожух Smartec STH-3230D
+    [price] => 7372
+    [price_small] => 7830
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух Smartec STH-3230D – это простое и надежное приспособление, которое защищает встроенное дорогостоящее оборудование от механических повреждений и гарантирует его бесперебойную работу на открытом пространстве. Благодаря встроенному обогревателю, вокруг установленной камеры всегда будет стабильная температура.</p>
+<p>Термокожух сделан из алюминиевого сплава и дополнительно защищен несколькими слоями краски. Он рассчитан на длительную работу в самых суровых климатических условиях. Для быстрого доступа к камере наблюдения, верхняя часть корпуса полностью открывается на сторону.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66/IP67
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -55 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 103069
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => STH-3230D
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Smartec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/103069.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/103069/a5e9bb25334bc347adc7fc550c0ef389.jpg
+                    [alt] => Термокожух Smartec STH-3230D
+                    [name] => a5e9bb25334bc347adc7fc550c0ef389.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

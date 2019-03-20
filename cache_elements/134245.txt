@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/134245.html
+    [article] => 134245
+    [partnumber] => H2/220-12
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => RVi
+    [name] => Термокожух RVi H2/220-12
+    [price] => 5280
+    [price_small] => 6600
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух RVi H2/220-12 - эргономичный и простой в обращении аксессуар, который обеспечивает видеокамерам надежную защиту от внешних раздражителей и атмосферных явлений. Модель, изготовленная из современного алюминиевого сплава, имеет длину 230 мм, что делает ее пригодной для использования с большинством камер.</p>  <p>Верхняя часть корпуса кожуха откидывается, упрощая доступ к внутреннему пространству и исключая разгерметизацию в процессе монтажа. Аксессуар, поддерживающий благоприятные условия для эксплуатации систем видеонаблюдения, также служит дополнительной защитой оборудования от пыли.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 55 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 134245
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => H2/220-12
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => RVi
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/134245.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/134245/011295bc98572650ac9df99daa91cca8.jpg
+                    [alt] => Термокожух RVi H2/220-12
+                    [name] => 011295bc98572650ac9df99daa91cca8.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

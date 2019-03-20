@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135291.html
+    [article] => 135291
+    [partnumber] => SA-29
+    [category] => Идентификаторы
+    [brand] => Rosslare
+    [name] => Повторитель Rosslare SA-29
+    [price] => 4980
+    [price_small] => 5481
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Повторитель Rosslare SA-29 - надежное и простое в управлении устройства для ретрансляции сигнала. Компактный аппарат беспроводного типа моментально увеличивает дальность передачи сообщений, отправляемых различного вида мобильными радиоволновыми извещателями.</p>
+<p>Конечной точкой сигнала может служить как универсальный приемник, так и охранно-контрольная панель, установленная на предприятии. Модель работает на канале связи 433,92 Мгц. Агрегат оснащен светодиодными индикаторами, упрощающими контроль за состоянием прибора. Широкий диапазон рабочих температур делает его универсальным.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135291
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-29
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135291.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135291/bfd3171327877722a8d7dd7c06987f17.jpg
+                    [alt] => Повторитель Rosslare SA-29
+                    [name] => bfd3171327877722a8d7dd7c06987f17.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

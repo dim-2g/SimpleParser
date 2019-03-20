@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125490.html
+    [article] => 125490
+    [partnumber] => 002LB90
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Плата CAME 002LB90
+    [price] => 2448
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Плата аварийного питания Came 002LB90.</p><p>Совместима с автоматикой распашных ворот AMICO (используется аккумулятор РВ 12-1,2 в кол-ве 2 шт)</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125490
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 002LB90
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125490.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125490/7fd577d0b7b9ceb71d42869fe7163b7e.jpg
+                    [alt] => Плата CAME 002LB90
+                    [name] => 7fd577d0b7b9ceb71d42869fe7163b7e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

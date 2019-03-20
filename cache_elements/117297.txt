@@ -1,0 +1,99 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/117297.html
+    [article] => 117297
+    [partnumber] => SHB-4200H
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Samsung
+    [name] => Термокожух Samsung SHB-4200H
+    [price] => 6920
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => Термокожух с обогревателем и вентилятором. Боковое открывание верхней части корпуса. Солнцезащитный козырек, кронштейн в комплекте, 2 гермоввода; 24V AC, 1.1 кг, внутренний полезный размер 84x69x319 мм (250 мм до платы), IP66, -35°...+50°С, цвет слоновой кости.
+<p>Особенности:</p>
+- степень защиты: IP66
+ - материал: алюминий
+ - цвет: слоновая кость
+<p> </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Слоновая кость
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 117297
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SHB-4200H
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Samsung
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/117297.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/117297/d65b1ffbc7838060ce1fd23fe7c0120c.jpg
+                    [alt] => Термокожух Samsung SHB-4200H
+                    [name] => d65b1ffbc7838060ce1fd23fe7c0120c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

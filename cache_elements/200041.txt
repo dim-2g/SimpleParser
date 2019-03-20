@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/200041.html
+    [article] => 200041
+    [partnumber] => KT-SMA-10Y
+    [category] => Сетевые СКУД
+    [brand] => Gate
+    [name] => Удлинитель кабеля Gate KT-SMA-10Y
+    [price] => 2470
+    [price_small] => 2990
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Удлинитель кабеля Gate KT-SMA-10Y - создан на основе антенного кабеля, который совместим с оборудованием KT-UHF-MA-03 от компании-производителя. Диапазон работы данной модели производителя Gate: 865,6-867,6 МГц, в комплекте один кабель на 10 метров.</p>
+<p>Используется для установки в общественном транспорте.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 200041
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => KT-SMA-10Y
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Gate
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/200041.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/200041/0caa283a597109e4c5b47fa29fbf17c9.jpg
+                    [alt] => Удлинитель кабеля Gate KT-SMA-10Y
+                    [name] => 0caa283a597109e4c5b47fa29fbf17c9.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

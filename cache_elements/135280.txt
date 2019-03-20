@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135280.html
+    [article] => 135280
+    [partnumber] => GCK-01
+    [category] => Дополнительное оборудование СКУД
+    [brand] => Rosslare
+    [name] => Комплект Rosslare GCK-01
+    [price] => 46627
+    [price_small] => 45223
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект инструментов для модернизации системы контроля и управления доступом. Набор включает в себя ряд приборов, которые позволяют наладить слежение за действиями служб охраны, отвечающих за патрулирование территории.</p>
+<p>В комплект входят 12 чипов, которые могут быть запрограммировано согласно требованиям пользователя. Они содержат данные о состоянии прилегающего объекта, которые можно считать при помощи жезла GC-01. Вся информация передается на базовую станцию и обрабатывается через компьютер с установленным ПО. Набор обеспечивает надежный контроль охранного патруля и повышает уровень безопасности на предприятии.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135280
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => GCK-01
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135280.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135280/7db1b1d1b33fc1fc15b2f5574f57a221.jpg
+                    [alt] => Комплект Rosslare GCK-01
+                    [name] => 7db1b1d1b33fc1fc15b2f5574f57a221.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

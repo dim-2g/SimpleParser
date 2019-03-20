@@ -1,0 +1,78 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162489.html
+    [article] => 162489
+    [partnumber] => ACD-ICL2K-2AR
+    [category] => Идентификаторы
+    [brand] => BOSCH
+    [name] => Идентификатор BOSCH ACD-ICL2K-2AR
+    [price] => 33964
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Идентификатор BOSCH ACD-ICL2K-2AR - ISO карта (в упаковке 50 шт.)</p>
+<h3>Особенности:</h3>
+<ul>
+<li>Имеющиеся интерфейсы - iClass</li>
+<li>Пластиковые карты, ПВХ</li>
+<li>Размеры: 86 мм х 54 мм х 0,76 мм</li>
+<li>Отпечатанные номер карты</li>
+<li>Слот Punch (опционально)</li>
+</ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162489
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ACD-ICL2K-2AR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162489.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162489/498344bc5fc8e108989cdf8f45a8f9bd.jpg
+                    [alt] => Идентификатор BOSCH ACD-ICL2K-2AR
+                    [name] => 498344bc5fc8e108989cdf8f45a8f9bd.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

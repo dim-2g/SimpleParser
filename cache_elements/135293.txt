@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135293.html
+    [article] => 135293
+    [partnumber] => SA-01P
+    [category] => Извещатели охранные
+    [brand] => Rosslare
+    [name] => Извещатель Rosslare SA-01P
+    [price] => 6208
+    [price_small] => 6786
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Иизвещатель Rosslare SA-01P - компактный мобильный прибор пассивного типа, функционирующий за счет встроенного инфракрасного датчика. Агрегат отличается надежностью и высокой точностью распознавания помех. Модель предназначена для использования совместно с панелями управления Rosslare серии F, G и H, которые работают на частотах в 418, 433 и 868 МГц соответственно.</p>
+<p>Точный анализ передвижений достигается за счет широкоугольной линзы и программируемого процессора. Прибор оснащен пиро-элементом и системой температурной компенсации, что позволяет избежать ложных срабатываний во время изменения температуры окружающей среды.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Принцип работы] => Core\Option Object
+                (
+                    [name] => Принцип работы
+                    [value] => Инфракрасный/Объемный
+                )
+
+            [Потребление тока] => Core\Option Object
+                (
+                    [name] => Потребление тока
+                    [value] => 0,01 А
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135293
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-01P
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135293.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135293/19ecb24132b5fb02efa7f6a384823673.jpg
+                    [alt] => Извещатель Rosslare SA-01P
+                    [name] => 19ecb24132b5fb02efa7f6a384823673.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

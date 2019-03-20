@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158770.html
+    [article] => 158770
+    [partnumber] => VGA-BUBBLE-CCLR
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Купол BOSCH VGA-BUBBLE-CCLR
+    [price] => 5495
+    [price_small] => 5724
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол прозрачный поликарбонатный для камер AutoDome потолочного исполнения, обеспечивает высокую прочность.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158770
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VGA-BUBBLE-CCLR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158770.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158770/34156341e4a2c70a1552a539855e0813.jpg
+                    [alt] => Купол BOSCH VGA-BUBBLE-CCLR
+                    [name] => 34156341e4a2c70a1552a539855e0813.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

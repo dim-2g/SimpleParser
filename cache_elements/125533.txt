@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125533.html
+    [article] => 125533
+    [partnumber] => KRONO 310
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME KRONO 310
+    [price] => 26640
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект CAME KRONO 310 до 800 кг, до 3,0 м инт. 50%.</p><p>Krono - прочный и бесшумный привод, выполненный в лучших традициях Came.</p><p>Идеальное решение для элитных оград, например, ворот из кованого железа, в которых функциональность гармонично сочетается с внешнем видом.</p><p>Krono прост в установке, не портит внешний вид заграждения и не требует изменения конструкции ворот.</p><h3>Состав комплекта: </h3><p>001KR310D-S Привод 230 В линейный самоблокирующийся Специальный стальной крепеж 2 шт.
+002ZF1 Блок управления 1 шт.</p><h3>Преимущества:</h3><p>Специальный корпус из алюминия превращает Krono в высокопрочное и универсальное изделие, идеально подходящее для распашных ворот, применяемых в жилом секторе.</p><p>Представленный в двух версиях, Krono устанавливается на створках шириной от 3 до 5 м и надежно блокирует ворота в закрытом положении.</p><p>Возможна предварительная комплектация привода микропереключателями, регулирующими концевые положения, как при открытии, так и при закрытии ворот.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125533
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => KRONO 310
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125533.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125533/c711550d21830842981cf97d101cc59c.jpg
+                    [alt] => Комплект CAME KRONO 310
+                    [name] => c711550d21830842981cf97d101cc59c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

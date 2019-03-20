@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158986.html
+    [article] => 158986
+    [partnumber] => VGA-BUBBLE-CTIA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Купол BOSCH VGA-BUBBLE-CTIA
+    [price] => 4697
+    [price_small] => 5429
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол BOSCH VGA-BUBBLE-CTIA специально разработан для эксплуатации в профессиональных системах видеонаблюдения. Данное изделие отличается надежностью, о чем свидетельствует наличие сертификатов качества и соблюдение стандартов безопасности.</p>
+<p>Преимуществом модели является тонированное стекло, которое не позволяет потенциальным нарушителям определить угол поворота камеры и обхват контролируемой зоны. В то же время оно обеспечивает хороший обзор видеокамеры, позволяя осуществлять съемку в высоком разрешении без вреда для качества съемки. Благодаря наличию резинового уплотнителя, конструкция защищает камеру от попадания пыли, влаги и других негативных воздействий окружающей среды.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158986
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VGA-BUBBLE-CTIA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158986.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158986/8b3be5d897c521345c41565e24ca0222.jpg
+                    [alt] => Купол BOSCH VGA-BUBBLE-CTIA
+                    [name] => 8b3be5d897c521345c41565e24ca0222.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124929.html
+    [article] => 124929
+    [partnumber] => HEB32K1A000B
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HEB32K1A000B
+    [price] => 9390
+    [price_small] => 8742
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HEB32K1A000B используется для установки скоростных IP-видеокамер. Он оснащен обогревателем и солнцезащитным козырьком, в нижней часть конструкции может размещаться поворотный механизм для вращения устройства. Перед объективом находится прозрачное окошко из германиевого стекла, предупреждающее порчу оптики из-за внешних ударов.</p>
+<p>Для изготовления корпуса берется алюминий с антикоррозийным покрытием и прочный пластик, которым не страшно попадание жидкости. Расположенные в конструкции кабельные входы используются для установки блока питания и других аксессуаров.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124929
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEB32K1A000B
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124929.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124929/5a275e8ebbb8b23cfd3f9f3744ab3ff0.jpg
+                    [alt] => Корпус VIDEOTEC HEB32K1A000B
+                    [name] => 5a275e8ebbb8b23cfd3f9f3744ab3ff0.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,83 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100386.html
+    [article] => 100386
+    [partnumber] => WHE32
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox WHE32
+    [price] => 7729
+    [price_small] => 6992
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox WHE32 обеспечивает комплексную защиту IP-видеокамер, позволяя размещать их в тяжелых климатических условиях. Электронное термореле автоматически включает встроенный обогреватель. Тепло от элемента распределяется равномерно. Рабочий диапазон температур равняется от -30 до +40 С.</p>
+<p>В сети питания предусмотрен помехоподавляющий фильтр, обеспечивающий стабильность функционирования системы. Корпус изготавливается из алюминия с антикоррозийным покрытием. Напротив объектива располагается окошко из германиевого стекла. Козырек предупреждает возникновение бликов в кадре.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100386
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WHE32
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100386.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100386/343631037ad4539cf265dc56ec31e265.jpg
+                    [alt] => Защитный кожух Wizebox WHE32
+                    [name] => 343631037ad4539cf265dc56ec31e265.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

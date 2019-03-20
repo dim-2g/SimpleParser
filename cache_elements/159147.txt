@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159147.html
+    [article] => 159147
+    [partnumber] => UHO-HBGS-51
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHO-HBGS-51
+    [price] => 17014
+    [price_small] => 17453
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух BOSCH UHO-HBGS-51 – это отличная защита дорогостоящих камер видеонаблюдения и возможность использовать их при любых погодных условиях и температурных режимах. Благодаря использованию современных материалов, корпус изделия практически невозможно повредить, а соответственно нарушить работу встроенного внутрь оборудования.</p>
+<p>Кожух сделан из сплава металлов на основе алюминия, дополнительно покрыт несколькими слоями краски и герметизирован. Внутри оборудован обогревателем, который способен поддержиивать заданную температуру на протяжении всего времени работы камеры.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159147
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHO-HBGS-51
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159147.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159147/31a6192e658373addd3beccc693df74f.jpg
+                    [alt] => Кожух BOSCH UHO-HBGS-51
+                    [name] => 31a6192e658373addd3beccc693df74f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

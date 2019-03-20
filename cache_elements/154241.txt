@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154241.html
+    [article] => 154241
+    [partnumber] => NI-TW
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Интерфейс Parsec NI-TW
+    [price] => 3338
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Интерфейс Parsec NI-TW - создан для сопряжения контроллеров NC-1000/NC-5000/NC-32K/NC-32K-IP системы ParsecNET 2 со считывателями, работающими в стандартах Wiegand 26 bit и Touch Memory (формат ключей DS1990A фирмы Dallas Semiconductor). Может применяться в интегрированной системе считыватели указанных технологий, производимые другими фирмами. Интерфейс Parsec NI-TW включается между считывателем и контроллером или интерфейсом компьютера. Один интерфейс рассчитан на подключение до 2 считывателей к одному контроллеру.</p>  <p>Интерфейс позволяет поддержиивать адресацию, принятой в системе ParsecNET 2, то есть обеспечивает, при необходимости, имеется возможность подключить два неадресных считывателя на вход контроллеров NC-1000/NC-5000/NC-32K/NC-32K-IP. Питание интерфейса Parsec NI-TW - производится напрямую от источника питания контроллера.</p>  <h3 style="text-align: left;">Технические характеристики:</h3>  <ul><li style="text-align: left;">материал корпуса - ударопрочный полистирол;</li>  <li style="text-align: left;">размеры - 134 х 99 х 30 мм;</li>  <li style="text-align: left;">влажность - 0 . . . 95 % (без конденсата);</li>  <li style="text-align: left;">потребляемый ток - не более 30 мА;</li>  <li style="text-align: left;">напряжение - 9 - 16 В постоянного тока.</li>  </ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154241
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NI-TW
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154241.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154241/8b578b2dd62e5e600b07bb27eb1747fe.jpg
+                    [alt] => Интерфейс Parsec NI-TW
+                    [name] => 8b578b2dd62e5e600b07bb27eb1747fe.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

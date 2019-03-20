@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163434.html
+    [article] => 163434
+    [partnumber] => PNOffice-16
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Программный комплекс Parsec PNOffice-16
+    [price] => 13622
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Программный комплекс Parsec PNOffice-16 с поддержкой контроллеров доступа серии NC. Поддержка до 16 точек прохода. В состав лицензии входят функция фотоверификации, менеджер заданий, работа с IP-камерами и два рабочих места (базовая станция + дополнительное рабочее место PNOffice-WS), отчёт УРВ "Посещения за месяц".</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163434
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNOffice-16
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163434.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163434/4c573e7858050c5ef2555de654344061.jpg
+                    [alt] => Программный комплекс Parsec PNOffice-16
+                    [name] => 4c573e7858050c5ef2555de654344061.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

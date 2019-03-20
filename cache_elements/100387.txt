@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100387.html
+    [article] => 100387
+    [partnumber] => WHE32-12V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox WHE32-12V
+    [price] => 13370
+    [price_small] => 12097
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox WHE32-12V – корпус для монтажа IP-камер. Антивандальная конструкция ориентирована на эксплуатацию в тяжелых климатических условиях, при температурах от -30 до +40 С. Внутри располагается нагревательный элемент, равномерно распределяющий тепло. За стабильность подачи энергии отвечает помехоподавляющий фильтр.</p>
+<p>Корпус изготовлен из прочного алюминиевого сплава. На поверхности нанесено антикоррозийное покрытие, делающее кожух устойчивым к прямому попаданию осадков. Герметичные резиновые прокладки предупреждают проникновение частиц грязи и пыли.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -35 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100387
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WHE32-12V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100387.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100387/c64ee06a33ac9536032042e34c1515c7.jpg
+                    [alt] => Защитный кожух Wizebox WHE32-12V
+                    [name] => c64ee06a33ac9536032042e34c1515c7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

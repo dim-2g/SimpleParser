@@ -1,0 +1,101 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/106351.html
+    [article] => 106351
+    [partnumber] => DOME5-I
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Arecont Vision
+    [name] => Кожух Arecont Vision DOME5-I
+    [price] => 8084
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Arecont Vision DOME5-I, выполненный из алюминия и прозрачного поликарбоната, предназначен для использования с камерами видеонаблюдения в помещении с температурным режимом от 0 до +50 °С.</p>
+<p>Высокое качество материалов, используемых при изготовлении изделия, придает прочность конструкции и позволяет защищать устройства от механических повреждений, попадания влаги и пыли.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP65
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Бежевый
+                )
+
+            [Кронштейн в комплекте] => Core\Option Object
+                (
+                    [name] => Кронштейн в комплекте
+                    [value] => Есть
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 106351
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => DOME5-I
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Arecont Vision
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/106351.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/106351/d1dc20a50d971faaa65ac66b8ad32338.jpg
+                    [alt] => Кожух Arecont Vision DOME5-I
+                    [name] => d1dc20a50d971faaa65ac66b8ad32338.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

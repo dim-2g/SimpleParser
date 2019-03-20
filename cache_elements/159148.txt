@@ -1,0 +1,100 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159148.html
+    [article] => 159148
+    [partnumber] => UHO-HBPS-11
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Кожух BOSCH UHO-HBPS-11
+    [price] => 17101
+    [price_small] => 17544
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух BOSCH UHO-HBPS-11 - уличный термокожух с обогревателем, размораживателем входного стекла и вентилятором, солнцезащитный козырек, IP 66, NEMA 4x, внешний BNC-разъем и 4pin разъем питания, размеры (камера+объектив до 262 мм), от -40 до +50 C, входное питание 24 В (АС) =&gt; выходное питание 12 B (DС).</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Уличный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 50 °C
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159148
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UHO-HBPS-11
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159148.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159148/7a81c52ecdb4c2c9744b83b90f0c196e.jpg
+                    [alt] => Кожух BOSCH UHO-HBPS-11
+                    [name] => 7a81c52ecdb4c2c9744b83b90f0c196e.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

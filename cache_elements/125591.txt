@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125591.html
+    [article] => 125591
+    [partnumber] => UNIPARK2
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект CAME UNIPARK2
+    [price] => 35032
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>CAME UNIPARK2 - комплект оборудования, который служит для резервирования двух стояночных мест шириной 2.5 метра.</p><p>Материалом для изготовления служит оцинкованная сталь, а для лучшей видимости барьер окрашивается в яркие цвета.</p><p>Область его использования - большие платные стоянки и парковки перед крупными офисами, на которых места заранее распределены.</p><p>UNIPARK2 имеет простую, интуитивно понятную конструкцию, устройства складывается и раскладывается при помощи радиобрелка, так что водителю не требуется выходить из автомобиля и возиться с ключами и замком.</p><p>При перебоях электропитания барьер может питаться от резервных аккумуляторов.</p><p>Безопасность применения UNIPARK2 обеспечивается амперометрическим датчиком, который обнаруживает препятствия на пути движения и подает сигнал остановки на концевые выключатели.</p><p>При контакте с посторонними предметами включается реверс.UNIPARK2 легко крепится к дорожному основанию, и способен функционировать долгие годы в неблагоприятных климатических условиях.</p><p>Барьер работает при температурах от - 20 до + 55 градусов Цельсия.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125591
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => UNIPARK2
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125591.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125591/1c760c7994c63480f3adeb98626fab17.jpg
+                    [alt] => Комплект CAME UNIPARK2
+                    [name] => 1c760c7994c63480f3adeb98626fab17.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

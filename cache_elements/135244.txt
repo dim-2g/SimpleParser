@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135244.html
+    [article] => 135244
+    [partnumber] => MD-08B
+    [category] => Дополнительное оборудование СКУД
+    [brand] => Rosslare
+    [name] => Программатор Rosslare MD-08B
+    [price] => 5174
+    [price_small] => 5090
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Настольный программатор Rosslare MD-08B используется в профессиональных системах ограничения и контроля доступа с целью обеспечения связи между ПК и бесконтактным считывателем. Компактный прибор преобразовывает сигнал Wiegand в стандарт RS-232, что позволяет получать информацию с оборудования СКУД и отправлять на него соответствующие команды с компьютера.</p>
+<p>Также прибор обеспечивает перенастройку мультиформатных считывающих устройства MIFARE путем изменения выходного протокола. При использовании программного обеспечения возможно удаленное управление бипером и светодиодной индикацией.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135244
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MD-08B
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135244.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135244/9dd420335f67c8049e48858db5d29dfd.jpg
+                    [alt] => Программатор Rosslare MD-08B
+                    [name] => 9dd420335f67c8049e48858db5d29dfd.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

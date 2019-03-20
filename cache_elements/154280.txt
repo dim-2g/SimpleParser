@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154280.html
+    [article] => 154280
+    [partnumber] => PNSoft-AI
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль Parsec PNSoft-AI
+    [price] => 13622
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Модуль интеграции Parsec PNSoft-AI - обеспечивает надежную работу с подсистемой доступа (СКУД), за счет чего можно получить реакцию подсистемы управления доступом на события охранной или пожарной сигнализации, управлять охраной именно средствами ParsecNET и группировать другие виды взаимодействия подсистем.</p>  <p>Начальное конфигурирование и настройка ОПС производиться её собственными штатными средствами, а оперативное управление и мониторинг - средствами ParsecNET. Для поддержки функций охраны собственного оборудования (контроллеры доступа с функциями охраны, охранные контроллеры AC-08) модуль PNSoft-AI не требуется.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154280
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-AI
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154280.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154280/8939d2d36829f4dc7ba9164ad582ee7a.jpg
+                    [alt] => Модуль Parsec PNSoft-AI
+                    [name] => 8939d2d36829f4dc7ba9164ad582ee7a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

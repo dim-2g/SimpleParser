@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124780.html
+    [article] => 124780
+    [partnumber] => NXM2K1000B
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC NXM2K1000B
+    [price] => 71087
+    [price_small] => 70383
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух VIDEOTEC NXM2K1000B – металлический корпус, предназначенный для установки камер в особо агрессивных средах. Он защищает оборудование от перепадов температур, воздействия атмосферных осадков, дыма, газов, а также механических ударов. Передняя часть цилиндрической конструкции имеет стеклянное окошко для объектива, сквозь которого обеспечивается хорошая видимость.</p>
+<p>Изготовленный из нержавеющей стали кожух соответствует высокому классу защиты. В корпусе расположены входы для подключения источника постоянного тока и нагревателя. Универсальные габариты позволяют использовать конструкцию для установки камер разной длины.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124780
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NXM2K1000B
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124780.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124780/518b2a417f0d151ecb1e9ab2775fd440.jpg
+                    [alt] => Кожух VIDEOTEC NXM2K1000B
+                    [name] => 518b2a417f0d151ecb1e9ab2775fd440.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

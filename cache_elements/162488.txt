@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162488.html
+    [article] => 162488
+    [partnumber] => ACD-ICL256-2AR
+    [category] => Идентификаторы
+    [brand] => BOSCH
+    [name] => Идентификатор BOSCH ACD-ICL256-2AR
+    [price] => 18770
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Идентификатор BOSCH ACD-ICL256-2AR, ISO карта (уп. 50 шт.)</p>
+<h3>Опции:</h3>
+<ul>
+<li>пластиковые карты, ПВХ;</li>
+<li>отпечатанный номер карты;</li>
+<li>слот Punch (опционально);</li>
+<li>ICLASS чип.</li>
+</ul>
+<p>Технические характеристики:</p>
+<ul>
+<li>Размеры: 86 мм х 54 мм х 0,76 мм</li>
+<li>Производитель: BOSCH</li>
+<li>Базовая единица: упак</li>
+<li>Дистанция считывания до, мм: 125</li>
+<li>Материал корпуса: Пластик</li>
+<li>Модельный ряд: Proximity</li>
+<li>Рабочая частота, МГц: 13.56</li>
+</ul>
+<p> </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162488
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ACD-ICL256-2AR
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162488.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162488/039fd233b2a8ed70f0fed62914fc3d06.jpg
+                    [alt] => Идентификатор BOSCH ACD-ICL256-2AR
+                    [name] => 039fd233b2a8ed70f0fed62914fc3d06.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/154281.html
+    [article] => 154281
+    [partnumber] => PNSoft-VI
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Модуль Parsec PNSoft-VI
+    [price] => 13622
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Parsec PNSoft-VI - это модуль интеграции с подсистемами видеонаблюдения, который дает возможность получать требуемую информацию с видеокамер в приложениях ParsecNET. Кроме отображения «картинки» с камеры есть возможность управлять записью с камер по событиям в ParsescNET (тревоги, проход сотрудника, отказ в доступе) и в дальнейшем, при анализе событий, можно найти связанный с событием записанный видеофрагмент.</p>  <p>Стоит отметить возможность распознавания автомобильных номеров. Кроме того, доступ по автомобильным номерам может работать вместе с модулем видео верификации как в режиме наблюдения, так и в режиме управления, создавая нужный уровень безопасности при въезде и выезде автотранспорта.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 154281
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => PNSoft-VI
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/154281.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/154281/88d7f2da6dc353ec3df42e1640cc090b.jpg
+                    [alt] => Модуль Parsec PNSoft-VI
+                    [name] => 88d7f2da6dc353ec3df42e1640cc090b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

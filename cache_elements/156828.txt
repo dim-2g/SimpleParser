@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/156828.html
+    [article] => 156828
+    [partnumber] => SNR-ERD-3s
+    [category] => Контроллеры
+    [brand] => SNR
+    [name] => Устройство SNR SNR-ERD-3s
+    [price] => 4204
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Устройство SNR SNR-ERD-3s. Универсальный контроллер c функцией конвертера интерфейсов Eth-RS485/RS232, предназначен для удалённого контроля и управления шкафов с оборудованием. Опрос, подключенных к нему датчиков, и управление нагрузками, осуществляется посредством SNMP и WEB.</p><p>Устройство использует интерфейс Eth-10Base. Предназначено для удалённого мониторинга температуры, управления нагрузками, состояния серверной, шкафов с оборудованием, цод. Опрос аналоговых и дискретных датчиков, осуществляется посредством SNMP и WEB интерфейсов.</p><p>Основные отличия от версии SNR-ERD-3.4:</p><ul><li style="text-align: left;">это последняя версия устройства мониторинга и управления ERD третьей серии;</li><li style="text-align: left;">в устройства полноценная прошивка конвертера, контроллера ИБП (через RS232 по протоколу MegaTec) и устройства мониторинга, три в одном;</li><li style="text-align: left;">на лицевой части устройства, один, удобный двеннадцатиконтактный разъём под винтовое крепление;</li><li style="text-align: left;">цифровой вход 1-wire "переехал" с лицевой части на второй коннектор, и расположен на 9ом контакте;</li><li style="text-align: left;">в устройства отсутствует второй аналоговый вход в отличии от версии ERD-3.2;</li><li style="text-align: left;">металлический корпус;</li><li style="text-align: left;">крепление на DIN рейку в разных плоскостях, а так же настенное крепление.</li></ul><h3>Комплектация:</h3><ul><li style="text-align: left;">устройства мониторинга ERD-3s в металлическом корпусе;</li><li style="text-align: left;">блок питания 5В 1А;</li><li style="text-align: left;">датчик температуры SNR-DTS;</li><li style="text-align: left;">специальные "ушки" для настенного крепления;</li><li style="text-align: left;">крепление на DIN рейку;</li><li style="text-align: left;">бумажная инструкция;</li><li style="text-align: left;">коробка.</li></ul><h3>Основной функциионал:</h3><ul><li style="text-align: left;">замер температуры в серверной, до 5-ти внешних датчиков. "интернет термометр";</li><li style="text-align: left;">отслеживание наличия напряжения -2 входа. "датчик фазы", "датчик напряжения";</li><li style="text-align: left;">удалённый опрос дискретных датчиков типа "сухой контакт" (датчики сигнализации) - до 5-ти штук;</li><li style="text-align: left;">удалённое (дистанционное) управление нагрузкой -2 выхода. Функции "термостат", "автонагрев", "watchdog" и в ручном режиме;</li><li style="text-align: left;">один аналоговый вход, для замера постоянного напряжения от 0 до 72В ;</li><li style="text-align: left;">два последовательных выхода RS232, RS485 для преобразования интерфейсов Eth-Serial;</li><li style="text-align: left;">контроль параметров ИБП через RS232 по протоколу Megatec, с регистрацией данных по web и snmp;</li><li style="text-align: left;">настройка и управление всеми функциями через snmp и web интерфейсы;</li><li style="text-align: left;">установка сценариев на события при изменении температуры, напряжения. Термостат, нагреватель, контроль разряда аккумуляторов;</li><li style="text-align: left;">работа в паре - "удалённый переключатель";</li><li style="text-align: left;">при возникновении критических ситуаций посылает SNMP Trap на указанный адрес;</li><li style="text-align: left;">отслеживает работоспособность оборудования при помощи ICMP запросов, функция "watchdog"(Один адрес);</li><li style="text-align: left;">самостоятельное "ручное" обновление прошивки;</li><li style="text-align: left;">кнопка сброса в исходные настройки;</li><li style="text-align: left;">сохранение всех настроек и каунтеров при отключении питания.</li></ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 156828
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SNR-ERD-3s
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => SNR
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/156828.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/156828/122b81ac916ef3b45c6a92d903e8766c.jpg
+                    [alt] => Устройство SNR SNR-ERD-3s
+                    [name] => 122b81ac916ef3b45c6a92d903e8766c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

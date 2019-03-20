@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124792.html
+    [article] => 124792
+    [partnumber] => NXL1K1000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Термокожух VIDEOTEC NXL1K1000
+    [price] => 128749
+    [price_small] => 127430
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Термокожух VIDEOTEC NXL1K1000 – ударопрочная конструкция с солнцезащитным козырьком, устанавливаемая поверх скрытых IP-видеокамер. Корпус предназначен для наружного размещения и позволяет использовать устройства в особо тяжелых климатических условиях. Он не только фиксирует оборудование, но и позволяет ему свободно поворачиваться и изменять угол наклона.</p>
+<p>Перед объективом находится окошко из германиевого стекла, обеспечивающего хороший обзор. Для поддержиания постоянной температуры внутри кожуха применяется обогреватель, подключаемый через кабельный вход. Питание кожуха осуществляется с помощью PoE-технологии.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124792
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NXL1K1000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124792.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124792/481f4e99825714375472cbd821cba835.jpg
+                    [alt] => Термокожух VIDEOTEC NXL1K1000
+                    [name] => 481f4e99825714375472cbd821cba835.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

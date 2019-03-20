@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163449.html
+    [article] => 163449
+    [partnumber] => AG-200 (комплект)
+    [category] => Дополнительное оборудование ОПС
+    [brand] => Optimus
+    [name] => GSM-сигнализация Optimus AG-200 (комплект) беспроводная
+    [price] => 4942
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Беспроводная GSM сигнализация Optimus AG-200 (комплект) – это устройства, предназначенное для охраны заданной ему территории. Сигнал о вторжении оно передает через мобильную связь – GSM оператора прямо на телефон его владельца. Поддерживает 15 номеров (6 номеров для голосового вызова, 6 номеров для SMS сообщений, 3 номера для экстренного вызова).</p>
+<p>Модель имеет поддержку пожарных датчиков и других как проводных, так и беспроводных устройства (до 150 шт.). Настройка охранно-пожарных зон, ИК – датчик, звуковая сигнализация – обеспечивает комплексный подход в безопасности доверенной ей зоне.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163449
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => AG-200 (комплект)
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Optimus
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163449.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163449/3047acf061b584464efc9b25740f74c1.jpg
+                    [alt] => GSM-сигнализация Optimus AG-200 (комплект) беспроводная
+                    [name] => 3047acf061b584464efc9b25740f74c1.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

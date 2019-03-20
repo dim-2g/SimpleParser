@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100410.html
+    [article] => 100410
+    [partnumber] => SVS26P-42V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SVS26P-42V
+    [price] => 13445
+    [price_small] => 12165
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox SVS26P-42V - функциональный аксессуар, который используется для охраны камеры видеонаблюдения от неблагоприятного воздействия окружающей среды. Модель работает в широком диапазоне температур воздуха и подходит для холодного климата.</p>
+<p>При производстве конструкции производитель использует только высоконадежные материалы, которые сохраняют потребительские характеристики даже при эксплуатации в экстремальных условиях: ударопрочное отполированное стекло, авиационную резину, экструзионный алюминий. В числе особенностей модели встроенный нагреватель, термодатчик электронного типа, пыленепроницаемый корпус и встроенный источник питания.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100410
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS26P-42V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100410.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100410/7f85638112e9739d7c6a4359f1b5b8fd.jpg
+                    [alt] => Защитный кожух Wizebox SVS26P-42V
+                    [name] => 7f85638112e9739d7c6a4359f1b5b8fd.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

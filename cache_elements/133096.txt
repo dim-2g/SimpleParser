@@ -1,0 +1,90 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/133096.html
+    [article] => 133096
+    [partnumber] => MX-Q24M-Vandal-ESMA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Mobotix
+    [name] => Кожух Mobotix MX-Q24M-Vandal-ESMA
+    [price] => 19661
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Антивандальный кожух Mobotix MX-Q24M-Vandal-ESMA устанавливается поверх камер Q24. Он защищает устройство от внешнего негативного воздействия. Конструкция выдерживает попадание капель жидкости, частиц пыли и грязи, а также внешние механические вибрации. Напротив объектива располагается прозрачное окошко, обеспечивающее хорошую видимость и получение резких кадров.</p>
+<p>Кожух выполнен в нейтральном сером цвете и имеет матовую поверхность. На стенках располагаются вентиляционные отверстия, обеспечивающие непрерывную циркуляцию воздуха. Монтаж осуществляется на потолке, для фиксации используются стандартные крепежные элементы.</p>
+<p>Технические характеристики:</p>
+<ul>
+<li>Армированный купол (3мм поликарбонат)</li>
+<li>Нержавеющая сталь</li>
+<li>Противовандальные крепления</li>
+<li>Идеально подходит для защиты камеры от внешних воздействий </li>
+</ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Купольный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 133096
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => MX-Q24M-Vandal-ESMA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Mobotix
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/133096.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/133096/328438ce934a9f7acbca1b8818d2052c.jpg
+                    [alt] => Кожух Mobotix MX-Q24M-Vandal-ESMA
+                    [name] => 328438ce934a9f7acbca1b8818d2052c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

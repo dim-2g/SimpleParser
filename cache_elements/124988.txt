@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124988.html
+    [article] => 124988
+    [partnumber] => WBJA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC WBJA
+    [price] => 1247
+    [price_small] => 1185
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC WBJA необходим для установки видеокамер в тяжелых климатических условиях. Универсальная конструкция имеет полезный внутренний размер и подходит для большинства устройства. Она оснащена окошком из германиевого стекла, защищающем объектив от осадков и внешнего механического воздействия.</p>
+<p>Откидывающаяся часть упрощает доступ к компонентам системы. Внутри может располагаться обогреватель и вентиляторр, отвечающие за поддержиание постоянной температуры. Резиновая прокладка неопрена делает корпус устойчивым к попаданию частиц пыли и грязи, капель жидкости.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124988
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WBJA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124988.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124988/f6ca25ab4154e2941a1b6960e0435c0b.jpg
+                    [alt] => Корпус VIDEOTEC WBJA
+                    [name] => f6ca25ab4154e2941a1b6960e0435c0b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

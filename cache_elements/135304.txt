@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135304.html
+    [article] => 135304
+    [partnumber] => SA-27G
+    [category] => Идентификаторы
+    [brand] => Rosslare
+    [name] => Передатчик Rosslare SA-27G
+    [price] => 3427
+    [price_small] => 3719
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Передатчик Rosslare SA-27G - легкий, компактный и простой в обращении прибор, который делает пользование современной охранной системой еще более комфортным. Благодаря своим миниатюрным габаритам устройства без труда помещается в руке, кармане рубашки или куртки. На передней стенке агрегата располагаются две кнопки - включения и выключения охраны заданного объекта.</p>
+<p>Аппарат сконструирован на основе первоклассной микропроцессорной архитектуры, он надежен, эффективен и удобен. Встроенная антенна позволяет ему посылать сигнал на базу, удаленную более, чем на 50 метров (в открытом пространстве). Код с 16 млн комбинаций обуславливает возможность использования множества таких аппаратов в одной системе.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135304
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-27G
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135304.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135304/74e5156b6178720768b5d47f8741b3cc.jpg
+                    [alt] => Передатчик Rosslare SA-27G
+                    [name] => 74e5156b6178720768b5d47f8741b3cc.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

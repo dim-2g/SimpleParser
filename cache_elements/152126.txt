@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/152126.html
+    [article] => 152126
+    [partnumber] => SmartGARD
+    [category] => 
+    [brand] => Tantos
+    [name] => Сигнализация Tantos SmartGARD
+    [price] => 9377
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Сигнализация Tantos SmartGARD - комплект радиоканальной GSM сигнализации. Встроенный аккумулятор 7.2V/1000mA обеспечит работу панели в течение 16 часов в случае отключения сети 220В. Возможность расширения до 50 радиодатчиков и 10 радиобрелков. Возможность задать 3 группы SMS-сообщений и 5 групп для автоматического звонка на телефон. Управление контрольным прибором посредством брелоков, SMS-сообщений или через приложения для Android и iOS.</p>
+<p>В состав комплекта TANTOS SmartGARD входят: контрольная панель c радио- и GSM модулем, радиоканальный датчик движения TS-ALP600 (ИК-датчик) , датчик открытия двери TS-MAG300 (геркон) и два 4-кнопочных брелока. Также в комплекте блок питания и элементы питания извещателей. Все датчики системы SmartGARD соединяются с контрольной панелью по радиоканалу, без использования проводов.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 152126
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SmartGARD
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Tantos
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/152126.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/152126/a23ef0b23b00b0fd21f157df6774702c.jpg
+                    [alt] => Сигнализация Tantos SmartGARD
+                    [name] => a23ef0b23b00b0fd21f157df6774702c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

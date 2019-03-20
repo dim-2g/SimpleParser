@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125440.html
+    [article] => 125440
+    [partnumber] => 001RBE4RC
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Приемник CAME 001RBE4RC
+    [price] => 8736
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Приемник Came RBE4RC.</p><p>Четырехканальный радиоприемник с технологией динамического кода может быть установлен на корпус блока управления ворот, корпус шлагбаума или использован для управления освещением и другими устройствами.</p><p>Совместим с брелками-передатчиками серии ATOMO (AT02, AT04, AT02EV, AT04EV), число запоминаемых кодов (брелков) до 500.</p><p>Пластиковый корпус для наружной установки, класс защиты IP54. Легкое обслуживание системы (удаление/перенастройка, добавление или изменение). Устройство также оснащено картой памяти для создания резервной копии всех сохраненных брелков.</p><p>Все операции по программированию системы и управлению могут быть выполнены также при помощи персонального компьютера, оборудованного соответствующим программным обеспечением.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125440
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001RBE4RC
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125440.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125440/fa62c4ecba7c2d3676bea4049da51653.jpg
+                    [alt] => Приемник CAME 001RBE4RC
+                    [name] => fa62c4ecba7c2d3676bea4049da51653.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

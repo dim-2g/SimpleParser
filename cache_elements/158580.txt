@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158580.html
+    [article] => 158580
+    [partnumber] => ISP-MCS2-FP110
+    [category] => Извещатели охранные
+    [brand] => BOSCH
+    [name] => Магнитный контакт BOSCH ISP-MCS2-FP110
+    [price] => 2881
+    [price_small] => 3061
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Магнитный контакт BOSCH ISP-MCS2-FP110 устанавливается в охранных извещателях. Он контролирует открытие дверей и окон и сообщает о несанкционированном доступе в помещение, отвечая за формирование тревожного сигнала.</p>
+<p>Элемент размещается на поверхности систем безопасности типа LSN и поддерживает параллельную установку с другими деталями. Уплотненный монтаж производится с помощью специального комплекта EG1. Для изготовления корпуса использован прочный ABS-пластик. Контакт выполнен в белом цвете и поставляется вместе с экранированным кабелем диаметром 3.2 мм и длиной 4 м.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158580
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ISP-MCS2-FP110
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158580.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158580/30afeceb28b21d187728a23b62a93f38.jpg
+                    [alt] => Магнитный контакт BOSCH ISP-MCS2-FP110
+                    [name] => 30afeceb28b21d187728a23b62a93f38.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

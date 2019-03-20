@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100377.html
+    [article] => 100377
+    [partnumber] => LS260-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox LS260-24V
+    [price] => 6862
+    [price_small] => 5122
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox LS260-24V – профессиональная модель, ориентированная на установку в экстремальных условиях. Конструкция совместима с большинством скрытых камер и обеспечивает герметичность их размещения за счет использования специальных прокладок. Встроенный нагревательный элемент включается автоматически и поддерживает постоянную температуру внутри корпуса.</p>
+<p>Для изготовления кожуха берется прочный алюминиевый сплав, устойчивый к возникновению ржавчины. Предусмотрены кабельные вводы для подключения источника питания. Предусмотрен помехоподавляющий фильтр, предупреждающий возникновение скачков напряжения и тока.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -30 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100377
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => LS260-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100377.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100377/79ca0e781a1a9f1110416b0d9f5f4ec2.jpg
+                    [alt] => Защитный кожух Wizebox LS260-24V
+                    [name] => 79ca0e781a1a9f1110416b0d9f5f4ec2.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

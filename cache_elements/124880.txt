@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124880.html
+    [article] => 124880
+    [partnumber] => HPV42K2A017
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HPV42K2A017
+    [price] => 13572
+    [price_small] => 13409
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Корпус VIDEOTEC HPV42K2A017 – это эффективное решение для оптимизации работы IP-камеры в условиях агрессивной среды. Герметичность корпуса и его антивандальное исполнение обеспечивают надежную защиту видеооборудования от атмосферных воздействий и серьёзных механических повреждений.</p>
+<p>Благодаря большой площади полезного пространства, модель совместима с различными камерами, как с фиксированным, так и со съемным объективом. Достоинством устройства является наличие вентиляторров с двойными фильтрами, которые обеспечивают дополнительное вентилирование, исключая проникновение пыли внутрь термокожуха.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124880
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HPV42K2A017
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124880.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124880/85f497678063ad6c744ba6f84b69dc35.jpg
+                    [alt] => Корпус VIDEOTEC HPV42K2A017
+                    [name] => 85f497678063ad6c744ba6f84b69dc35.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

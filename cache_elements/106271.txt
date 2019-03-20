@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/106271.html
+    [article] => 106271
+    [partnumber] => ICH-310HCB
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Infinity
+    [name] => Уличный гермокожух Infinity ICH-310HCB
+    [price] => 2885
+    [price_small] => 3150
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Уличный гермокожух Infinity ICH-310HCB используется в профессиональных системах видеонаблюдения для реализации монтажа камеры в условиях улицы, даже если она не предназначена для эксплуатации вне помещения. Корпус изделия изготовлен из прочного алюминия, что позволяет защитить установленное внутри него видеооборудование от физических повреждений.</p>
+<p>Порошковое покрытие дает возможность сохранить привлекательный внешний вид устройства на протяжении многих лет, а специальные морозостойкие уплотнители обеспечивают работоспособность видеокамеры при температуре до -40 °С. Также предусмотрен солнцезащитных козырек.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 106271
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ICH-310HCB
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Infinity
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/106271.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/106271/203ae4b7f618b463c56b5838dd448e85.jpg
+                    [alt] => Уличный гермокожух Infinity ICH-310HCB
+                    [name] => 203ae4b7f618b463c56b5838dd448e85.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

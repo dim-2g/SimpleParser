@@ -1,0 +1,74 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/163427.html
+    [article] => 163427
+    [partnumber] => CNC-12-IP
+    [category] => Сетевые СКУД
+    [brand] => Parsec
+    [name] => Ethernet-шлюз Parsec CNC-12-IP
+    [price] => 13895
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Ethernet–шлюз Parsec CNC-12-IP предназначен для работы в составе системы контроля доступа ParsecNET и позволяет объединять территориально удаленные сегменты системы по сети Ethernet. 
+
+Шлюз поддерживает две линии RS-485, на каждую из которых может подключаться до 24 контроллеров. Каждая линия снабжена индивидуальной гальваноразвязкой от основной схемы шлюза. 
+
+Новая версия устройства поддерживает работу в системах ParsecNET 2.5, ParsecNET 3 и ParsecNET Office. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 163427
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CNC-12-IP
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Parsec
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/163427.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/163427/557329c80af03183db09853e13593709.jpg
+                    [alt] => Ethernet-шлюз Parsec CNC-12-IP
+                    [name] => 557329c80af03183db09853e13593709.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

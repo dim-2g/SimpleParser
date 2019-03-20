@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124904.html
+    [article] => 124904
+    [partnumber] => HEG37K1A000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Корпус VIDEOTEC HEG37K1A000
+    [price] => 13205
+    [price_small] => 12298
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Высокогерметичный корпус VIDEOTEC HEG37K1A000, оборудованный специальным козырьком, предназначен для монтажа уличных камер с большими объективами. Его надежная алюминиевая конструкция со скользящей системой монтажа защитит устройства от попадания пыли, воды и иных внешних воздействий.</p>
+<p>Кожух дополнительно укомплектован мощным обогревателем на 40 Вт и оборудован индивидуальной системой вентиляции, которая гарантирует бесперебойную работу прибора даже при высоких температурах. Для обеспечения качественной съемки производитель снабдил модель стеклоочистителем и насосом для мойки стекла. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124904
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => HEG37K1A000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124904.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124904/2455f320e0a4ab1140ebba8bdde83556.jpg
+                    [alt] => Корпус VIDEOTEC HEG37K1A000
+                    [name] => 2455f320e0a4ab1140ebba8bdde83556.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

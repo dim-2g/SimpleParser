@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100392.html
+    [article] => 100392
+    [partnumber] => SVS21
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SVS21
+    [price] => 5162
+    [price_small] => 4670
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox SVS21 позволяет устанавливать IP-камеры на улице и в тяжелых условиях. Изготовленная из алюминия конструкция выдерживает прямое попадание жидкости, воздействие атмосферных осадков, а также механические удары. Внутри корпуса предусмотрен нагревательный элемент, который равномерно распределяет тепло. Управление пластиной осуществляется с помощью электронного реле.</p>
+<p>Герметичное размещение оборудования обеспечивается за счет прокладок из авиационной резины. В передней части располагается окошко из германиевого стекла, козырек от прямых солнечных лучшей. Предусмотрены кабельные вводы для подключения к сети.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -52 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100392
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS21
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100392.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100392/51780c185663ee7272b7814afaa755ad.jpg
+                    [alt] => Защитный кожух Wizebox SVS21
+                    [name] => 51780c185663ee7272b7814afaa755ad.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

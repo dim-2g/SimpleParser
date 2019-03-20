@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/161974.html
+    [article] => 161974
+    [partnumber] => SV32P-03/04M
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Кожух Wizebox SV32P-03/04M защитный для видеокамер
+    [price] => 20489
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух Wizebox SV32P-03/04M защитный для видеокамер – прочная конструкция из металла. Она позволяет устройства на улице вне зависимости от погоды и атмосферных осадков. Встроенный обогреватель отвечает за поддержание постоянной температуры, а герметичность кожуха поддерживается благодаря наличию резиновых прокладок.</p>
+<p>Хорошая видимость обеспечивается благодаря прозрачному окошку, располагающемуся напротив объектива. В комплекте с кожухом идет приемник для получения сигнала по витой паре. Дальность его действия – 1500 метров. На концах поддерживается стабильное напряжение и действует грозозащита.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Стандартный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -65 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 161974
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SV32P-03/04M
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/161974.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/161974/908e0fffcb9a58b50efd1e6f0ec0a34b.jpg
+                    [alt] => Кожух Wizebox SV32P-03/04M защитный для видеокамер
+                    [name] => 908e0fffcb9a58b50efd1e6f0ec0a34b.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

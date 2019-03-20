@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159630.html
+    [article] => 159630
+    [partnumber] => CIVS-IPCA-1020=
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Cisco
+    [name] => Купол Cisco CIVS-IPCA-1020=
+    [price] => 2910
+    [price_small] => 3262
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол Cisco CIVS-IPCA-1020 устанавливается поверх поворотных IP-видеокамер и обеспечивает широкий угол обзора при скрытой съемке на предприятиях. Аксессуар выполнен в виде полусферы и отличается простотой монтажа. Он защищает оборудование от попадания жидкости и неблагоприятного воздействия окружающей среды.</p>
+<p>Модель совместима с камерами серии 2611. Для изготовления купола берется затемненное стекло, через которое обеспечивается получение четких и детализированных кадров. Комплектующее устойчиво к внешним механическим ударам, ему не страшны резкие перепады температур.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159630
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => CIVS-IPCA-1020=
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Cisco
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159630.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159630/eb8e8832ac5777e06901e45863334c09.jpg
+                    [alt] => Купол Cisco CIVS-IPCA-1020=
+                    [name] => eb8e8832ac5777e06901e45863334c09.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

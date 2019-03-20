@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135290.html
+    [article] => 135290
+    [partnumber] => SA-25
+    [category] => Извещатели охранные
+    [brand] => Rosslare
+    [name] => Приемник Rosslare SA-25
+    [price] => 4786
+    [price_small] => 5220
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Приемник Rosslare SA-25 представляет собой универсальный трехканальный расширитель, предназначенный для расширения функциионала GSM-сигнализаций. Устройство имеет встроенную антенну, благодаря которой прием остается высоким на расстоянии до 250 м.</p>
+<p>Модель с магнитоконтактным извещателем комфортна и проста в обращении. Система световых индикаторов позволяет контролировать процесс, а широкий диапазон рабочих температур обуславливает универсальность прибора. Один канал данного устройства предназначается для подключения магнитных контактов, а два других служат для присоединения проводных устройства. </p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135290
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-25
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135290.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135290/d0b73da44ae13d69794825d6b04fd9e3.jpg
+                    [alt] => Приемник Rosslare SA-25
+                    [name] => d0b73da44ae13d69794825d6b04fd9e3.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,96 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/156335.html
+    [article] => 156335
+    [partnumber] => ТВК-07-В
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Эридан
+    [name] => Взрывозащищённый термокожух Эридан ТВК-07-В
+    [price] => 85993
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Взрывозащищённый термокожух Эридан ТВК-07-В сделан из высококачественных материалов и рассчитан на работу в экстремальных условиях. Он идеально подойдет для защиты камеры видеонаблюдения от возможных механических и других повреждений.</p>
+<p>По своим характеристикам соответствует степени защиты IР67 и может использоваться в температурном диапазоне от + 1 до + 200 °С.Данная модель сделана из нержавеющей стали и рассчитана на эксплуатацию на протяжении не менее 10 лек.</p>
+<p>Имеет вес порядка 17 кг. и может монтироваться одним человеком. Кожух является полностью разборным и может использоваться с большинством камер наблюдения различных производителей.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66/IP67
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => 1 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 200 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 156335
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ТВК-07-В
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Эридан
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/156335.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/156335/6500da9b95aa7011c4131911ce7fc3b4.jpg
+                    [alt] => Взрывозащищённый термокожух Эридан ТВК-07-В
+                    [name] => 6500da9b95aa7011c4131911ce7fc3b4.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

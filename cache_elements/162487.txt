@@ -1,0 +1,79 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162487.html
+    [article] => 162487
+    [partnumber] => ACD-ATR14CS
+    [category] => Идентификаторы
+    [brand] => BOSCH
+    [name] => Идентификатор BOSCH ACD-ATR14CS
+    [price] => 3755
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Идентификатор BOSCH ACD-ATR14CS - карта доступа EM ISO Clam Shell Cards (Заказ только по 25 шт.) Только для чтения имеет универсальную совместимость со считывателем Wiegand IF тип W 3.</p>
+<p>Включает встроенную антенну, интегральную схему радиочастотной идентификации RFID, позволяющую считывать ее бесконтактными считывателями, а также напечатанный номер на внешней стороне карты. Размером с кредитную карту соответствует стандартному размеру</p>
+<h3>Особенности:</h3>
+<ul>
+<li>Имеющиеся интерфейсы - EM-Marine</li>
+<li>Надежный сигнал без искажений</li>
+<li>Крепкая, гибкая и стойкая к повреждениям</li>
+<li>Совместима с Photo ID</li>
+<li>Помещается в карман</li>
+</ul>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162487
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ACD-ATR14CS
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162487.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162487/253024d62ac5fa85dbee147bd555ddfb.jpg
+                    [alt] => Идентификатор BOSCH ACD-ATR14CS
+                    [name] => 253024d62ac5fa85dbee147bd555ddfb.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

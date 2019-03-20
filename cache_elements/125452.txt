@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125452.html
+    [article] => 125452
+    [partnumber] => 001SET-J
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Ключ CAME 001SET-J
+    [price] => 1384
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Ключ-выключатель Came SET-J.</p><p>Предназначен для ручного управления приводными механизмами.</p><p>Высокопрочный вандалозащищенный корпус из алюминиевого сплава имеет степень пыле- и влагозащищенности IP54, что допускает его монтаж накладным способом на открытой местности при любых атмосферных осадках.</p><p>SET-J оснащен устройстваом защиты цилиндра замка. Важным преимуществом является невозможность вскрытия корпуса без ключа.</p><p>В основном комплекте поставки - 3 ключа.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125452
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 001SET-J
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125452.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125452/ba6155ccc05fcb26f4b1ba7cd2bc9eff.jpg
+                    [alt] => Ключ CAME 001SET-J
+                    [name] => ba6155ccc05fcb26f4b1ba7cd2bc9eff.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

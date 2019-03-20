@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100394.html
+    [article] => 100394
+    [partnumber] => SVS21-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox SVS21-24V
+    [price] => 5162
+    [price_small] => 4670
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox SVS21-24V поставляется со встроенным обогревателем. Внутри поддерживается постоянная температура. Стабильность функционирования системы обеспечивается благодаря блоку питания с помехопоглощающим фильтром. Модель совместима с камерами, оснащенными сменным объективом. Максимальная нагрузка на кронштейн составляет 20 кг.</p>
+<p>Корпус оборудован кабельными вводами. Смотровое окошко для объектива изготавливается из ударопрочного стекла. Козырек предупреждает появление солнечных бликов в кадре. Алюминиевый корпус с порошковым антикоррозийным покрытием выдерживает попадание жидкости, воздействие атмосферных осадков.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [По типу] => Core\Option Object
+                (
+                    [name] => По типу
+                    [value] => Антивандальный
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -52 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100394
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SVS21-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100394.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100394/009d1474f5f4e6accb48cb0a42435a4c.jpg
+                    [alt] => Защитный кожух Wizebox SVS21-24V
+                    [name] => 009d1474f5f4e6accb48cb0a42435a4c.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,89 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/100365.html
+    [article] => 100365
+    [partnumber] => ELS320-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Защитный кожух Wizebox ELS320-24V
+    [price] => 6721
+    [price_small] => 5016
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защитный кожух Wizebox ELS320-24V поставляется вместе со встроенным источником питания на 24 В. Он устойчив к скачкам тока и негативному воздействию окружающей среды. Увеличенный объем внутреннего пространства позволяет устанавливать камеры разных марок и габаритов. Кабели питания подключаются через предусмотренные в корпусе вводы.</p>
+<p>Для изготовления корпуса берется алюминий, устойчивый к возникновению ржавчины и выдерживающей механические удары. Внутри конструкции поддерживается постоянная температура. Предусмотрено ударопрочное защитное стекло, находящееся напротив объектива. Над ним располагается козырек.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -10 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 100365
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ELS320-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/100365.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/100365/9a2c90ea3f80403f392fc95210e0fc57.jpg
+                    [alt] => Защитный кожух Wizebox ELS320-24V
+                    [name] => 9a2c90ea3f80403f392fc95210e0fc57.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

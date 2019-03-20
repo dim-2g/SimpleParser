@@ -1,0 +1,95 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/124812.html
+    [article] => 124812
+    [partnumber] => NTW0K2000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC NTW0K2000
+    [price] => 389107
+    [price_small] => 385255
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух VIDEOTEC NTW0K2000 нужен для защиты скоростных камер. Он устанавливается поверх устройства и обеспечивает их надежную фиксацию. Конструкция совместима с подвижными механизмами, которые размещаются в нижней части корпуса. Цилиндрический корпус поддерживает жидкостное охлаждение, благодаря чему поддерживается постоянная температура.</p>
+<p>В передней части располагается сделанное из германиевого стекла окошко, защищающее объектив и обеспечивающее получение четких кадров. Кожух создается из нержавеющей стали, устойчивой к попаданию жидкости и механическим ударам.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Стальной
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 200 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 124812
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => NTW0K2000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/124812.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/124812/b3cbc692f3ccf58acca4b33a524031bc.jpg
+                    [alt] => Кожух VIDEOTEC NTW0K2000
+                    [name] => b3cbc692f3ccf58acca4b33a524031bc.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

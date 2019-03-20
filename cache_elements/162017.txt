@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/162017.html
+    [article] => 162017
+    [partnumber] => WEX40-24V-03
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Термокожух Wizebox WEX40-24V-03 для защиты телекамер
+    [price] => 130271
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Взрывозащищенный термокожух Wizebox WEX40-24V-03 используется для установки телекамер. Усиленная конструкция выполнена в виде цилиндра, поверх которого располагается козырек, снижающий негативное воздействие солнечных лучей. Пневматическая бленда предупреждает загрязнение смотрового окошка и способствует повышению видимости.</p>
+<p>В комплекте поставляется передатчик для приема сигнала по витой паре, используемой для транспортировки видео и подачи питания. На выходе действует защита от перегрузок и перепадов напряжения. Обогреватель обеспечивает поддержание стабильной температуры внутри конструкции.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Форм-фактор] => Core\Option Object
+                (
+                    [name] => Форм-фактор
+                    [value] => Специализированный
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 162017
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WEX40-24V-03
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/162017.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/162017/434ba4c42b28bcf210ee426db134d7f7.jpg
+                    [alt] => Термокожух Wizebox WEX40-24V-03 для защиты телекамер
+                    [name] => 434ba4c42b28bcf210ee426db134d7f7.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

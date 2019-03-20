@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125508.html
+    [article] => 125508
+    [partnumber] => 002ZR24
+    [category] => Дополнительное оборудование СКУД
+    [brand] => CAME
+    [name] => Блок управления CAME 002ZR24
+    [price] => 4080
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Блок управления Came 002ZR24 для одного привода с питанием двигателя 220 В.</p><p>Функции: открывание в режиме закрывания, стоп, автоматическое закрывание с регулировкой времени, присутствие оператора, обнаружение препятствий.</p><p>Мощность подключаемого привода до 500 Вт, принадлежностей - до 5 Вт.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125508
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => 002ZR24
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125508.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125508/27416bad1be06d934d29d7c512805809.jpg
+                    [alt] => Блок управления CAME 002ZR24
+                    [name] => 27416bad1be06d934d29d7c512805809.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

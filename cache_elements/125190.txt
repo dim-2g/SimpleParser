@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125190.html
+    [article] => 125190
+    [partnumber] => EXPTS000
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Козырек VIDEOTEC EXPTS000
+    [price] => 7850
+    [price_small] => 8001
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Козырек VIDEOTEC EXPTS000 располагается на взрывозащищенных термокожухах. Он выполнен в виде загнутого листа металла, снижающего негативное воздействие ультрафиолетовых лучей на оборудование. Также аксессуар предупреждает возникновение солнечных бликов в кадре.</p>
+<p>Крепеж козырька осуществляется с помощью стальных винтов, фиксирующихся по краям конструкции. Располагающийся между деталью и корпусом зазор способствует естественному охлаждению оборудования. Аксессуар совместим с корпусами, оснащенными поворотными устройствами EXPTC. Для его изготовления берутся сплавы с антикоррозийным покрытием, благодаря чему конструкции не страшно попадание жидкости.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125190
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EXPTS000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125190.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125190/8d2a17199a639a9743b211ada063ec3f.jpg
+                    [alt] => Козырек VIDEOTEC EXPTS000
+                    [name] => 8d2a17199a639a9743b211ada063ec3f.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

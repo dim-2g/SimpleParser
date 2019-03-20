@@ -1,0 +1,72 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/135305.html
+    [article] => 135305
+    [partnumber] => SA-28G
+    [category] => Идентификаторы
+    [brand] => Rosslare
+    [name] => Передатчик Rosslare SA-28G
+    [price] => 3686
+    [price_small] => 4046
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Передатчик Rosslare SA-28G - многофункциональный четырехкнопочный прибор, упрощающий использование современной охранной системы. Аппарат работает на канале связи частотой в 433.92МГц.</p>
+<p>На передней панели устройства располагаются четыре клавиши, каждая из которых запускает определенную функцию. Там же находится и яркий светодиод, информирующий владельца об уровне заряда батареи прибора.</p>
+<p>Модель оснащена защитой от случайного нажатия тревожной кнопки. Более 16 млн кодовых комбинаций позволяют внедрить в одну охранную систему множество таких устройства. Широкий диапазон рабочих температур (от 0 до 50 °С) делает этот агрегат универсальным для предприятий различной направленности.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 135305
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => SA-28G
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Rosslare
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/135305.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/135305/d0860b53fb5320d47e7ea489f35db194.jpg
+                    [alt] => Передатчик Rosslare SA-28G
+                    [name] => d0860b53fb5320d47e7ea489f35db194.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

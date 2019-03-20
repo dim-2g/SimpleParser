@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/166937.html
+    [article] => 166937
+    [partnumber] => DS-PI-Q150/FM
+    [category] => Извещатели охранные
+    [brand] => HikVision
+    [name] => Оптический извещатель HikVision DS-PI-Q150/FM
+    [price] => 26991
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Оптический извещатель HikVision DS-PI-Q150/FM оборудован четырехлучевой системой индикации, позволяющей создать широкую зону контроля на охраняемом объекте. Мощность инфракрасного излучения позволяет контролировать участки территории, где расстояние между объектами или элементами заграждения достигает 150 м.</p>
+<p>Наличие регулятора срабатывания датчика тревоги дает возможность настраивать время прерывание в зависимости от скорости передвижения правонарушителя и характеристик местности. Для организации энергоснабжения можно использовать 12- или 24-вольтный источник питания без необходимости в соблюдении полярности.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 166937
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => DS-PI-Q150/FM
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => HikVision
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/166937.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/166937/daead8c924a533ec6795f347a8043e99.jpg
+                    [alt] => Оптический извещатель HikVision DS-PI-Q150/FM
+                    [name] => daead8c924a533ec6795f347a8043e99.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

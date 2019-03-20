@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/158990.html
+    [article] => 158990
+    [partnumber] => VGA-BUBLRG-CTIA
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => BOSCH
+    [name] => Купол BOSCH VGA-BUBLRG-CTIA
+    [price] => 4697
+    [price_small] => 5429
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Купол BOSCH VGA-BUBLRG-CTIA, выполненный из прочного поликарбоната, предназначен для надежной защиты видеокамер серии AUTODOME 700 от пыли и влаги, что является гарантией их бесперебойной работы в различных условиях. Он сохраняет высокие параметры оптической четкости и обеспечивает максимальную светопропускаемость, что положительно сказывается на качестве изображения.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 158990
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => VGA-BUBLRG-CTIA
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/158990.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/158990/4eef933a73f0e925e09b0625deec4c25.jpg
+                    [alt] => Купол BOSCH VGA-BUBLRG-CTIA
+                    [name] => 4eef933a73f0e925e09b0625deec4c25.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,70 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125606.html
+    [article] => 125606
+    [partnumber] => ATI 5000
+    [category] => Шлагбаумы и автоматика
+    [brand] => CAME
+    [name] => Комплект для ворот CAME ATI 5000
+    [price] => 31920
+    [price_small] => По запросу
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Комплект автоматики CAME ATI5000 для распашных ворот. Имеет широкое применение в коттеджных поселках, на автостоянках с небольшой пропускной способностью, а также в частных домах с большими створками ворот.</p><p>Благодаря современному дизайну электропривод впишется в любые архитектурные решения Вашего дома, а бесшумная система открывания обеспечат комфорт и удобное использование на участке.</p><p>Корпус привода выполнен из алюминия, что обеспечит высокую прочность и надежность.</p><p>Электропривода имеют микровыключатели, регулирующие скорость открывания створок в начале и конце цикла, а также возможность остановки и реверса привода в случае обнаружения препятствия.</p>
+    [complectation] => <ul><li>Два привода A5000A,</li><li>Блок управления ZF1N.</li></ul>
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125606
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => ATI 5000
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => CAME
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125606.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125606/03c8f4897832a6d379e37ba2d99b390a.jpg
+                    [alt] => Комплект для ворот CAME ATI 5000
+                    [name] => 03c8f4897832a6d379e37ba2d99b390a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

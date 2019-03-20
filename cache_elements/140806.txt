@@ -1,0 +1,88 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/140806.html
+    [article] => 140806
+    [partnumber] => WHT465IP-24V
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => Wizebox
+    [name] => Кожух Wizebox WHT465IP-24V
+    [price] => 19931
+    [price_small] => 14875
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Защищает IP телекамеру с фиксированным или вариообъективом от неблагоприятных воздействий окружающей среды в условиях умеренного климата. Уникальные разработки и технологии для защиты от воздействий окружающей среды теперь доступны для защиты IP телекамер.</p>  <p>Специальные технические решения обеспечивают оптимальный температурный режим для IP-телекамер. Термокожухи серии ZOOM могут быть использованы для защиты камер AXIS 211, AXIS 221, Arecont Vision 3130 или аналогичных по размеру камер. Безопасное напряжение питания: 24 В.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Цвет] => Core\Option Object
+                (
+                    [name] => Цвет
+                    [value] => Серый
+                )
+
+            [ Рабочая температура Min] => Core\Option Object
+                (
+                    [name] =>  Рабочая температура Min
+                    [value] => -40 °C
+                )
+
+            [Рабочая температура Max] => Core\Option Object
+                (
+                    [name] => Рабочая температура Max
+                    [value] => 40 °C
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 140806
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => WHT465IP-24V
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => Wizebox
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/140806.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/140806/3e6cab20c6df7fdd709f7bbeed3af826.jpg
+                    [alt] => Кожух Wizebox WHT465IP-24V
+                    [name] => 3e6cab20c6df7fdd709f7bbeed3af826.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

@@ -1,0 +1,77 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/125188.html
+    [article] => 125188
+    [partnumber] => EXPTD035R
+    [category] => Кожухи для видеокамер (Ex)
+    [brand] => VIDEOTEC
+    [name] => Кожух VIDEOTEC EXPTD035R
+    [price] => 802496
+    [price_small] => 810444
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Кожух VIDEOTEC EXPTD035R – прочная конструкция, предназначенная для защиты поворотных камер. Корпус поставляется в комплекте с поворотным устройстваом, позволяющим менять угол наклона оборудования и вращать его вокруг своей оси. Внутри термокожуха располагается тройной обогреватель, поддерживающий постоянную температуру для защиты техники от морозов.</p>
+<p>Усиленная конструкция устойчива к взрывам и воздействию агрессивных сред. Модель оснащена защитным устройстваом для стекла, также ей не страшно возникновение коррозии. Для подключения блока питания используется кабельный вход, располагающийся в кожухе.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Класс защиты] => Core\Option Object
+                (
+                    [name] => Класс защиты
+                    [value] => IP66
+                )
+
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 125188
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => EXPTD035R
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => VIDEOTEC
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/125188.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/125188/2a41861910da36e403d0cd5af3b770d1.jpg
+                    [alt] => Кожух VIDEOTEC EXPTD035R
+                    [name] => 2a41861910da36e403d0cd5af3b770d1.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)

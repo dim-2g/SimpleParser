@@ -1,0 +1,71 @@
+Core\Product Object
+(
+    [remote_url] => https://www.born-spb.ru//catalog/159052.html
+    [article] => 159052
+    [partnumber] => FNM-420V-A-WH
+    [category] => Адресные системы пожарной сигнализации
+    [brand] => BOSCH
+    [name] => Оповещатель BOSCH FNM-420V-A-WH
+    [price] => 10471
+    [price_small] => 11028
+    [currency] => Руб.
+    [available] => В наличии
+    [warranty] => 12 месяцев
+    [description] => <p>Оповещатель BOSCH FNM-420V-A-WH предназначен для трансляции голосовых сообщений, сигналов тревоги и музыкальных программ. Он оснащен встроенным стабилизатором, обеспечивающим непрерывную работу системы при обрыве линии, возникновении коротких замыканий, скачков тока.</p>
+<p>Модель находит применение в помещениях и транспорте. Настройка параметров осуществляется через панель управления.</p>
+    [complectation] => 
+    [options] => Array
+        (
+            [Артикул] => Core\Option Object
+                (
+                    [name] => Артикул
+                    [value] => 159052
+                )
+
+            [Инструкция] => Core\Option Object
+                (
+                    [name] => Инструкция
+                    [value] => В комплекте
+                )
+
+            [Партнамбер] => Core\Option Object
+                (
+                    [name] => Партнамбер
+                    [value] => FNM-420V-A-WH
+                )
+
+            [Производитель] => Core\Option Object
+                (
+                    [name] => Производитель
+                    [value] => BOSCH
+                )
+
+            [Страна производства] => Core\Option Object
+                (
+                    [name] => Страна производства
+                    [value] => Китай
+                )
+
+        )
+
+    [images] => Array
+        (
+            [0] => Core\Image Object
+                (
+                    [remote_path] => https://www.born-spb.ru/components/com_jshopping/files/img_products/159052.jpg
+                    [local_path] => /home/dimon/sites/unitss/images/159052/c5d974dfe6cfbf177e5f9c3588a1433a.jpg
+                    [alt] => Оповещатель BOSCH FNM-420V-A-WH
+                    [name] => c5d974dfe6cfbf177e5f9c3588a1433a.jpg
+                )
+
+        )
+
+    [root] => /home/dimon/sites/unitss
+    [cache_path] => /home/dimon/sites/unitss/cache_elements
+    [log] => Core\Logger Object
+        (
+            [file] => /home/dimon/sites/unitss/logs/product.txt
+            [root] => /home/dimon/sites/unitss
+        )
+
+)
