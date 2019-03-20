@@ -6,6 +6,7 @@ use Core\Product;
 use Core\Logger;
 use Core\Image;
 use Core\Option;
+use Core\Utils;
 
 class SimpleParser
 {
@@ -60,7 +61,7 @@ class SimpleParser
 
     function __construct()
     {
-        $this->remote_host = '';
+        $this->remote_host = 'https://www.domain.ltd/';
         $this->root = dirname(__DIR__);
         $this->cache_path = $this->root . '/cache';
         $this->images_path = $this->root . '/images';
@@ -218,7 +219,7 @@ class SimpleParser
         $this->createDirectories($image->local_path);
         $responseImageContent = $this->getContent($image->remote_path);
         if ($responseImageContent['success'] && !empty($responseImageContent['content'])) {
-            file_put_contents($image->local_path, $responseImageContent['content']);
+            Utils::file_put_contents_force($image->local_path, $responseImageContent['content']);
             return true;
         }
         return false;
@@ -278,7 +279,7 @@ class SimpleParser
         if (!file_exists($sCacheFilename)) {
             $response = $this->getContent($url);
             if ($response['success']) {
-                file_put_contents($sCacheFilename, $response['content']);
+                Utils::file_put_contents_force($sCacheFilename, $response['content']);
             }
             return $response['content'];
         } else {
